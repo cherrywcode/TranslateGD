@@ -1,6 +1,544 @@
 {
   "Layers": [
     [
+      "Stereo Madness",
+      "Locura Estereo"
+    ],
+    [
+      "Back On Track",
+      "Vuelta A La Pista"
+    ],
+    [
+      "Polargeist",
+      "Polarnormal"
+    ],
+    [
+      "Dry Out",
+      "Desintoxicante"
+    ],
+    [
+      "Base After Base",
+      "Base Tras Base"
+    ],
+    [
+      "Cant Let Go",
+      "No Puedo Dejar Ir"
+    ],
+    [
+      "Jumper",
+      "Saltador"
+    ],
+    [
+      "Time Machine",
+      "Maquina Del Timepo"
+    ],
+    [
+      "Cycles",
+      "Ciclos"
+    ],
+    [
+      "xStep",
+      "Paso X"
+    ],
+    [
+      "Clutterfunk",
+      "Caosfunk"
+    ],
+    [
+      "Theory of Everything",
+      "La Teoria del Todo I"
+    ],
+    [
+      "Electroman Adventures",
+      "Aventuras Electromagneticas"
+    ],
+    [
+      "Clubstep",
+      "Clubetapa"
+    ],
+    [
+      "Electrodynamix",
+      "Electrodinamico"
+    ],
+    [
+      "Hexagon Force",
+      "Fuerza Hexagonal"
+    ],
+    [
+      "Blast Processing",
+      "Procesado Explosivo"
+    ],
+    [
+      "Theory of Everything 2",
+      "La Teoria del Todo II"
+    ],
+    [
+      "Geometrical Dominator",
+      "Dominador Geometrico"
+    ],
+    [
+      "Deadlocked",
+      "Muerte Bloqueada"
+    ],
+    [
+      "Fingerdash",
+      "Guion del Dedo"
+    ],
+    [
+      "Dash",
+      "Estrellarse"
+    ],
+    [
+      "Stay Inside Me",
+      "Quedate dentro de mi"
+    ],
+    [
+      "The Sewers",
+      "Las Alcantarillas"
+    ],
+    [
+      "The Cellar",
+      "La Bodega"
+    ],
+    [
+      "The Secret Holow",
+      "El Vacio Secreto"
+    ],
+    [
+      "Download the soundtrack",
+      "Descarga las canciones aqui!"
+    ],
+    [
+      "Soundtrack",
+      "Banda sonora"
+    ],
+    [
+      "Normal Mode",
+      "Modo Normal"
+    ],
+    [
+      "Practice Mode",
+      "Modo Practica"
+    ],
+    [
+      "Coming Soon!",
+      "Proximamente!"
+    ],
+    [
+      "Explode",
+      "Explotar"
+    ],
+    [
+      "My Levels",
+      "Mis Niveles"
+    ],
+    [
+      "My Lists",
+      "Mis Listas"
+    ],
+    [
+      "My List",
+      "Mi Lista"
+    ],
+    [
+      "My Online Levels",
+      "Mis Niveles en Linea"
+    ],
+    [
+      "My Online Lists",
+      "Mis Listas en Linea"
+    ],
+    [
+      "Saved Levels",
+      "Niveles Guardados"
+    ],
+    [
+      "Online Levels",
+      "Niveles En Linea"
+    ],
+    [
+      "Online List",
+      "Lista en Linea"
+    ],
+    [
+      "Online Lists",
+      "Listas en Linea"
+    ],
+    [
+      "All",
+      "Todos"
+    ],
+    [
+      "Tap <cg>New</c> to create a <cl>list</c>!",
+      "Presiona <cg>Nuevo</c> para crear una <cl>lista</c>!"
+    ],
+    [
+      "Tap <cg>New</c> to create a <cl>level</c>!",
+      "Presiona <cg>Nuevo</c> para crear un <cl>nivel</c>!"
+    ],
+    [
+      "Update",
+      "Actualizado"
+    ],
+    [
+      "Get It",
+      "Conseguir"
+    ],
+    [
+      "Go To Page",
+      "Ir a"
+    ],
+    [
+      "RobTop Games",
+      "Juegos de RobTop"
+    ],
+    [
+      "Unverified",
+      "No Verificado"
+    ],
+    [
+      "Uploaded",
+      "Subido"
+    ],
+    [
+      "Tiny",
+      "Diminuto"
+    ],
+    [
+      "Short",
+      "Corto"
+    ],
+    [
+      "Long",
+      "Largo"
+    ],
+    [
+      "XL",
+      "Alargado"
+    ],
+    [
+      "Plat.",
+      "Plat."
+    ],
+    [
+      "years",
+      "ayeres"
+    ],
+    [
+      "%s ago",
+      "hace %s"
+    ],
+    [
+      "By %s",
+      "De %s"
+    ],
+    [
+      "By: %s",
+      "De: %s"
+    ],
+    [
+      "%s's comments",
+      "Comentarios de %s"
+    ],
+    [
+      "SongID: %i",
+      "Cancion ID: %i"
+    ],
+    [
+      "SongID: %i  Size: %.%%MB",
+      "Cancion ID: %i  Peso: %.%%MB"
+    ],
+    [
+      "ID: %i  Size: %s",
+      "ID: %i  Peso: %s"
+    ],
+    [
+      "Songs: %i  SFX: %i  Size: %s",
+      "Canciones: %i  Efectos: %i  Peso: %s"
+    ],
+    [
+      "ID: %i  Size: %.01fMB",
+      "ID: %i  Peso: %.01fMB"
+    ],
+    [
+      "ID: %i  Size: %.01fMB (%is)",
+      "ID: %i  Peso: %.01fMB (%is)"
+    ],
+    [
+      "%s Library Version %i. Song Count: %i",
+      "%s Libreria Version %i. Canciones Totales: %i"
+    ],
+    [
+      "Font %i",
+      "Fuente %i"
+    ],
+    [
+      "Length: %imin %is (%s)",
+      "Longitud: %imin %is (%s)"
+    ],
+    [
+      "Length: %i seconds (%s)",
+      "Longitud: %i seconds (%s)"
+    ],
+    [
+      "2-Player Mode",
+      "Modo 2 Jugadores"
+    ],
+    [
+      "2-Player",
+      "2 Jugadores."
+    ],
+    [
+      "2-player",
+      "2 Jugadores."
+    ],
+    [
+      "10 to 20.",
+      "10 a 20"
+    ],
+    [
+      "Level Name",
+      "Nombre del Nivel"
+    ],
+    [
+      "Description [Optional]",
+      "Descripcion [Opcional]"
+    ],
+    [
+      "Friends",
+      "Amigos"
+    ],
+    [
+      "Global",
+      "Mundo"
+    ],
+    [
+      "Creators",
+      "Creadores"
+    ],
+    [
+      "Me",
+      "Yo"
+    ],
+    [
+      "Gauntlets",
+      "Manoplas"
+    ],
+    [
+      "Reward",
+      "Recompensa"
+    ],
+    [
+      "Enter a level, user or id",
+      "Poner el Nivel, Usuario or ID"
+    ],
+    [
+      "Enter a list or id",
+      "Poner Lista o ID"
+    ],
+    [
+      "Downloads",
+      "Descargas"
+    ],
+    [
+      "Likes",
+      "Me Gustas"
+    ],
+    [
+      "Sent",
+      "Enviado"
+    ],
+    [
+      "Trending",
+      "Viral"
+    ],
+    [
+      "Recent",
+      "Reciente"
+    ],
+    [
+      "Magic",
+      "Magico"
+    ],
+    [
+      "Awarded",
+      "Premiado"
+    ],
+    [
+      "Followed",
+      "Seguido"
+    ],
+    [
+      "Quick Search",
+      "Busqueda Rapida"
+    ],
+    [
+      "Filters",
+      "Filtros"
+    ],
+    [
+      "The Tower",
+      "La Torre"
+    ],
+    [
+      "Music Credits",
+      "Creditos Musicales"
+    ],
+    [
+      "Open",
+      "Abrir"
+    ],
+    [
+      "Level Stats",
+      "Estadisticas del Nivel"
+    ],
+    [
+      "Attempts: %i",
+      "Intentos: %i"
+    ],
+    [
+      "Jumps: %i",
+      "Saltos: %i"
+    ],
+    [
+      "Time: %s",
+      "Tiempo: %s"
+    ],
+    [
+      "Attempt %i",
+      "Intento %i"
+    ],
+    [
+      "<cj>Leaderboard</c>: %i%%",
+      "<cj>Tabla de clasificacion</c>: %i%%"
+    ],
+    [
+      "<cg>Total Attempts</c>: %i",
+      "<cg>Intentos Totales</c>: %i"
+    ],
+    [
+      "<cl>Total Jumps</c>: %i",
+      "<cl>Saltos Totales</c>: %i"
+    ],
+    [
+      "<cp>Normal</c>: %i%%",
+      "<cp>Normal</c>: %i%%"
+    ],
+    [
+      "<co>Practice</c>: %i%%",
+      "<co>Practica</c>: %i%%"
+    ],
+    [
+      "Go!",
+      "Vamos!"
+    ],
+    [
+      "<cy>%i</c>",
+      "<cy>%i</c>"
+    ],
+    [
+      "%i to %i of %i",
+      "%i a %i de %i"
+    ],
+    [
+      "1 to %i of %i",
+      "1 a %i de %i"
+    ],
+    [
+      "1 to 10 of %i",
+      "1 a 10 de %i"
+    ],
+    [
+      "1 to 20 of %i",
+      "1 a 20 de %i"
+    ],
+    [
+      "Report Level",
+      "Reportar Nivel"
+    ],
+    [
+      "Do you want to <cr>report</c> this level for breaking the <cg>upload guidelines</c> found in the editor? Valid reasons include hateful, abusive, or otherwise inappropriate content, as well as hacks, cheats, or exploits.",
+      "Quieres <cr>denunciar</c> este nivel por <cg>Infrigir las Normas</c> de subida del Editor? Entre razones validas se incluyen contenido de odio, abusivo o inapropiado, asi tal cual como hacks, trampas o exploits."
+    ],
+    [
+      "Resume",
+      "Reanudar"
+    ],
+    [
+      "Save and Play",
+      "Guardar y jugar"
+    ],
+    [
+      "Save and Exit",
+      "Guardar y salir"
+    ],
+    [
+      " (high)",
+      " (alto)"
+    ],
+    [
+      ", Songs: %i, SFX: %i",
+      ", Canciones: %i, SFX: %i"
+    ],
+    [
+      " (Read-Only)",
+      " (Solo lectura)"
+    ],
+    [
+      "Show Hitboxes",
+      "Mostrar Hitboxes"
+    ],
+    [
+      "Hide Invisible",
+      "Ocultar Invisible"
+    ],
+    [
+      "Preview Mode",
+      "Modo de Vista Previa"
+    ],
+    [
+      "Preview Animations",
+      "Animaciones de Vista Previa"
+    ],
+    [
+      "Preview Particles",
+      "Particulas de Vista Previa"
+    ],
+    [
+      "Preview Shaders",
+      "Shaders de Vista Previa"
+    ],
+    [
+      "Show Ground",
+      "Mostrar Suelo"
+    ],
+    [
+      "Show Object Info",
+      "Mostrar Informacion de los Objectos"
+    ],
+    [
+      "Show Grid",
+      "Mostrar Cuadricula"
+    ],
+    [
+      "Select Filter",
+      "Seleccionar Filtro"
+    ],
+    [
+      "Ignore Damage",
+      "Ignorar Lesiones"
+    ],
+    [
+      "Hold to Dash",
+      "Hold to Dash"
+    ],
+    [
+      "I see you have a lot of <cl>orbs</c>. You should visit my <cy>shop</c>!",
+      "I see you have a lot of <cl>orbs</c>. You should visit my <cy>shop</c>!"
+    ]
+  ],
+  "Popups": [
+    [
       "Account",
       "Cuenta"
     ],
@@ -38,7 +576,7 @@
     ],
     [
       "Menu\\Music",
-      "Musicadel Menu"
+      "Musica\\del Menu"
     ],
     [
       "Save",
@@ -54,127 +592,127 @@
     ],
     [
       "Linked to account: %s",
-      "Cuenta vinculada s"
+      "Cuenta vinculada: %s"
     ],
     [
       "Not logged in",
-      "Sesion no iniciada"
+      "Not logged in"
     ],
     [
       "Create an account to back up",
-      "Crea una cuenta para respaldar"
+      "Create an account to back up"
     ],
     [
       "and load your data from the cloud",
-      "y cargar tus datos desde la nube"
+      "and load your data from the cloud"
     ],
     [
       "Log in",
-      "Iniciar sesion"
+      "Log in"
     ],
     [
       "Register",
-      "Registrarse"
+      "Register"
     ],
     [
       "Register Account",
-      "Registrar Cuenta"
+      "Register Account"
     ],
     [
       "Username: (shown to other players)",
-      "Usuario visible para otros jugadores"
+      "Username: (shown to other players)"
     ],
     [
       "Password:",
-      "Contrasena"
+      "Password:"
     ],
     [
       "Confirm Password:",
-      "Confirmar Contrasena"
+      "Confirm Password:"
     ],
     [
       "Verify Email:",
-      "Verificar Correo"
+      "Verify Email:"
     ],
     [
       "Username",
-      "Usuario"
+      "Username"
     ],
     [
       "Password",
-      "Contrasena"
+      "Password"
     ],
     [
       "Corfirm Password",
-      "Confirmar Contrasena"
+      "Corfirm Password"
     ],
     [
       "Too short. Minimum 3 characters",
-      "Muy corto Minimo 3 caracteres"
+      "Too short. Minimum 3 characters"
     ],
     [
       "Too short. Minimum 6 characters",
-      "Muy corto Minimo 6 caracteres"
+      "Too short. Minimum 6 characters"
     ],
     [
       "Password do not match",
-      "Las contrasenas no coinciden"
+      "Password do not match"
     ],
     [
       "Email is invalid",
-      "Correo invalido"
+      "Email is invalid"
     ],
     [
       "Email do not match",
-      "Los correos no coinciden"
+      "Email do not match"
     ],
     [
       "Username is already in use",
-      "El nombre de usuario ya esta en uso"
+      "Username is already in use"
     ],
     [
       "Login",
-      "Entrar"
+      "Login"
     ],
     [
       "Forgot Username",
-      "Olvide mi usuario"
+      "Forgot Username"
     ],
     [
       "Forgot Password",
-      "Olvide mi contrasena"
+      "Forgot Password"
     ],
     [
       "Login failed",
-      "Error al entrar"
+      "Login failed"
     ],
     [
       "Create",
-      "Crear"
+      "Create"
     ],
     [
       "Thank you for registering.",
-      "Gracias por registrarte"
+      "Thank you for registering."
     ],
     [
       "A confirmation email has been sent to your inbox <cy>cherrywcode@gmail.com</c>.",
-      "Se ha enviado un correo de confirmacion a tu bandeja de entrada"
+      "A confirmation email has been sent to your inbox <cy>cherrywcode@gmail.com</c>."
     ],
     [
       "Please <cg>activate</c> your account.",
-      "Por favor activa tu cuenta"
+      "Please <cg>activate</c> your account."
     ],
     [
       "Login Success",
-      "Sesion iniciada"
+      "Login Success"
     ],
     [
       "Thank you for logging in.",
-      "Gracias por entrar"
+      "Thank you for logging in."
     ],
     [
       "You have now linked your account:",
-      "Has vinculado tu cuenta"
+      "You have now linked your account:"
     ],
     [
       "Save Data",
@@ -182,11 +720,11 @@
     ],
     [
       "Do you want to <cg>save</c> your account data \\on the <cl>cloud</c>?\\<cy>This will overwrite previously saved data.</c>",
-      "Quieres guardar la informacion de tu cuenta en la nubeEsto remplazara los datos anteriores guardada"
+      "Quieres <cg>guardar</c> la informacion de tu cuenta en la <cl>nube</c>?\\<cy>Esto remplazara los datos anteriores guardada.</c>"
     ],
     [
       "Sync failed. Please try again later.",
-      "Sincronizacion FalladaIntentalo mas tarde"
+      "Sincronizacion Fallada\\Intentalo mas tarde."
     ],
     [
       "Load Data",
@@ -194,11 +732,11 @@
     ],
     [
       "Do you want to <cg>download</c> your account data from the <cl>cloud</c>?\\<cy>This will merge current data with the saved data.</c>",
-      "Quieres cargar los datos de tu cuenta que esta en la nubeEsto remplazara tus datos actuales"
+      "Quieres <cg>cargar</c> los datos de tu cuenta que esta en la <cl>nube</c>?\\<cy>Esto remplazara tus datos actuales.</c>"
     ],
     [
       "Backup failed. Please try again later.\\%s",
-      "Respaldo fallada Intentalo mas tardes"
+      "Respaldo fallada. Intentalo mas tarde.\\%s"
     ],
     [
       "Account Help",
@@ -218,7 +756,7 @@
     ],
     [
       "Open the account management page?",
-      "Abrir el navegador para administrar tu cuenta"
+      "Abrir el navegador para administrar tu cuenta?"
     ],
     [
       "Unlink Account",
@@ -226,7 +764,7 @@
     ],
     [
       "Are you sure you want to <cg>unlink</c> from the account <cl>%s</c>?\\<cy>Unlinking will delete all data from this device.</c>",
-      "Estas seguro de querer cerrar sesion de la cuenta sCerrar sesion eliminara todos los datos en este dispositivo"
+      "Estas seguro de querer <cg>cerrar sesion</c> de la cuenta <cl>%s<c/>?\\<cy>Cerrar sesion eliminara todos los datos en este dispositivo.</c>"
     ],
     [
       "Unlink",
@@ -234,43 +772,43 @@
     ],
     [
       "<cg>Hold</c> down to keep jumping.",
-      "Manten presionado para seguir saltando"
+      "<cg>Manten presionado</c> para seguir saltando."
     ],
     [
       "<cg>Tap</c> the screen to jump.",
-      "Toca la pantalla para saltar"
+      "<cg>Toca</c> la pantalla para saltar."
     ],
     [
       "<cg>Hold</c> to fly up.",
-      "Presiona para volar hacia arriba"
+      "<cg>Presiona</c> para volar hacia arriba."
     ],
     [
       "<cg>Release</c> to fly down.",
-      "Suelte para volar hacia abajo"
+      "<cg>Suelte</c> para volar hacia abajo."
     ],
     [
       "You can enter <cl>practice mode</c> from the pause menu.",
-      "Puede ingresar al modo de practica desde el menu de pausa"
+      "Puede ingresar al <cl>modo de practica</c> desde el menu de pausa."
     ],
     [
       "Practice mode lets you place <cg>checkpoints</c>.",
-      "El modo de practica te permite colocar puntos de control"
+      "El modo de practica te permite colocar <cg>puntos de control</c>."
     ],
     [
       "You can place checkpoints manually, or use the auto-checkpoint feature.",
-      "Puedes colocar puntos de control manualmente o utilizar la funcion de puntos de control automaticos"
+      "Puedes colocar puntos de control manualmente o utilizar la funcion de puntos de control automaticos."
     ],
     [
       "Tap the delete button to remove your last checkpoint.",
-      "Toque el boton Eliminar para eliminar su ultimo punto de control"
+      "Toque el boton Eliminar para eliminar su ultimo punto de control."
     ],
     [
       "<cy>Jump Orbs</c> activate when you are on top of them.",
-      "Los Orbes de salto se activa cuando estas encima de ellos"
+      "Los <cy>Orbes de salto</c> se activa cuando estas encima de ellos."
     ],
     [
       "<cg>Tap</c> while touching an orb to interact with it and use its effect.",
-      "Toca mientras tocas un orbe para interactuar con el y usar su efecto"
+      "<cg>Toca</c> mientras tocas un orbe para interactuar con el y usar su efecto."
     ],
     [
       "Next",
@@ -294,7 +832,7 @@
     ],
     [
       "Auto-Retry",
-      "ReintentoAutomatico"
+      "Reintento\\Automatico"
     ],
     [
       "Enable Faster Reset",
@@ -302,7 +840,7 @@
     ],
     [
       "Show Cursor In-Game",
-      "Mostrar Cursor EnJuego"
+      "Mostrar Cursor En-Juego"
     ],
     [
       "Performance",
@@ -310,7 +848,7 @@
     ],
     [
       "Music Offset (MS)",
-      "Desfase de lamusica MS"
+      "Desfase de la\\musica (MS)\\\\\\"
     ],
     [
       "Offset",
@@ -322,11 +860,11 @@
     ],
     [
       "Change Custom Songs\\Location",
-      "Cambiar Localizacion DeCanciones Personalizadas"
+      "Cambiar Localizacion De\\Canciones Personalizadas"
     ],
     [
       "Disable Song Alert",
-      "Desactivar alerta decancion"
+      "Desactivar alerta de\\cancion"
     ],
     [
       "Other",
@@ -338,15 +876,15 @@
     ],
     [
       "Disable Comments",
-      "Desactivar comentariosen los niveles"
+      "Desactivar comentarios\\en los niveles"
     ],
     [
       "Disable Account\\Comments",
-      "Desactivar comentariosde las cuentas"
+      "Desactivar comentarios\\de las cuentas"
     ],
     [
       "Only Allow\\Featured Levels",
-      "Mostrar solo iveles destacados"
+      "Mostrar solo\\niveles destacados"
     ],
     [
       "Video Options",
@@ -430,7 +968,7 @@
     ],
     [
       "By %s",
-      "De s"
+      "De %s"
     ],
     [
       "Download Soundtrack",
@@ -438,7 +976,7 @@
     ],
     [
       "More By %s",
-      "Mas De s"
+      "Mas De %s"
     ],
     [
       "Support",
@@ -462,7 +1000,7 @@
     ],
     [
       "FMOD Studio by Firelight Technologies Pty Ltd.",
-      "FMOD Studio de Firelight Technologies Pty Ltd"
+      "FMOD Studio de Firelight Technologies Pty Ltd."
     ],
     [
       "Low Detail Mode",
@@ -474,7 +1012,7 @@
     ],
     [
       "Failed. Nothing found.",
-      "Cancelado No se encontro"
+      "Cancelado. No se encontro."
     ],
     [
       "Send Email",
@@ -490,15 +1028,15 @@
     ],
     [
       "Editor Guide",
-      "Guia del Editor Ingles"
+      "Guia del Editor (Ingles)"
     ],
     [
       "Rating System",
-      "Sistema de Valoracion Ingles"
+      "Sistema de Valoracion (Ingles)"
     ],
     [
       "Leaderboards",
-      "Tabla de Clasificacion Ingles"
+      "Tabla de Clasificacion (Ingles)"
     ],
     [
       "Editor Guide (Spanish)",
@@ -514,15 +1052,15 @@
     ],
     [
       "Editor Guide (Russian)",
-      "Guia del Editor Ruso"
+      "Guia del Editor (Ruso)"
     ],
     [
       "Rating System (Russian)",
-      "Sistema de Valoracion Ruso"
+      "Sistema de Valoracion (Ruso)"
     ],
     [
       "Leaderboards (Russian)",
-      "Tabla de Clasificacion Ruso"
+      "Tabla de Clasificacion (Ruso)"
     ],
     [
       "SFX Library Credits",
@@ -530,11 +1068,11 @@
     ],
     [
       "Loading...",
-      "Cargando"
+      "Cargando..."
     ],
     [
       "<cj>Leaderboard</c>: %i%%",
-      "Tablas de Clasificacion i"
+      "<cj>Tablas de Clasificacion</c>: %i%%"
     ],
     [
       "Level Leaderboards",
@@ -542,7 +1080,7 @@
     ],
     [
       " Leaderboard",
-      "Tablas de Clasificacion"
+      " Tablas de Clasificacion"
     ],
     [
       "Audio Assets",
@@ -550,7 +1088,7 @@
     ],
     [
       "Nothing here yet... sorry :(",
-      "Aun no hay nada aqui Disculpa"
+      "Aun no hay nada aqui.. Disculpa :("
     ],
     [
       "Col1",
@@ -566,11 +1104,11 @@
     ],
     [
       "Main Color %i",
-      "Color Principal i"
+      "Color Principal %i"
     ],
     [
       "Secondary Color %i",
-      "Color Secundario i"
+      "Color Secundario %i"
     ],
     [
       "Cube",
@@ -618,51 +1156,51 @@
     ],
     [
       "Cube %i",
-      "Cubo i"
+      "Cubo %i"
     ],
     [
       "Ship %i",
-      "Nave i"
+      "Nave %i"
     ],
     [
       "Ball %i",
-      "Bola i"
+      "Bola %i"
     ],
     [
       "UFO %i",
-      "OVNI i"
+      "OVNI %i"
     ],
     [
       "Wave %i",
-      "Ola i"
+      "Ola %i"
     ],
     [
       "Robot %i",
-      "Automata i"
+      "Automata %i"
     ],
     [
       "Spider %i",
-      "Tarantula i"
+      "Tarantula %i"
     ],
     [
       "Swing %i",
-      "Columpiar i"
+      "Columpiar %i"
     ],
     [
       "Jetpack %i",
-      "Mochila Propulsora i"
+      "Mochila Propulsora %i"
     ],
     [
       "Ship Fire %i",
-      "Incendio de Nave i"
+      "Incendio de Nave %i"
     ],
     [
       "Death Effect %i",
-      "Efecto de Muerte i"
+      "Efecto de Muerte %i"
     ],
     [
       "This <cg>%s</c> is <cl>unlocked</c> by default.",
-      "Este s esta desbloqueado por predeterminado"
+      "Este <cg>%s</c> esta <cl>desbloqueado</c> por predeterminado."
     ],
     [
       "Buy Item",
@@ -682,11 +1220,11 @@
     ],
     [
       "Follow RobTop Games!",
-      "Sigue a RobTop Games"
+      "Sigue a RobTop Games!"
     ],
     [
       "Earn rewards!",
-      "Gana recompensas"
+      "Gana recompensas!"
     ],
     [
       "Achievements",
@@ -698,83 +1236,83 @@
     ],
     [
       "Total Jumps:",
-      "Saltos totales"
+      "Saltos totales:"
     ],
     [
       "Total Attempts:",
-      "Intentos totales"
+      "Intentos totales:"
     ],
     [
       "Pratice:",
-      "Practica"
+      "Practica:"
     ],
     [
       "Collected Stars:",
-      "Estrellas obtenidas"
+      "Estrellas obtenidas:"
     ],
     [
       "Collected Diamonds:",
-      "Diamantes obtenidos"
+      "Diamantes obtenidos:"
     ],
     [
       "Total orbs collected:",
-      "Orbes obtenidas"
+      "Orbes obtenidas:"
     ],
     [
       "Completed Levels:",
-      "Niveles Completados"
+      "Niveles Completados:"
     ],
     [
       "Completed Online Levels:",
-      "Niveles en Linea Completados"
+      "Niveles en Linea Completados:"
     ],
     [
       "Completed Insane Levels:",
-      "Niveles en Linea Completados"
+      "Niveles en Linea Completados:"
     ],
     [
       "Completed Daily Levels:",
-      "Niveles Diarios Completados"
+      "Niveles Diarios Completados:"
     ],
     [
       "Completed Demon Levels:",
-      "Niveles Demon Completados"
+      "Niveles Demon Completados:"
     ],
     [
       "Completed Map Packs:",
-      "Paquetes de Mapas Completados"
+      "Paquetes de Mapas Completados:"
     ],
     [
       "Completed Gauntlets:",
-      "Manoplas Completados"
+      "Manoplas Completados:"
     ],
     [
       "Collected Secret Coins:",
-      "Monedas Secretas Obtenidas"
+      "Monedas Secretas Obtenidas:"
     ],
     [
       "Collected User Coins:",
-      "Monedas de Usuario Obtenidas"
+      "Monedas de Usuario Obtenidas:"
     ],
     [
       "Liked/Disliked Levels:",
-      "Me gustaNo me gusta en Niveles"
+      "Me gusta/No me gusta en Niveles:"
     ],
     [
       "Rated Levels:",
-      "Niveles Valorados"
+      "Niveles Valorados:"
     ],
     [
       "Collected List Rewards:",
-      "Recompensa de la Lista Recopilada"
+      "Recompensa de la Lista Recopilada:"
     ],
     [
       "Players destroyed:",
-      "Jugadores Destruidos"
+      "Jugadores Destruidos:"
     ],
     [
       "Total friends:",
-      "Amigos totales"
+      "Amigos totales:"
     ],
     [
       "Coin Finder",
@@ -814,15 +1352,15 @@
     ],
     [
       "Collect %i Silver Coins.",
-      "Recoge i monedas de plata"
+      "Recoge %i monedas de plata."
     ],
     [
       "Collect %i Mana Orbs.",
-      "Recoge i orbes de mana"
+      "Recoge %i orbes de mana."
     ],
     [
       "Collect %i Stars/Moons.",
-      "Recoge i estrellaslunas"
+      "Recoge %i estrellas/lunas."
     ],
     [
       "Artist Name",
@@ -838,27 +1376,27 @@
     ],
     [
       "My Levels (%i)",
-      "Mis Niveles i"
+      "Mis Niveles (%i)"
     ],
     [
       "Favorite Lists (%i)",
-      "Listas Favoritas i"
+      "Listas Favoritas (%i)"
     ],
     [
       "My Lists (%i)",
-      "Mis Listas i"
+      "Mis Listas (%i)"
     ],
     [
       "Favorite Levels (%i)",
-      "Mis Niveles Favoritos i"
+      "Mis Niveles Favoritos (%i)"
     ],
     [
       "Saved Levels (%i)",
-      "Mis Niveles Guardados i"
+      "Mis Niveles Guardados (%i)"
     ],
     [
       "Online Levels (%i)",
-      "Niveles en Linea i"
+      "Niveles en Linea (%i)"
     ],
     [
       "Favorite Lists",
@@ -870,11 +1408,11 @@
     ],
     [
       "You have not <cg>favorited</c>",
-      "No has agregado nada a favoritos"
+      "No has agregado nada a <cg>favoritos</c>"
     ],
     [
       "any <cl>lists</c> yet!",
-      "Alguna lista todavia"
+      "Alguna <cl>lista</c> todavia?!"
     ],
     [
       "Remove Favorites",
@@ -882,11 +1420,11 @@
     ],
     [
       "Remove all lists from favorites?",
-      "Eliminar todas las listas de Favoritos"
+      "Eliminar todas las listas de Favoritos?"
     ],
     [
       "<cg>Search and folder filters apply.</c>",
-      "Se aplican filtros de busqueda y carpeta"
+      "<cg>Se aplican filtros de busqueda y carpeta.</c>"
     ],
     [
       "Lists",
@@ -894,51 +1432,51 @@
     ],
     [
       "A <co>list</c> may have rewards if it is rated by RobTop. The difficulty face is manually set by the creator of the list.",
-      "Una lista puede tener recompensas si RobTop la califica El nivel de dificultad lo establece manualmente el creador de la lista"
+      "Una <co>lista</c> puede tener recompensas si RobTop la califica. El nivel de dificultad lo establece manualmente el creador de la lista."
     ],
     [
       "Usernames are <cy>gold</c> for registered users and <cg>green</c> for unregistered users. A song is <cl>blue</c> if it is official and <cp>pink</c> if it is custom.",
-      "Los nombres de usuario son dorados para los registrados y verdes para los no registrados Una cancion es azul si es oficial y rosa si es personalizada"
+      "Los nombres de usuario son <cy>dorados</c> para los registrados y <cg>verdes</c> para los no registrados. Una cancion es <cl>azul</c> si es oficial y <cp>rosa</c> si es personalizada."
     ],
     [
       "Platformer: %s",
-      "Plataforma s"
+      "Plataforma: %s"
     ],
     [
       "Classic: %s",
-      "Clasicos s"
+      "Clasicos: %s"
     ],
     [
       "Weekly: %s",
-      "Semanales s"
+      "Semanales: %s"
     ],
     [
       "Gauntlet: %s",
-      "Manoplas s"
+      "Manoplas: %s"
     ],
     [
       "Daily: %s",
-      "Diaros s"
+      "Diaros: %s"
     ],
     [
       "Map: %s",
-      "Mapas s"
+      "Mapas: %s"
     ],
     [
       "(Event)",
-      "Evento"
+      "(Evento)"
     ],
     [
       "(Weekly)",
-      "Semanal"
+      "(Semanal)"
     ],
     [
       "(Daily)",
-      "Diario"
+      "(Diario)"
     ],
     [
       "New %s in: %s",
-      "Nuevo s in s"
+      "Nuevo %s in: %s"
     ],
     [
       "Daily Level",
@@ -958,15 +1496,15 @@
     ],
     [
       "New Daily Level in: %s",
-      "Nuevo Nivel Diario en s"
+      "Nuevo Nivel Diario en: %s"
     ],
     [
       "New Weekly Demon in: %s",
-      "Nuevo Nivel Demonio en s"
+      "Nuevo Nivel Demonio en: %s"
     ],
     [
       "New Event Level in: %s",
-      "Nuevo Nivel Evento en s"
+      "Nuevo Nivel Evento en: %s"
     ],
     [
       "Find Level",
@@ -1014,7 +1552,7 @@
     ],
     [
       "Are you sure you want to <cr>delete</c> this comment?",
-      "Estas seguro de que quieres eliminar este comentario"
+      "Estas seguro de que quieres <cr>eliminar</c> este comentario?"
     ],
     [
       "Delete Comment",
@@ -1030,7 +1568,7 @@
     ],
     [
       "%s's comments",
-      "Comentarios de s"
+      "Comentarios de %s"
     ],
     [
       "Messages",
@@ -1038,23 +1576,27 @@
     ],
     [
       "From:",
-      "De"
+      "De:"
     ],
     [
       "To:",
-      "A"
+      "A:"
     ],
     [
       "Unpublished",
       "No publicado"
     ],
     [
+      "Open",
+      "Abrir"
+    ],
+    [
       "No messages selected.",
-      "No hay mensajes seleccionados"
+      "No hay mensajes seleccionados."
     ],
     [
       "Nothing here...",
-      "No hay nada aqui"
+      "No hay nada aqui..."
     ],
     [
       "Reply",
@@ -1070,7 +1612,7 @@
     ],
     [
       "Are you sure you want to <cl>unblock</c> <cy>%s</c>?",
-      "Estas seguro de que quieres desbloquear a s"
+      "Estas seguro de que quieres <cl>desbloquear</c> a <cy>%s</c>?"
     ],
     [
       "Unblock user",
@@ -1086,31 +1628,31 @@
     ],
     [
       "Are you sure you want to block <cg>%s</c>?",
-      "Estas seguro de que quieres bloquear a s"
+      "Estas seguro de que quieres bloquear a <cg>%s</c>?"
     ],
     [
       "<cg>%s</c> will no longer be able to:",
-      "s ya no podra"
+      "<cg>%s</c> ya no podra:"
     ],
     [
       "- <cy>View your profile</c>",
-      "Ver tu perfil"
+      "- <cy>Ver tu perfil</c>"
     ],
     [
       "- <cl>Send messages</c>",
-      "Enviar mensajes"
+      "- <cl>Enviar mensajes</c>"
     ],
     [
       "- <cp>Send friend requests</c>",
-      "Enviar solicitudes de amistad"
+      "- <cp>Enviar solicitudes de amistad</c>"
     ],
     [
       "- <cr>Messages from this user will be removed</c>",
-      "Los mensajes de este usuario seran eliminados"
+      "- <cr>Los mensajes de este usuario seran eliminados</c>"
     ],
     [
       "Are you sure you want to remove this friend?",
-      "Estas seguro de que deseas eliminar a este amigo"
+      "Estas seguro de que deseas eliminar a este amigo?"
     ],
     [
       "Message",
@@ -1134,7 +1676,7 @@
     ],
     [
       "Do you want to <cr>reset</c> all search <cy>filters</c>?",
-      "Quieres restablecer todos los filtros de busqueda"
+      "Quieres <cr>restablecer</c> todos los <cy>filtros</c> de busqueda?"
     ],
     [
       "Clear Filters",
@@ -1146,11 +1688,11 @@
     ],
     [
       "Are you sure you want to <cr>remove</c> <cy>%s</c> from your friends list?",
-      "Estas seguro de que deseas eliminar a s de tu lista de amigos"
+      "Estas seguro de que deseas <cr>eliminar</c> a <cy>%s</c> de tu lista de amigos?"
     ],
     [
       "Are you sure you want to remove this friend request?",
-      "Estas seguro de que deseas eliminar esta solicitud de amistad"
+      "Estas seguro de que deseas eliminar esta solicitud de amistad?"
     ],
     [
       "Unfriend",
@@ -1158,11 +1700,11 @@
     ],
     [
       "Total friends: %i",
-      "Total de amigos i"
+      "Total de amigos: %i"
     ],
     [
       "Tap on a user to view their profile",
-      "Toca a un usuario para ver su perfil"
+      "Toca a un usuario para ver su perfil."
     ],
     [
       "Nothing found",
@@ -1170,7 +1712,7 @@
     ],
     [
       "Allow messages from:",
-      "Permitir mensajes de"
+      "Permitir mensajes de:"
     ],
     [
       "None",
@@ -1178,83 +1720,83 @@
     ],
     [
       "Allow friend requests from:",
-      "Permitir solicitudes de amistad de"
+      "Permitir solicitudes de amistad de:"
     ],
     [
       "Show Comment History to:",
-      "Mostrar historial de comentarios a"
+      "Mostrar historial de comentarios a:"
     ],
     [
       "For <cr>YouTube</c>, enter your @handle (your unique YouTube username found in your channel URL or account settings).",
-      "Para YouTube ingresa tu Arroba tu nombre de usuario unico de YouTube que se encuentra en la URL de tu canal o en la configuracion de tu cuenta"
+      "Para <cr>YouTube</c>, ingresa tu @Arroba (tu nombre de usuario unico de YouTube que se encuentra en la URL de tu canal o en la configuracion de tu cuenta)."
     ],
     [
       "<cl>Display names do not work.</c>",
-      "Los nombres para mostrar no funcionan"
+      "<cl>Los nombres para mostrar no funcionan.</c>"
     ],
     [
       "You can also use your old channel ID starting with 'UC'.",
-      "Tambien puedes utilizar tu antiguo ID de canal que comienza con UC"
+      "Tambien puedes utilizar tu antiguo ID de canal que comienza con 'UC'."
     ],
     [
       "For <cb>Twitch</c>, input your username, seen at the end of your channel's link (after 'twitch.tv/') or within your profile settings.",
-      "Para Twitch ingresa tu nombre de usuario que aparece al final del enlace de tu canal despues de twitchtv o dentro de la configuracion de tu perfil"
+      "Para <cb>Twitch</c>, ingresa tu nombre de usuario, que aparece al final del enlace de tu canal (despues de 'twitch.tv/') o dentro de la configuracion de tu perfil."
     ],
     [
       "<cl>Note that the display name will not work.</c>",
-      "Tenga en cuenta que el nombre para mostrar no funcionara"
+      "<cl>Tenga en cuenta que el nombre para mostrar no funcionara.</c>"
     ],
     [
       "For <cb>TikTok</c>, input your unique username handle, seen after '@' on your profile or at the end of your channel link (after 'tiktok.com/@').",
-      "Para TikTok ingresa tu nombre de usuario unico que aparece despues de en tu perfil o al final del enlace de tu canal despues de tiktokcom"
+      "Para <cb>TikTok</c>, ingresa tu nombre de usuario unico, que aparece despues de '@' en tu perfil o al final del enlace de tu canal (despues de 'tiktok.com/@')."
     ],
     [
       "This field can be used for a custom, one-time <cg>authentication token</c> generated by a third-party service (such as a mod). Once saved here, the service can link and verify your account.",
-      "Este campo se puede usar para un token de autenticacion personalizado y unico generado por un servicio externo como un moderador Una vez guardado aqui el servicio puede vincular y verificar su cuenta"
+      "Este campo se puede usar para un token de autenticacion personalizado y unico, generado por un servicio externo (como un moderador). Una vez guardado aqui, el servicio puede vincular y verificar su cuenta."
     ],
     [
       "<cr>Do not share any tokens generated for you with other users.</c>",
-      "No compartas ningun token generado para ti con otros usuarios"
+      "<cr>No compartas ningun token generado para ti con otros usuarios.</c>"
     ],
     [
       "For <ca>Twitter</c> (X), input your username handle, seen after '@' on your profile.",
-      "Para Twitter X ingrese su nombre de usuario que aparece despues de en su perfil"
+      "Para <ca>Twitter</c> (X), ingrese su nombre de usuario, que aparece despues de '@' en su perfil."
     ],
     [
       "For <cp>Instagram</c>, input your username, seen on posts or within your settings.",
-      "Para Instagram ingresa tu nombre de usuario que aparece en las publicaciones o en tu configuracion"
+      "Para <cp>Instagram</c>, ingresa tu nombre de usuario, que aparece en las publicaciones o en tu configuracion."
     ],
     [
       "<cl>Note that the display name (at the top of your profile) will not work.</c>",
-      "Tenga en cuenta que el nombre para mostrar en la parte superior de su perfil no funcionara"
+      "<cl>Tenga en cuenta que el nombre para mostrar (en la parte superior de su perfil) no funcionara.</c>"
     ],
     [
       "For <cl>Discord</c>, input your username, seen on your profile info page (button next to your display name). This is also used to tag users with by writing '@' first.",
-      "Para Discord introduce tu nombre de usuario que aparece en la pagina de informacion de tu perfil boton junto a tu nombre para mostrar Esto tambien se usa para etiquetar a los usuarios escribiendo"
+      "Para <cl>Discord</c>, introduce tu nombre de usuario, que aparece en la pagina de informacion de tu perfil (boton junto a tu nombre para mostrar). Esto tambien se usa para etiquetar a los usuarios escribiendo "
     ],
     [
       "Your Discord username is used for account linking and notifications through the Discord bot <co>Rateon</c>.",
-      "Tu nombre de usuario de Discord se utiliza para vincular cuentas y recibir notificaciones a traves del bot de Discord Rateon"
+      "Tu nombre de usuario de Discord se utiliza para vincular cuentas y recibir notificaciones a traves del bot de Discord <co>Rateon</c>."
     ],
     [
       "Updating...",
-      "Actualizando"
+      "Actualizando..."
     ],
     [
       "Account settings updated!",
-      "Configuracion de cuenta actualizada"
+      "Configuracion de cuenta actualizada!"
     ],
     [
       "Discord username...",
-      "Usuario de Discord"
+      "Usuario de Discord..."
     ],
     [
       "Custom:",
-      "Costumbre"
+      "Costumbre:"
     ],
     [
       "custom...",
-      "costumbre"
+      "costumbre..."
     ],
     [
       "Post Update",
@@ -1262,7 +1804,7 @@
     ],
     [
       "%s Requested: <cy>%i</c>",
-      "s Solicitado i"
+      "%s Solicitado: <cy>%i</c>"
     ],
     [
       "Add Comment",
@@ -1278,7 +1820,7 @@
     ],
     [
       "To: ",
-      "A"
+      "A: "
     ],
     [
       "Subject",
@@ -1290,7 +1832,7 @@
     ],
     [
       "Are you sure you want to reset this message?",
-      "Estas seguro que deseas restablecer este mensaje"
+      "Estas seguro que deseas restablecer este mensaje?"
     ],
     [
       "Reset",
@@ -1302,19 +1844,23 @@
     ],
     [
       "Do you want to <cr>delete</c> this <cg>level</c> from the <cl>server</c>?",
-      "Quieres eliminar este nivel del servidor"
+      "Quieres <cr>eliminar</c> este <cg>nivel</c> del <cl>servidor</c>?"
     ],
     [
       "<cy>(Your level will no longer be available online)</c>",
-      "Tu nivel ya no estara disponible en linea"
+      "<cy>(Tu nivel ya no estara disponible en linea)</c>"
+    ],
+    [
+      "Delete",
+      "Eliminar"
     ],
     [
       "<cy>(Creator enabled)</c>",
-      "Creador Activado"
+      "<cy>(Creador Activado)</c>"
     ],
     [
       "Do you want to <cr>delete</c> this song?",
-      "Quieres eliminar esta canciOn"
+      "Quieres <cr>eliminar</c> esta canciOn?"
     ],
     [
       "Buttons Per Row",
@@ -1330,7 +1876,7 @@
     ],
     [
       "Draws the hitbox for touch triggered objects.",
-      "Dibuja el cuadro de impacto para objetos activados por tacto"
+      "Dibuja el cuadro de impacto para objetos activados por tacto."
     ],
     [
       "Playtest Music",
@@ -1338,7 +1884,7 @@
     ],
     [
       "Plays music during playtesting.",
-      "Reproduce musica durante la prueba de juego"
+      "Reproduce musica durante la prueba de juego."
     ],
     [
       "Duration Lines",
@@ -1346,7 +1892,7 @@
     ],
     [
       "Shows a horizontal line for triggers to indicate how long they are active.",
-      "Muestra una linea horizontal para los activadores para indicar cuanto tiempo estan activos"
+      "Muestra una linea horizontal para los activadores para indicar cuanto tiempo estan activos."
     ],
     [
       "Playtest No Grid",
@@ -1354,7 +1900,7 @@
     ],
     [
       "Hides grid during playtesting.",
-      "Oculta la cuadricula durante la prueba de juego"
+      "Oculta la cuadricula durante la prueba de juego."
     ],
     [
       "Enable Link Controls",
@@ -1362,7 +1908,7 @@
     ],
     [
       "Enables option to link objects together in the editor. Linked objects are always selected and deleted together.",
-      "Permite vincular objetos en el editor Los objetos vinculados siempre se seleccionan y eliminan juntos"
+      "Permite vincular objetos en el editor. Los objetos vinculados siempre se seleccionan y eliminan juntos."
     ],
     [
       "Playtest No UI",
@@ -1370,7 +1916,7 @@
     ],
     [
       "Hides part of the editor's user interface during playtesting.",
-      "Oculta parte de la interfaz de usuario del editor durante las pruebas de juego"
+      "Oculta parte de la interfaz de usuario del editor durante las pruebas de juego."
     ],
     [
       "Effect Lines",
@@ -1378,7 +1924,7 @@
     ],
     [
       "Shows a vertical line for triggers to indicate where they are activated.",
-      "Muestra una linea vertical para los disparadores para indicar donde se activan"
+      "Muestra una linea vertical para los disparadores para indicar donde se activan."
     ],
     [
       "Grid On Top",
@@ -1386,7 +1932,7 @@
     ],
     [
       "Shows the grid on top of objects in editor.",
-      "Muestra la cuadricula sobre los objetos en el editor"
+      "Muestra la cuadricula sobre los objetos en el editor."
     ],
     [
       "Hide Background",
@@ -1394,7 +1940,7 @@
     ],
     [
       "Hides background in editor.",
-      "Oculta el fondo en el editor"
+      "Oculta el fondo en el editor."
     ],
     [
       "Hold To Swipe",
@@ -1402,7 +1948,7 @@
     ],
     [
       "Enables swiping after holding down anywhere on the grid for a short duration. Useful when selecting objects without the need to toggle swiping manually.",
-      "Permite deslizar el dedo tras mantener pulsado cualquier punto de la cuadricula durante un breve periodo Resulta util para seleccionar objetos sin necesidad de activar o desactivar el deslizamiento manualmente"
+      "Permite deslizar el dedo tras mantener pulsado cualquier punto de la cuadricula durante un breve periodo. Resulta util para seleccionar objetos sin necesidad de activar o desactivar el deslizamiento manualmente."
     ],
     [
       "Swipe Cycle Mode",
@@ -1410,7 +1956,7 @@
     ],
     [
       "Cycles through touched objects instead of adding to selection when tapping in the same position while swiping is enabled. Useful if you want to select multiple objects that are mixed with other objects.",
-      "Recorre los objetos tocados en lugar de agregarlos a la seleccion al tocar en la misma posicion con el deslizamiento activado Util si desea seleccionar varios objetos mezclados con otros"
+      "Recorre los objetos tocados en lugar de agregarlos a la seleccion al tocar en la misma posicion con el deslizamiento activado. Util si desea seleccionar varios objetos mezclados con otros."
     ],
     [
       "Show Clicks",
@@ -1426,7 +1972,7 @@
     ],
     [
       "Hides the player path from playtesting.",
-      "Oculta la ruta del jugador durante las pruebas de juego"
+      "Oculta la ruta del jugador durante las pruebas de juego."
     ],
     [
       "Hide Particle Icons",
@@ -1434,7 +1980,7 @@
     ],
     [
       "Hides particle icons while preview mode is enabled.",
-      "Oculta los iconos de particulas mientras el modo de vista previa esta habilitado"
+      "Oculta los iconos de particulas mientras el modo de vista previa esta habilitado."
     ],
     [
       "Playtest Smooth Fix",
@@ -1442,7 +1988,7 @@
     ],
     [
       "Enables smooth fix when playtesting in the editor.",
-      "Permite una correccion fluida durante las pruebas de juego en el editor"
+      "Permite una correccion fluida durante las pruebas de juego en el editor."
     ],
     [
       "Disable Paste State Groups",
@@ -1450,7 +1996,7 @@
     ],
     [
       "Makes it so that pasting state no longer updates the group info of the target object(s). Group state can be pasted directly on the edit group page instead.",
-      "Permite que al pegar el estado ya no se actualice la informacion de grupo de los objetos de destino El estado de grupo se puede pegar directamente en la pagina de edicion de grupo"
+      "Permite que al pegar el estado ya no se actualice la informacion de grupo de los objetos de destino. El estado de grupo se puede pegar directamente en la pagina de edicion de grupo."
     ],
     [
       "Layer Locking",
@@ -1458,7 +2004,7 @@
     ],
     [
       "Allows you to click on the editor layer number to lock and unlock a layer.",
-      "Le permite hacer clic en el numero de capa del editor para bloquear y desbloquear una capa"
+      "Le permite hacer clic en el numero de capa del editor para bloquear y desbloquear una capa."
     ],
     [
       "Auto-Pause",
@@ -1466,7 +2012,7 @@
     ],
     [
       "Pauses gameplay when starting from a start position to prepare gameplay. Click a second time to actually start playing. This is used to handle start lag in larger levels.",
-      "Pausa el juego al empezar desde una posicion inicial para prepararlo Haz clic una segunda vez para empezar a jugar Esto se usa para controlar el retraso inicial en niveles mas grandes"
+      "Pausa el juego al empezar desde una posicion inicial para prepararlo. Haz clic una segunda vez para empezar a jugar. Esto se usa para controlar el retraso inicial en niveles mas grandes."
     ],
     [
       "Start Optimization",
@@ -1474,15 +2020,15 @@
     ],
     [
       "Tries to speed up start position loading in editor. Experimental.",
-      "Intenta acelerar la carga de la posicion inicial en el editor Experimental"
+      "Intenta acelerar la carga de la posicion inicial en el editor. Experimental."
     ],
     [
       "Increase Undo/Redo",
-      "Aumentar DeshacerRehacer"
+      "Aumentar Deshacer/Rehacer"
     ],
     [
       "Increases maximum undo and redo limit from 200 to 1000 in editor.",
-      "Aumenta el limite maximo de deshacer y rehacer de 200 a 1000 en el editor"
+      "Aumenta el limite maximo de deshacer y rehacer de 200 a 1000 en el editor."
     ],
     [
       "Increase Scale",
@@ -1490,7 +2036,7 @@
     ],
     [
       "Increases maximum object scale to 4x and minimum scale to 0.25x. Note that objects larger than 6x grid size may disappear near the screen edge. This may be fixed in the future.",
-      "Aumenta la escala maxima del objeto a 4x y la minima a 025x Tenga en cuenta que los objetos con un determinado longitud de cuadricula superior a 6x pueden desaparecer cerca del borde de la pantalla Esto podria solucionarse en el futuro"
+      "Aumenta la escala maxima del objeto a 4x y la minima a 0,25x. Tenga en cuenta que los objetos con un determinado longitud de cuadricula superior a 6x pueden desaparecer cerca del borde de la pantalla. Esto podria solucionarse en el futuro."
     ],
     [
       "Small Warp Buttons",
@@ -1498,7 +2044,7 @@
     ],
     [
       "Warp control buttons are 50% smaller. (Restart editor)",
-      "Los botones de control de deformacion son un 50 mas Dimunutos Reiniciar el editor"
+      "Los botones de control de deformacion son un 50 % mas Dimunutos. (Reiniciar el editor)"
     ],
     [
       "Static Trace Arrows",
@@ -1506,7 +2052,7 @@
     ],
     [
       "Disable the arrows showing directed connections when using Trace In/Out.",
-      "Deshabilite las flechas que muestran conexiones direccionadas al usar Trace EntradaSalida"
+      "Deshabilite las flechas que muestran conexiones direccionadas al usar Trace Entrada/Salida."
     ],
     [
       "Key Bindings",
@@ -1514,7 +2060,7 @@
     ],
     [
       "(Customizing key bindings is not yet supported)",
-      "La personalizacion de teclas aun no esta admitida"
+      "(La personalizacion de teclas aun no esta admitida)"
     ],
     [
       "Gameplay Keys",
@@ -1526,7 +2072,7 @@
     ],
     [
       "Space / Up",
-      "Espacio Arriba"
+      "Espacio / Arriba"
     ],
     [
       "Pause",
@@ -1690,19 +2236,19 @@
     ],
     [
       "Preview Mode On/Off",
-      "Modo Vista Previa activadodesactivado"
+      "Modo Vista Previa activado/desactivado"
     ],
     [
       "Particle Icons On/Off",
-      "Iconos de Particulas activadodesactivado"
+      "Iconos de Particulas activado/desactivado"
     ],
     [
       "Debug Draw On/Off",
-      "Dibujo de depuracion activadodesactivado"
+      "Dibujo de depuracion activado/desactivado"
     ],
     [
       "Hide Invisible On/Off",
-      "Ocultar Invisible activadodesactivado"
+      "Ocultar Invisible activado/desactivado"
     ],
     [
       "Save Editor Pos",
@@ -1718,7 +2264,7 @@
     ],
     [
       "Select Color:",
-      "Optar color"
+      "Optar color:"
     ],
     [
       "Select Color",
@@ -1730,7 +2276,7 @@
     ],
     [
       "Speed:",
-      "Velocidad"
+      "Velocidad:"
     ],
     [
       "Select Speed",
@@ -1738,19 +2284,19 @@
     ],
     [
       "Line:",
-      "Linea"
+      "Linea:"
     ],
     [
       "Mode:",
-      "Modo"
+      "Modo:"
     ],
     [
       "Options:",
-      "Opciones"
+      "Opciones:"
     ],
     [
       "Game Type:",
-      "Tipo de Juego"
+      "Tipo de Juego:"
     ],
     [
       "Classic",
@@ -1778,15 +2324,15 @@
     ],
     [
       "Choose a font that will be used in this level.",
-      "Elija una fuente que se utilizara en este nivel"
+      "Elija una fuente que se utilizara en este nivel."
     ],
     [
       "You can only use one font at a time.",
-      "Solo puedes utilizar una fuente a la vez"
+      "Solo puedes utilizar una fuente a la vez."
     ],
     [
       "Select Song:",
-      "Cancion"
+      "Cancion:"
     ],
     [
       "Custom",
@@ -1802,27 +2348,27 @@
     ],
     [
       "Players are controlled separately.",
-      "Los jugadores se controlan por separado"
+      "Los jugadores se controlan por separado."
     ],
     [
       "<cl>Player 1:</c> Left side",
-      "Jugador 1 Lado izquierdo"
+      "<cl>Jugador 1:</c> Lado izquierdo"
     ],
     [
       "<cg>Player 2:</c> Right side",
-      "Jugador 2 Lado derecho"
+      "<cg>Jugador 2:</c> Lado derecho"
     ],
     [
       "<cy>(You can change the controls in the options menu)</c>",
-      "Puedes cambiar los controles en el menu de opciones"
+      "<cy>(Puedes cambiar los controles en el menu de opciones)</c>"
     ],
     [
       "In platformer mode you automatically lose 1000 points per second. Toggle to disable this penalty.",
-      "En el modo plataformas pierdes automaticamente 1000 puntos por segundo Activa o desactiva esta penalizacion"
+      "En el modo plataformas, pierdes automaticamente 1000 puntos por segundo. Activa o desactiva esta penalizacion."
     ],
     [
       "Spawn Group:",
-      "Grupo Generacion"
+      "Grupo Generacion:"
     ],
     [
       "Spawn Group",
@@ -1830,43 +2376,43 @@
     ],
     [
       "Lets you set a target position for player spawn.",
-      "Le permite establecer una posicion de destino para el surgimiento del jugador"
+      "Le permite establecer una posicion de destino para el surgimiento del jugador."
     ],
     [
       "If the group contains multiple objects a random target will be selected.",
-      "Si el grupo contiene varios objetos se seleccionara un objetivo aleatorio"
+      "Si el grupo contiene varios objetos, se seleccionara un objetivo aleatorio."
     ],
     [
       "Size: %s",
-      "Peso s"
+      "Peso: %s"
     ],
     [
       "Files: %i",
-      "Archivos i"
+      "Archivos: %i"
     ],
     [
       "ID: %i  Size: %",
-      "ID i Peso"
+      "ID: %i  Peso: %"
     ],
     [
       "01fMB (%is)",
-      "01fMB is"
+      "01fMB (%is)"
     ],
     [
       "BPM: %i (%i)",
-      "BPM i i"
+      "BPM: %i (%i)"
     ],
     [
       "SongID: %i  Size: %.02fMB",
-      "CancionID i Peso 02fMB"
+      "CancionID: %i  Peso: %.02fMB"
     ],
     [
       "Songs: %i  SFX: %i  Size: %s",
-      "Canciones i Effectos i Peso s"
+      "Canciones: %i  Effectos: %i  Peso: %s"
     ],
     [
       "ID: %i  Size: %.01fMB",
-      "ID i Peso 01fMB"
+      "ID: %i  Peso: %.01fMB"
     ],
     [
       "Legacy Options",
@@ -1878,7 +2424,7 @@
     ],
     [
       "Allows multiple rotation actions to run on the same target group. This was not possible before 2.2.",
-      "Permite ejecutar multiples acciones de rotacion en el mismo grupo objetivo Esto no era posible antes de la version 22"
+      "Permite ejecutar multiples acciones de rotacion en el mismo grupo objetivo. Esto no era posible antes de la version 2.2."
     ],
     [
       "Allow Static-Rotate",
@@ -1886,7 +2432,7 @@
     ],
     [
       "Allow rotating static objects in actions and animations. There is currently no support for rotating static objects other than 90 degree steps, but use this option to allow it anyway. Hitboxes will not match the art. Can be useful in some cases.",
-      "Permite rotar objetos estaticos en acciones y animaciones Actualmente no se permite rotar objetos estaticos salvo en pasos de 90 grados pero usa esta opcion para habilitarlo Las zonas de impacto no coincidiran con el arte Puede ser util en algunos casos"
+      "Permite rotar objetos estaticos en acciones y animaciones. Actualmente no se permite rotar objetos estaticos, salvo en pasos de 90 grados, pero usa esta opcion para habilitarlo. Las zonas de impacto no coincidiran con el arte. Puede ser util en algunos casos."
     ],
     [
       "Fix Gravity Bug",
@@ -1894,7 +2440,7 @@
     ],
     [
       "Fixes an old bug that makes flipped gravity act differently than normal gravity. Old levels can break with this enabled.",
-      "Corrige un error antiguo que provocaba que la gravedad invertida actuara de forma diferente a la gravedad normal Los niveles antiguos podian fallar con esta opcion activada"
+      "Corrige un error antiguo que provocaba que la gravedad invertida actuara de forma diferente a la gravedad normal. Los niveles antiguos podian fallar con esta opcion activada."
     ],
     [
       "Fix Robot Jump",
@@ -1902,7 +2448,7 @@
     ],
     [
       "Fixes robot jumps being bugged on slopes and/or pads.",
-      "Corrige los errores que provocan los saltos del robot en pendientes yo plataformas"
+      "Corrige los errores que provocan los saltos del robot en pendientes y/o plataformas."
     ],
     [
       "Sort Groups",
@@ -1910,15 +2456,15 @@
     ],
     [
       "Makes sure that spawn groups are triggered in the correct order (left to right).",
-      "Se asegura de que los grupos de generacion se activen en el orden correcto de izquierda a derecha"
+      "Se asegura de que los grupos de generacion se activen en el orden correcto (de izquierda a derecha)."
     ],
     [
       "Enable 2.2 Changes",
-      "Habilitar Cambios 22"
+      "Habilitar Cambios 2.2"
     ],
     [
       "Legacy compatibility pre 2.2. Should be enabled on new levels.",
-      "Compatibilidad con versiones anteriores a la 22 Deberia estar habilitada en los nuevos niveles"
+      "Compatibilidad con versiones anteriores a la 2.2. Deberia estar habilitada en los nuevos niveles."
     ],
     [
       "Enable Player Squeeze",
@@ -1926,7 +2472,7 @@
     ],
     [
       "Destroys player when squeezed between two objects. This is on by default but only for levels after update 2.2 for legacy reasons. Cannot be disabled for platformer levels.",
-      "Destruye al jugador al quedar atrapado entre dos objetos Esta activado por defecto pero solo en niveles posteriores a la actualizacion 22 por razones de legado No se puede desactivar en niveles de plataformas"
+      "Destruye al jugador al quedar atrapado entre dos objetos. Esta activado por defecto, pero solo en niveles posteriores a la actualizacion 2.2 por razones de legado. No se puede desactivar en niveles de plataformas."
     ],
     [
       "Fix Negative Scale",
@@ -1934,7 +2480,7 @@
     ],
     [
       "Makes negative scaled objects collide correctly. Disabled on old levels for compatibility.",
-      "Permite que los objetos con escala negativa colisionen correctamente Desactivado en niveles anteriores por compatibilidad"
+      "Permite que los objetos con escala negativa colisionen correctamente. Desactivado en niveles anteriores por compatibilidad."
     ],
     [
       "Dynamic Level Height",
@@ -1942,7 +2488,7 @@
     ],
     [
       "Increases max level height dynamically (the same way as max length). This option is always enabled in platformer mode.",
-      "Aumenta la altura maxima del nivel dinamicamente igual que la longitud maxima Esta opcion siempre esta activada en el modo plataformas"
+      "Aumenta la altura maxima del nivel dinamicamente (igual que la longitud maxima). Esta opcion siempre esta activada en el modo plataformas."
     ],
     [
       "Fix Radius Collision",
@@ -1950,7 +2496,7 @@
     ],
     [
       "Replaces the player hitbox with a circle (instead of a square) for interactions with circular hitboxes. This fixes some issues where collisions would not register.",
-      "Se reemplaza el hitbox del jugador por un circulo en lugar de un cuadrado para las interacciones con hitboxes circulares Esto soluciona algunos problemas donde las colisiones no se registraban"
+      "Se reemplaza el hitbox del jugador por un circulo (en lugar de un cuadrado) para las interacciones con hitboxes circulares. Esto soluciona algunos problemas donde las colisiones no se registraban."
     ],
     [
       "Reverse Sync",
@@ -1958,7 +2504,7 @@
     ],
     [
       "Slows down or speeds up the player when reversing direction using orb or pads to keep music in sync.",
-      "Disminuye o acelera la velocidad del reproductor al invertir la direccio usando orbes o pads para mantener la musica sincronizada"
+      "Disminuye o acelera la velocidad del reproductor al invertir la direccio usando orbes o pads para mantener la musica sincronizada."
     ],
     [
       "Decrease Boost Slide",
@@ -1966,7 +2512,7 @@
     ],
     [
       "Slide less after dashing or being launched by moving blocks in platformer mode.",
-      "Deslizate menos despues de correr o ser lanzado por bloques en movimiento en el modo de plataformas"
+      "Deslizate menos despues de correr o ser lanzado por bloques en movimiento en el modo de plataformas."
     ],
     [
       "Select Custom song",
@@ -1990,15 +2536,15 @@
     ],
     [
       "1. Find a song on Newgrounds.com",
-      "1 Encuentra canciones en Newgroundscom"
+      "1. Encuentra canciones en Newgrounds.com"
     ],
     [
       "2. Save the song ID",
-      "2 Guarda el ID de la cancion"
+      "2. Guarda el ID de la cancion"
     ],
     [
       "3. Enter the ID in the search box",
-      "3 Ingrese el ID en el cuadro de busqueda"
+      "3. Ingrese el ID en el cuadro de busqueda"
     ],
     [
       "Artists",
@@ -2014,7 +2560,7 @@
     ],
     [
       "Support NG!",
-      "Apoya a NG"
+      "Apoya a NG!"
     ],
     [
       "Music Changes",
@@ -2022,7 +2568,7 @@
     ],
     [
       "Some changes have been made to how <cl>custom music</c> from <cy>Newgrounds.com</c> is handled. Tap the button for more <cg>info</c>.",
-      "Se han realizado algunos cambios en la gestion de la musica personalizada de Newgroundscom Pulsa el boton para obtener mas informacion"
+      "Se han realizado algunos cambios en la gestion de la <cl>musica personalizada</c> de <cy>Newgrounds.com</c>. Pulsa el boton para obtener mas <cg>informacion</c>."
     ],
     [
       "Custom Songs",
@@ -2030,11 +2576,11 @@
     ],
     [
       "Each <cg>song</c> has a <cl>unique ID</c> that can be found on <cy>Newgrounds.com</c>. If a song has the address <cl>www.newgrounds.com/audio/listen/</c><cy>568699</c>,",
-      "Cada cancion tiene un ID unico que se puede encontrar en NewgroundscomSi una cancion tiene la direccion wwwnewgroundscomaudiolisten568699"
+      "Cada <cg>cancion</c> tiene un <cl>ID unico</c> que se puede encontrar en <cy>Newgrounds.com</c>.Si una cancion tiene la direccion <cl>www.newgrounds.com/audio/listen/</c><cy>568699</c>,"
     ],
     [
       "then the song ID is <cy>568699</c>.",
-      "entonces el ID de la cancion es 568699"
+      "entonces el ID de la cancion es <cy>568699</c>."
     ],
     [
       "Loading",
@@ -2046,15 +2592,15 @@
     ],
     [
       "<cr>Delete</c> the current <cl>guidelines</c>?",
-      "Quieres Eliminar el actual Guia de Linea"
+      "Quieres <cr>Eliminar</c> el actual <cl>Guia de Linea</c>?"
     ],
     [
       "- Find the BPM of asong.",
-      "Encuentra el BPM de una cancion"
+      "- Encuentra el BPM de una cancion."
     ],
     [
       "- Tap to the beat.",
-      "Sigue el ritmo con los dedos"
+      "- Sigue el ritmo con los dedos."
     ],
     [
       "Practice",
@@ -2066,11 +2612,11 @@
     ],
     [
       "Music Library is the latest version.",
-      "La biblioteca musical esta en la ultima version"
+      "La biblioteca musical esta en la ultima version."
     ],
     [
       "All NCS catalogue is <cs>copyright free</c>, allowing all content creators to <cs>monetise their content</c> on platforms like YouTube and Twitch!",
-      "Todo el catalogo de NCS esta libre de derechos de autor lo que permite a todos los creadores de contenido monetizar su contenido en plataformas como YouTube y Twitch"
+      "Todo el catalogo de NCS esta <cs>libre de derechos de autor</c>, lo que permite a todos los creadores de contenido <cs>monetizar su contenido</c> en plataformas como YouTube y Twitch!"
     ],
     [
       "Open Library",
@@ -2090,27 +2636,27 @@
     ],
     [
       "- Create guidelines for custom songs.",
-      "Crear pautas para canciones personalizadas"
+      "- Crear pautas para canciones personalizadas."
     ],
     [
       "- Each tap will be shown as a line in the editor.",
-      "Cada toque se mostrara como una linea en el editor"
+      "- Cada toque se mostrara como una linea en el editor."
     ],
     [
       "- Multiple recordings will be merged into one.",
-      "Varias grabaciones se fusionaran en una sola"
+      "- Varias grabaciones se fusionaran en una sola."
     ],
     [
       "- Use the clear button to reset the guidelines.",
-      "Utilice el boton borrar para restablecer las pautas"
+      "- Utilice el boton borrar para restablecer las pautas."
     ],
     [
       "- Tap on the screen to create markers.",
-      "Toque la pantalla para crear marcadores"
+      "- Toque la pantalla para crear marcadores."
     ],
     [
       "- Tap on the stop button to finish.",
-      "Pulse el boton Detener para finalizar"
+      "- Pulse el boton Detener para finalizar."
     ],
     [
       "Clear",
@@ -2130,7 +2676,7 @@
     ],
     [
       "Guidelines can be used to make it easier to syncronize music and gameplay. Create your own custom song guidelines using this interface. Tap on record to start recording, then tap on the screen to create markings. Press on the stop button to stop recording and save your created guidelines.",
-      "Puedes usar guias para facilitar la sincronizacion de musica y juego Crea tus propias guias de canciones con esta interfaz Pulsa"
+      "Puedes usar guias para facilitar la sincronizacion de musica y juego. Crea tus propias guias de canciones con esta interfaz. Pulsa "
     ],
     [
       "Fade in",
@@ -2146,15 +2692,15 @@
     ],
     [
       "<cl>Fade in:</c> Song starts with a fade in.",
-      "Aparecer La cancion comienza con un fundido de entrada"
+      "<cl>Aparecer:</c> La cancion comienza con un fundido de entrada."
     ],
     [
       "<cy>Fade out:</c> Song fades out at the end of the level.",
-      "Ocultar La cancion se desvanece al final del nivel"
+      "<cy>Ocultar:</c> La cancion se desvanece al final del nivel."
     ],
     [
       "<cg>Offset:</c> Change the start time of the song.",
-      "Desplazamiento Cambia la hora de inicio de la cancion"
+      "<cg>Desplazamiento:</c> Cambia la hora de inicio de la cancion."
     ],
     [
       "Downloaded Songs",
@@ -2166,11 +2712,15 @@
     ],
     [
       "- Tap on the screen to the beat.",
-      "Toca la pantalla al ritmo de la musica"
+      "- Toca la pantalla al ritmo de la musica."
+    ],
+    [
+      "- Tap on the stop button to finish.",
+      "- Pulse el boton Detener para finalizar."
     ],
     [
       "- Recording starts on first tap.",
-      "La grabacion comienza con el primer toque"
+      "- La grabacion comienza con el primer toque."
     ],
     [
       "Stop",
@@ -2178,47 +2728,47 @@
     ],
     [
       "You need a <cg>Music Customizer</c> to change menu and practice music.",
-      "Necesitas comprar Musicas Personalizadas para cambiar el Menu y la Musica de Practicar"
+      "Necesitas comprar <cg>Musicas Personalizadas</c> para cambiar el Menu y la Musica de Practicar."
     ],
     [
       "Lucky for you I have one in my <cg>shop</c>.",
-      "Por suerte tengo uno en mi tienda"
+      "Por suerte tengo uno en mi <cg>tienda</c>."
     ],
     [
       "<cl>But they are very expensive.</c>",
-      "Pero son muy caros"
+      "<cl>Pero son muy caros.</c>"
     ],
     [
       "Find me when you can <cy>afford</c> it.",
-      "Encuentrame cuando puedas"
+      "Encuentrame cuando puedas."
     ],
     [
       "I need the <cl>Mana Orbs</c><d030>.<d030>.<d030>.<d030>",
-      "Necesito los Orbes de mana"
+      "Necesito los <cl>Orbes de mana</c><d030>.<d030>.<d030>.<d030>"
     ],
     [
       "All this <cg>clicking</c> makes me want to give you the item for <cy>free</c>!",
-      "Todos estos Clicks me hacen querer darte el articulo gratis"
+      "Todos estos <cg>Clicks</c> me hacen querer darte el articulo <cy>gratis</c>!"
     ],
     [
       ".<d020>.<d020>.<d020> is something I would never say.",
-      "es algo que nunca diria"
+      ".<d020>.<d020>.<d020> es algo que nunca diria."
     ],
     [
       "<cl>You really are persistent, I will give you that.</c>",
-      "Eres realmente persistente te lo concedo"
+      "Eres realmente persistente, te lo concedo."
     ],
     [
       "I am <cp>The Mechanic</c>, not <cr>Santa Claus</c>. I don't work for free.",
-      "Soy El Mecanico no Papi Noel No trabajo gratis"
+      "Soy <cp>El Mecanico</c>, no <cr>Papi Noel</c>. No trabajo gratis."
     ],
     [
       "<cy>Exit</c> without saving? All unsaved changes will be <cr>lost</c>!",
-      "Salir sin guardar Se perderan todos los cambios no guardados"
+      "<cy>Salir</c> sin guardar? Se perderan todos los cambios <cr>no guardados</c>!"
     ],
     [
       "<cy>Save</c> the level?",
-      "Guardar el nivel"
+      "<cy>Guardar</c> el nivel?"
     ],
     [
       "Find GroupID",
@@ -2262,43 +2812,43 @@
     ],
     [
       "<cg>Add</c> assigns up to 10 groups to the selected object(s).",
-      "Agregar asigna hasta 10 grupos a los objetos seleccionados"
+      "<cg>Agregar</c> asigna hasta 10 grupos a los objetos seleccionados."
     ],
     [
       " <cy>P</c> sets a single object as group parent.",
-      "P establece un solo objeto como padre del grupo"
+      " <cy>P</c> establece un solo objeto como padre del grupo."
     ],
     [
       "<cl>Editor L1 and L2</c> places the object(s) on an editor layer.",
-      "Editor L1 y L2 coloca ellos objetos en una capa del editor"
+      "<cl>Editor L1 y L2</c> coloca el/los objeto(s) en una capa del editor."
     ],
     [
       "<cp>Z layer</c> sets the draw layer of the object(s). T layers are above, while B layers are below the player.",
-      "La Capa Z define la capa de dibujo de los objetos Las capas T estan por encima del jugador mientras que las capas B estan por debajo"
+      "La <cp>Capa Z</c> define la capa de dibujo de los objeto(s). Las capas T estan por encima del jugador, mientras que las capas B estan por debajo."
     ],
     [
       "<cr>Z order</c> sets the draw order of the object(s) within the Z layer.",
-      "Orden Z establece el orden de dibujo de los objetos dentro de la capa Z"
+      "<cr>Orden Z</c> establece el orden de dibujo de los objetos dentro de la capa Z."
     ],
     [
       "<ca>CH</c> sets the channel of the object(s).",
-      "CH establece el canal dellos objetos"
+      "<ca>CH</c> establece el canal del/los objeto(s)."
     ],
     [
       "<co>ORD</c> sets the order of the object(s).",
-      "ORD establece el orden de los objetos"
+      "<co>ORD</c> establece el orden de los objetos."
     ],
     [
       "<cj>Extra</c> has more advanced options.",
-      "Extra tiene opciones mas avanzadas"
+      "<cj>Extra</c> tiene opciones mas avanzadas."
     ],
     [
       "<cg>Preview</c> makes touch toggled triggers preview in editor.",
-      "Vista Previa permite obtener una vista previa de los activadores tactiles en el editor"
+      "<cg>Vista Previa</c> permite obtener una vista previa de los activadores tactiles en el editor."
     ],
     [
       "<cy>Playback</c> starts playback from this object.",
-      "Reproduccion inicia la reproduccion desde este objeto"
+      "<cy>Reproduccion</c> inicia la reproduccion desde este objeto."
     ],
     [
       "GroupID Offset",
@@ -2306,7 +2856,7 @@
     ],
     [
       "This lets you set a Group ID offset that Next Free will take into account and start from. Useful for collaborations.",
-      "Esto permite establecer un desplazamiento de ID de Grupo que Proximo Gratis tendra en cuenta y desde el que comenzara Util para colaboraciones"
+      "Esto permite establecer un desplazamiento de ID de Grupo que 'Proximo Gratis' tendra en cuenta y desde el que comenzara. Util para colaboraciones."
     ],
     [
       "Trace In",
@@ -2322,27 +2872,27 @@
     ],
     [
       "<cg>NoTouch</c> disables player collision for solid objects.",
-      "Sin contacto deshabilita la colision del jugador con objetos solidos"
+      "<cg>Sin contacto</c> deshabilita la colision del jugador con objetos solidos."
     ],
     [
       "<cy>No Effects</c> disables effects for portals.",
-      "Sin efectos deshabilita los efectos de los portales"
+      "<cy>Sin efectos</c> deshabilita los efectos de los portales."
     ],
     [
       "<cl>Passable</c> lets you jump through solid blocks.",
-      "Pasable te permite saltar a traves de bloques solidos"
+      "<cl>Pasable</c> te permite saltar a traves de bloques solidos."
     ],
     [
       "<cp>Hide</c> makes the opacity 0.",
-      "Ocultar hace que la opacidad sea 0"
+      "<cp>Ocultar</c> hace que la opacidad sea 0."
     ],
     [
       "<cr>Dont BoostY and BoostX</c> let you disable player being bounced from interaction with moving objects on each axis.",
-      "No ImpulsoY y ImpulsoX te permiten deshabilitar que el jugador rebote en la interaccion con objetos en movimiento en cada eje"
+      "<cr>No ImpulsoY y ImpulsoX</c> te permiten deshabilitar que el jugador rebote en la interaccion con objetos en movimiento en cada eje."
     ],
     [
       "<co>IceBlock, GripSlope, NonStickX, NonStickY, ExtraSticky, and ScaleStick</c> are meant for Platformer game type.",
-      "Bloque de hielo Pendiente de agarre Antiadherente X Antiadherente Y Extra pegajoso y Palo de escala estan pensados para el tipo de juego de plataformas"
+      "<co>Bloque de hielo, Pendiente de agarre, Antiadherente X, Antiadherente Y, Extra pegajoso y Palo de escala</c> estan pensados ​​para el tipo de juego de plataformas."
     ],
     [
       "Config 2",
@@ -2350,19 +2900,19 @@
     ],
     [
       "Enter Channel:",
-      "Entrar al canal"
+      "Entrar al canal:"
     ],
     [
       "<cg>Enter Channel</c> is used to set a specific enter effect.",
-      "Enter Channel se utiliza para establecer un efecto de entrada especifico"
+      "<cg>Enter Channel</c> se utiliza para establecer un efecto de entrada especifico."
     ],
     [
       "<cy>Material</c> is used to link with specific events.",
-      "Material se utiliza para vincularse con eventos especificos"
+      "<cy>Material</c> se utiliza para vincularse con eventos especificos."
     ],
     [
       "<cl>ControlID</c> allows you to reference specific objects when using remapping.",
-      "ControlID le permite hacer referencia a objetos especificos al utilizar la reasignacion"
+      "<cl>ControlID</c> le permite hacer referencia a objetos especificos al utilizar la reasignacion."
     ],
     [
       "Base Color",
@@ -2374,7 +2924,7 @@
     ],
     [
       "Change if a single color object is treated as base or detail color.",
-      "Cambiar si un objeto de un solo color se trata como color base o de detalle"
+      "Cambiar si un objeto de un solo color se trata como color base o de detalle."
     ],
     [
       "Base HSV",
@@ -2382,15 +2932,15 @@
     ],
     [
       "Hue:",
-      "Matiz"
+      "Matiz:"
     ],
     [
       "Saturation:",
-      "Saturacion"
+      "Saturacion:"
     ],
     [
       "Brightness:",
-      "Brillo"
+      "Brillo:"
     ],
     [
       "Light BG",
@@ -2398,23 +2948,27 @@
     ],
     [
       "Select <cg>color channel</c> to apply to the selected object(s). Edit the properties of the selected channel in the bottom right.",
-      "Seleccione el Canal de Color que desea aplicar a los objetos seleccionados Edite las propiedades del canal seleccionado en la esquina inferior derecha"
+      "Seleccione el <cg>Canal de Color</c> que desea aplicar a los objetos seleccionados. Edite las propiedades del canal seleccionado en la esquina inferior derecha."
     ],
     [
       "<cy>Next Free</c> uses the next unused color channel ID,",
-      "Proximo Gratis utiliza el siguiente ID de canal de color no utilizado"
+      "<cy>Proximo Gratis</c> utiliza el siguiente ID de canal de color no utilizado,"
     ],
     [
       "which goes up to 999 maximum.",
-      "que sube hasta 999 maximo"
+      "que sube hasta 999 maximo."
     ],
     [
       "<cl>HSV</c> lets you change the hue, saturation, and brightness of the selected object(s) (and not the channel as a whole).",
-      "HSV le permite cambiar el tono la saturacion y el brillo de los objetos seleccionados y no del canal en su totalidad"
+      "<cl>HSV</c> le permite cambiar el tono, la saturacion y el brillo de los objetos seleccionados (y no del canal en su totalidad)."
     ],
     [
       "The <cp>Copy and Paste</c> buttons allow you to quickly apply to other objects.",
-      "Los botones Copiar y Pegar le permiten aplicar rapidamente a otros objetos"
+      "Los botones <cp>Copiar y Pegar</c> le permiten aplicar rapidamente a otros objetos."
+    ],
+    [
+      "Next Free",
+      "Proximo Gratis"
     ],
     [
       "Copy Color",
@@ -2430,15 +2984,15 @@
     ],
     [
       "Change the attributes of a <cg>color channel</c>. Each color channel is separated by a <cy>Color ID</c>, which goes up to 999.",
-      "Cambia los atributos de un Canal de Color Cada canal de color esta separado por un ID de Color que puede llegar hasta 999"
+      "Cambia los atributos de un <cg>Canal de Color</c>. Cada canal de color esta separado por un <cy>ID de Color</c>, que puede llegar hasta 999."
     ],
     [
       "This color channel can then be set in specific objects.",
-      "Luego este canal de color se puede configurar en objetos especificos"
+      "Luego, este canal de color se puede configurar en objetos especificos."
     ],
     [
       "<cl>Copy Color</c> inherits color from another channel.",
-      "Copiar color hereda el color de otro canal"
+      "<cl>Copiar color</c> hereda el color de otro canal."
     ],
     [
       "White",
@@ -2454,15 +3008,15 @@
     ],
     [
       "You cannot <cg>afford</c> that <cl>item</c>.",
-      "No puedes permitirte ese articulo"
+      "No puedes <cg>permitirte</c> ese <cl>articulo</c>."
     ],
     [
       "<cg>Collect</c> more <cl>Mana Orbs</c>.",
-      "Recoge mas orbes de mana"
+      "<cg>Recoge</c> mas <cl>orbes de mana</c>."
     ],
     [
       "You <co>do not</c> have enough <cl>Mana Orbs</c>.",
-      "Usted no tiene suficientes Orbes de mana"
+      "Usted <co>no tiene</c> suficientes <cl>Orbes de mana</c>."
     ],
     [
       "Advanced Options",
@@ -2510,15 +3064,15 @@
     ],
     [
       "<cl>Custom Songs:</c> To only show levels using custom songs. Select <cy>Song</c> and <cy>Custom</c> but leave the textfield blank.",
-      "Canciones Personalizadas Para mostrar solo los niveles con canciones personalizadas seleccione Cancion y Personalizado pero deje el campo de texto en blanco"
+      "<cl>Canciones Personalizadas:</c> Para mostrar solo los niveles con canciones personalizadas, seleccione <cy>Cancion</c> y <cy>Personalizado</c>, pero deje el campo de texto en blanco."
     ],
     [
       "%s Leaderboard",
-      "s Clasificados"
+      "%s Clasificados"
     ],
     [
       "%i Leaderboard",
-      "i Clasificados"
+      "%i Clasificados"
     ],
     [
       "Create blocks",
@@ -2526,63 +3080,63 @@
     ],
     [
       "<cg>Auto-builds</c> structures with given templates.",
-      "Autobuilds structures with given templates"
+      "<cg>Auto-builds</c> structures with given templates."
     ],
     [
       "Use <cy>Browser</c> to start and select templates.",
-      "Use Browser to start and select templates"
+      "Use <cy>Browser</c> to start and select templates."
     ],
     [
       "Click <cl>Template</c> with a template made to save it.",
-      "Click Template with a template made to save it"
+      "Click <cl>Template</c> with a template made to save it."
     ],
     [
       "Create structures with these blocks and click <cp>Create</c> to paste the selected template.",
-      "Create structures with these blocks and click Create to paste the selected template"
+      "Create structures with these blocks and click <cp>Create</c> to paste the selected template."
     ],
     [
       "<cr>Reference Only</c> blocks are used as reference positions.",
-      "Reference Only blocks are used as reference positions"
+      "<cr>Reference Only</c> blocks are used as reference positions."
     ],
     [
       "<co>Allow Rotation, Flip X, and Flip Y</c> allow rotating the design.",
-      "Allow Rotation Flip X and Flip Y allow rotating the design"
+      "<co>Allow Rotation, Flip X, and Flip Y</c> allow rotating the design."
     ],
     [
       "<ca>Dont Delete</c> keeps these blocks when template is pasted.",
-      "Dont Delete keeps these blocks when template is pasted"
+      "<ca>Dont Delete</c> keeps these blocks when template is pasted."
     ],
     [
       "<cy>The tool is in beta and will be enhanced in future updates.</c>",
-      "The tool is in beta and will be enhanced in future updates"
+      "<cy>The tool is in beta and will be enhanced in future updates.</c>"
     ],
     [
       "Reference Only",
-      "Solo Referencia"
+      "Reference Only"
     ],
     [
       "Allow Rotation",
-      "Permitir Rotacion"
+      "Allow Rotation"
     ],
     [
       "Allow Flip X",
-      "Permitir Volteo X"
+      "Allow Flip X"
     ],
     [
       "Allow Flip Y",
-      "Permitir Volteo Y"
+      "Allow Flip Y"
     ],
     [
       "Ignore Corners",
-      "Ignorar Esquinas"
+      "Ignore Corners"
     ],
     [
       "Use nearby as reference",
-      "Usar cercanos como referencia"
+      "Use nearby as reference"
     ],
     [
       "Dont delete",
-      "No borrar"
+      "Dont delete"
     ],
     [
       "Template",
@@ -2594,83 +3148,91 @@
     ],
     [
       "Create All",
-      "Crear Todo"
+      "Create All"
     ],
     [
       "Paste Template",
-      "Pegar Base"
+      "Paste Template"
     ],
     [
       "Select Type",
-      "Seleccionar Tipo"
+      "Select Type"
     ],
     [
       "Smart Templates",
-      "Bases Inteligentes"
+      "Smart Templates"
     ],
     [
       "Find Template",
-      "Buscar Base"
+      "Find Template"
     ],
     [
       "Tap <cg>New</c> to create a <cl>Template</c>!",
-      "Tap New to create a Template"
+      "Tap <cg>New</c> to create a <cl>Template</c>!"
     ],
     [
       "Template Name",
-      "Nombre de Base"
+      "Template Name"
     ],
     [
       "<cg>Defined</c> tells you how many variations you have in the template.",
-      "Defined tells you how many variations you have in the template"
+      "<cg>Defined</c> tells you how many variations you have in the template."
     ],
     [
       "Click <cy>Browse</c> to see your template's defined variations.",
-      "Click Browse to see your templates defined variations"
+      "Click <cy>Browse</c> to see your template's defined variations."
     ],
     [
       "Use",
-      "Usar"
+      "Use"
     ],
     [
       "Edit",
-      "Editar"
+      "Edit"
     ],
     [
       "Added to editor",
-      "Anadido al editor"
+      "Added to editor"
     ],
     [
       "Shows the <cg>auto-build designs</c> in the current template.",
-      "Shows the autobuild designs in the current template"
+      "Shows the <cg>auto-build designs</c> in the current template."
     ],
     [
       "These will be used when the template is pasted.",
-      "Estos seran usados cuando la base sea pegada"
+      "These will be used when the template is pasted."
     ],
     [
       "Click on an <cy>empty design</c> to paste it into editor.",
-      "Click on an empty design to paste it into editor"
+      "Click on an <cy>empty design</c> to paste it into editor."
     ],
     [
       "Click an <cl>added design</c> to change the chance of different variations.",
-      "Click an added design to change the chance of different variations"
+      "Click an <cl>added design</c> to change the chance of different variations."
     ],
     [
       "Delete Template",
-      "Borrar Base"
+      "Delete Template"
     ],
     [
       "Are you sure you want to <cr>delete</c> this template?",
-      "Are you sure you want to delete this template"
+      "Are you sure you want to <cr>delete</c> this template?"
+    ],
+    [
+      "<cg>Defined</c> tells you how many variations you have in the template.",
+      "<cg>Defined</c> tells you how many variations you have in the template."
+    ],
+    [
+      "Click <cy>Browse</c> to see your template's defined variations.",
+      "Click <cy>Browse</c> to see your template's defined variations."
     ],
     [
       "Setup Object",
-      "Configurar Objeto"
+      "Setup Object"
     ],
     [
       "NO Multi\\nActivate",
-      "No Multi Activacion"
+      "NO Multi\\nActivate"
     ],
     [
       "Preview",
@@ -2678,95 +3240,95 @@
     ],
     [
       "Playback",
-      "Reproduccion"
+      "Playback"
     ],
     [
       "Trace out",
-      "Rastro fuera"
+      "Trace out"
     ],
     [
       "Setup Teleport",
-      "Configurar Teletransporte"
+      "Setup Teleport"
     ],
     [
       "Gravity",
-      "Gravedad"
+      "Gravity"
     ],
     [
       "Flipped",
-      "Invertido"
+      "Flipped"
     ],
     [
       "Toggle",
-      "Alternar"
+      "Toggle"
     ],
     [
       "Rotate Force",
-      "Fuerza de Rotacion"
+      "Rotate Force"
     ],
     [
       "Static\\nForce",
-      "Fuerza Estatica"
+      "Static\\nForce"
     ],
     [
       "Redirect\\nForce",
-      "Redirigir Fuerza"
+      "Redirect\\nForce"
     ],
     [
       "Smmooth\\nEase",
-      "Suavizado"
+      "Smmooth\\nEase"
     ],
     [
       "Save\\nOffset",
-      "Guardar Desfase"
+      "Save\\nOffset"
     ],
     [
       "Ignore X",
-      "Ignorar X"
+      "Ignore X"
     ],
     [
       "Ignore Y",
-      "Ignorar Y"
+      "Ignore Y"
     ],
     [
       "Instant\\nCamera",
-      "Camara Instantanea"
+      "Instant\\nCamera"
     ],
     [
       "Snap\\nGround",
-      "Ajustar Suelo"
+      "Snap\\nGround"
     ],
     [
       "Redirect\\nDash",
-      "Redirigir Dash"
+      "Redirect\\nDash"
     ],
     [
       "<cg>Teleports</c> to an object using <cy>Target GroupID</c>.",
-      "Teleports to an object using Target GroupID"
+      "<cg>Teleports</c> to an object using <cy>Target GroupID</c>."
     ],
     [
       "<cl>Smooth Ease</c> makes the camera move slower.",
-      "Smooth Ease makes the camera move slower"
+      "<cl>Smooth Ease</c> makes the camera move slower."
     ],
     [
       "<cp>Static Force</c> lets you specify an exit force.",
-      "Static Force lets you specify an exit force"
+      "<cp>Static Force</c> lets you specify an exit force."
     ],
     [
       "<cr>Redirect Force</c> exits based on input force.",
-      "Redirect Force exits based on input force"
+      "<cr>Redirect Force</c> exits based on input force."
     ],
     [
       "<co>Save Offset</c> keeps the offset from entering when exiting.",
-      "Save Offset keeps the offset from entering when exiting"
+      "<co>Save Offset</c> keeps the offset from entering when exiting."
     ],
     [
       "<cg>Redirect Dash</c> will rotate the dash to the exit rotation in platformer mode.",
-      "Redirect Dash will rotate the dash to the exit rotation in platformer mode"
+      "<cg>Redirect Dash</c> will rotate the dash to the exit rotation in platformer mode."
     ],
     [
       "Target GroupID",
-      "ID de Grupo Objetivo"
+      "Target GroupID"
     ],
     [
       "Color Base",
@@ -2774,401 +3336,1016 @@
     ],
     [
       "Detail Color",
-      "Color de Detalle"
+      "Detail Color"
     ],
     [
       "Toggle Orb",
-      "Orbe de Alternancia"
+      "Toggle Orb"
     ],
     [
       "Group ID",
-      "ID de Grupo"
+      "Group ID"
     ],
     [
       "Activate Group",
-      "Activar Grupo"
+      "Activate Group"
     ],
     [
       "Claim Touch",
-      "Reclamar Toque"
+      "Claim Touch"
     ],
     [
       "Spawn\\nOnly",
-      "Solo Spawn"
+      "Spawn\\nOnly"
     ],
     [
       "Disables <cg>Group ID</c> if the player clicks within the hitbox.",
-      "Disables Group ID if the player clicks within the hitbox"
+      "Disables <cg>Group ID</c> if the player clicks within the hitbox."
     ],
     [
       "Use <cy>Activate Group</c> to activate and spawn instead.",
-      "Use Activate Group to activate and spawn instead"
+      "Use <cy>Activate Group</c> to activate and spawn instead."
     ],
     [
       "<cl>Claim Touch</c> disables player jump, rings, and click buffering.",
-      "Claim Touch disables player jump rings and click buffering"
+      "<cl>Claim Touch</c> disables player jump, rings, and click buffering."
     ],
     [
       "<cp>Spawn Only</c> makes the group spawn and not toggle on or off.",
-      "Spawn Only makes the group spawn and not toggle on or off"
+      "<cp>Spawn Only</c> makes the group spawn and not toggle on or off."
     ],
     [
       "Allow Multi",
-      "Permitir Multi"
+      "Allow Multi"
     ],
     [
       "Setup",
-      "Configuracion"
+      "Setup"
     ],
     [
       "<cy>Allow Multi</c> makes it so the object can be activated several times.",
-      "Allow Multi makes it so the object can be activated several times"
+      "<cy>Allow Multi</c> makes it so the object can be activated several times."
     ],
     [
       "Setup Checkpoint",
-      "Configurar Checkpoint"
+      "Setup Checkpoint"
     ],
     [
       "SpawnID:",
-      "ID de Spawn"
+      "SpawnID:"
     ],
     [
       "TargetPos:",
-      "Posicion Objetivo"
+      "TargetPos:"
     ],
     [
       "Player Pos",
-      "Posicion del Jugador"
+      "Player Pos"
     ],
     [
       "RespawnID:",
-      "ID de Respawn"
+      "RespawnID:"
     ],
     [
       "Touch\\nTrigger",
-      "Activador de Toque"
+      "Touch\\nTrigger"
     ],
     [
       "Spawn\\nTrigger",
-      "Activador de Spawn"
+      "Spawn\\nTrigger"
     ],
     [
       "Multi\\nTrigger",
-      "Activador Multi"
+      "Multi\\nTrigger"
     ],
     [
       "<cg>Checkpoints</c> used when the game type is Platformer.",
-      "Checkpoints used when the game type is Platformer"
+      "<cg>Checkpoints</c> used when the game type is Platformer."
     ],
     [
       "<cy>SpawnID</c> lets you spawn a group when the checkpoint is activated.",
-      "SpawnID lets you spawn a group when the checkpoint is activated"
+      "<cy>SpawnID</c> lets you spawn a group when the checkpoint is activated."
     ],
     [
       "<cl>TargetPos</c> lets you set a respawn location upon death after the checkpoint. Make sure this group contains one object.",
-      "TargetPos lets you set a respawn location upon death after the checkpoint Make sure this group contains one object"
+      "<cl>TargetPos</c> lets you set a respawn location upon death after the checkpoint. Make sure this group contains one object."
     ],
     [
       "<cp>RespawnID</c> lets you spawn a group when the player respawns at this checkpoint.",
-      "RespawnID lets you spawn a group when the player respawns at this checkpoint"
+      "<cp>RespawnID</c> lets you spawn a group when the player respawns at this checkpoint."
     ],
     [
       "Text",
-      "Texto"
+      "Text"
     ],
     [
       "Insert Text",
-      "Insertar Texto"
+      "Insert Text"
     ],
     [
       "Kerning: ",
-      "Interlineado"
+      "Kerning: "
     ],
     [
       "Setup Force Block",
-      "Configurar Bloque de Fuerza"
+      "Setup Force Block"
     ],
     [
       "Force:",
-      "Fuerza"
+      "Force:"
     ],
     [
       "Relative",
-      "Relativo"
+      "Relative"
     ],
     [
       "Range",
-      "Rango"
+      "Range"
     ],
     [
       "ForceID",
-      "ID de Fuerza"
+      "ForceID"
     ],
     [
       "<cg>Force</c> is how much force is applied upon player collision.",
-      "Force is how much force is applied upon player collision"
+      "<cg>Force</c> is how much force is applied upon player collision."
     ],
     [
       "Blocks with the same <cy>Force ID</c> do not stack.",
-      "Blocks with the same Force ID do not stack"
+      "Blocks with the same <cy>Force ID</c> do not stack."
     ],
     [
       "<cl>Relative</c> makes force direction based on angle between player and object center.",
-      "Relative makes force direction based on angle between player and object center"
+      "<cl>Relative</c> makes force direction based on angle between player and object center."
     ],
     [
       "<cp>UseRange</c> lets you set a range to apply force from based on player position. Range calculation is based on block radius.",
-      "UseRange lets you set a range to apply force from based on player position Range calculation is based on block radius"
+      "<cp>UseRange</c> lets you set a range to apply force from based on player position. Range calculation is based on block radius."
     ],
     [
       "Create Particle Effect",
-      "Crear Efecto de Particulas"
+      "Create Particle Effect"
     ],
     [
       "Motion",
-      "Movimiento"
+      "Motion"
     ],
     [
       "Texture",
-      "Textura"
+      "Texture"
     ],
     [
       "Radius",
-      "Radio"
+      "Radius"
     ],
     [
       "Max\\nParticles",
-      "Max Particulas"
+      "Max\\nParticles"
     ],
     [
       "Duration",
-      "Duracion"
+      "Duration"
     ],
     [
       "LifeTime",
-      "Tiempo de Vida"
+      "LifeTime"
     ],
     [
       "Angle",
-      "Angulo"
+      "Angle"
     ],
     [
       "Speed",
-      "Velocidad"
+      "Speed"
     ],
     [
       "PosVar X",
-      "VarPos X"
+      "PosVar X"
     ],
     [
       "Gravity X",
-      "Gravedad X"
+      "Gravity X"
     ],
     [
       "AccelRad",
-      "AcelRad"
+      "AccelRad"
     ],
     [
       "AccelTan",
-      "AcelTan"
+      "AccelTan"
     ],
     [
       "StartSize",
-      "Tamano Inicial"
+      "StartSize"
     ],
     [
       "EndSize",
-      "Tamano Final"
+      "EndSize"
     ],
     [
       "StartSpin",
-      "Giro Inicial"
+      "StartSpin"
     ],
     [
       "EndSpin",
-      "Giro Final"
+      "EndSpin"
+    ],
+    [
+      "EndSpin",
+      "EndSpin"
     ],
     [
       "Start_R",
-      "Inic R"
+      "Start_R"
     ],
     [
       "Start_G",
-      "Inic G"
+      "Start_G"
     ],
     [
       "Start_B",
-      "Inic B"
+      "Start_B"
     ],
     [
       "Start_A",
-      "Inic A"
+      "Start_A"
     ],
     [
       "End_R",
-      "Fin R"
+      "End_R"
     ],
     [
       "End_G",
-      "Fin G"
+      "End_G"
     ],
     [
       "End_B",
-      "Fin B"
+      "End_B"
     ],
     [
       "End_A",
-      "Fin A"
+      "End_A"
     ],
     [
       "Free",
-      "Libre"
+      "Free"
     ],
     [
       "Grouped",
-      "Agrupado"
+      "Grouped"
+    ],
+    [
+      "Relative",
+      "Relative"
     ],
     [
       "FrictionP",
-      "FriccionP"
+      "FrictionP"
     ],
     [
       "FrictionS",
-      "FriccionS"
+      "FrictionS"
     ],
     [
       "FrictionR",
-      "FriccionR"
+      "FrictionR"
     ],
     [
       "Respawn",
-      "Reaparecer"
+      "Respawn"
     ],
     [
       "Additive",
-      "Aditivo"
+      "Additive"
     ],
     [
       "Start Size\\n= End",
-      "Tamano Inicial Final"
+      "Start Size\\n= End"
     ],
     [
       "Start Spin\\n= End",
-      "Giro Inicial Final"
+      "Start Spin\\n= End"
     ],
     [
       "Start Rad\\n= End",
-      "Radio Inicial Final"
+      "Start Rad\\n= End"
     ],
     [
       "Start rot\\nis dir",
-      "Rotacion inicial es direccion"
+      "Start rot\\nis dir"
     ],
     [
       "Use\\nobj color",
-      "Usar color obj"
+      "Use\\nobj color"
     ],
     [
       "Uniform\\nobj color",
-      "Color de obj uniforme"
+      "Uniform\\nobj color"
     ],
     [
       "Dynamic\\nrotation",
-      "Rotacion dinamica"
+      "Dynamic\\nrotation"
     ],
     [
       "Animate\\non Trigger",
-      "Animate on Trigger"
+      "Animate\\non Trigger"
     ],
     [
       "Animate\\nActive Only",
-      "Animar Solo Activo"
+      "Animate\\nActive Only"
     ],
     [
       "Order\\nSensitive",
-      "Sensible al Orden"
+      "Order\\nSensitive"
     ],
     [
       "StartRGB\\nVar Sync",
-      "Sinc Var RGB Inic"
+      "StartRGB\\nVar Sync"
     ],
     [
       "Quick\\nStart",
-      "Inicio Rapido"
+      "Quick\\nStart"
     ],
     [
       "Perf\\nLog",
-      "Registro Perf"
+      "Perf\\nLog"
     ],
     [
       "Performance Log",
-      "Registro de Rendimiento"
+      "Performance Log"
     ],
     [
       "<cg>1: Active / Max Particles</c>",
-      "1 Active Max Particles"
+      "<cg>1: Active / Max Particles</c>"
     ],
     [
       "<cy>2: Draw cost.</c>",
-      "2 Draw cost"
+      "<cy>2: Draw cost.</c>"
     ],
     [
       "<cl>Try to keep the draw cost low.</c>",
-      "Try to keep the draw cost low"
+      "<cl>Try to keep the draw cost low.</c>"
     ],
     [
       "Edit Animation Settings",
-      "Editar Ajustes de Animacion"
+      "Edit Animation Settings"
     ],
     [
       "Randomize\\nStart",
-      "Inicio Aleatorio"
+      "Randomize\\nStart"
     ],
     [
       "Disable\\ndelaye\\nloop",
-      "Desactivar bucle con retraso"
+      "Disable\\ndelaye\\nloop"
     ],
     [
       "Use\\nSpeed",
-      "Usar Velocidad"
+      "Use\\nSpeed"
     ],
     [
       "Disable\\nanimShine",
-      "Desactivar brillo anim"
+      "Disable\\nanimShine"
     ],
     [
       "Only if\\nactive",
-      "Solo si esta activo"
+      "Only if\\nactive"
     ],
     [
       "Single Frame:",
-      "Fotograma Unico"
+      "Single Frame:"
     ],
     [
       "Offset Anim",
-      "Desfase de Anim"
+      "Offset Anim"
     ],
     [
       "<cg>Disable Anim Shine</c> removes the white flash at the start of the animation for some animated objects.",
-      "Disable Anim Shine removes the white flash at the start of the animation for some animated objects"
+      "<cg>Disable Anim Shine</c> removes the white flash at the start of the animation for some animated objects."
     ],
     [
       "<cy>Use Speed</c> lets you set a custom animation speed.",
-      "Use Speed lets you set a custom animation speed"
+      "<cy>Use Speed</c> lets you set a custom animation speed."
     ],
     [
       "<cp>Only If Active</c> only does this if the object is active.",
-      "Only If Active only does this if the object is active"
+      "<cp>Only If Active</c> only does this if the object is active."
     ],
     [
       "<cr>Single Frame</c> lets you select a specific frame of the animation.",
-      "Single Frame lets you select a specific frame of the animation"
+      "<cr>Single Frame</c> lets you select a specific frame of the animation."
     ],
     [
       "<co>Offset Anim</c> will offset the animation the value of <cr>single frame</c>.",
-      "Offset Anim will offset the animation the value of single frame"
+      "<co>Offset Anim</c> will offset the animation the value of <cr>single frame</c>."
+    ],
+    [
+      "Are you sure you want to <cr>quit</c>?",
+      "Estas seguro de <cr>salir</c>?"
+    ],
+    [
+      "Visit Newgrounds to find awesome music?",
+      "Visitas Newgrounds para encontrar musica increible?"
+    ],
+    [
+      "Are you sure you want to <cr>delete</c> the selected <cg>messages</c>?",
+      "Esta seguro de que desea <cr>eliminar</c> los <cg>mensajes</c> seleccionados?"
+    ],
+    [
+      "There may or may not exist a <cy>shop</c> where you can <cl>buy</c> this <cg>%s</c>",
+      "Puede que exista o no una <cy>tienda</c> donde puedas <cl>comprar</c> con este <cg>%s</c>"
+    ],
+    [
+      "You can <cl>buy</c> this <cg>%s</c> in the <cy>shop</c>!",
+      "Puedes <cl>comprar</c> este <cg>%s</c> en la <cy>tienda</c>!"
+    ],
+    [
+      "Do you want to <cg>buy</c> this <co>%s</c> for <cy>%s</c> %s?",
+      "Quieres <cg>comprar</c> este <co>%s</c> por<cy>%s</c> %s?"
+    ],
+    [
+      "List ID: <cy>",
+      "ID de Lista: <cy>"
+    ],
+    [
+      "List ID:",
+      "ID de Lista:"
+    ],
+    [
+      "Uploaded: <cy>",
+      "Uploaded: <cy>"
+    ],
+    [
+      "Clone List",
+      "Clonar Lista"
+    ],
+    [
+      "Create a <cl>copy</c> of this <cl>list</c>?",
+      "Crear una <cl>copia</c> de esta <cl>lista</c>?"
+    ],
+    [
+      "Nothing Here...",
+      "No hay Nada aqui..."
+    ],
+    [
+      "No levels selected.",
+      "No seleccionaste nada."
+    ],
+    [
+      "You cannot share an empty level.",
+      "No puedes compartir un nivel vacio."
+    ],
+    [
+      "Empty",
+      "Vacio"
+    ],
+    [
+      "Clone Level",
+      "Nivel Copiado"
+    ],
+    [
+      "Delete Level",
+      "Eliminar Nivel"
+    ],
+    [
+      "Do you want to open the editor guide now?",
+      "Quieres abrir la guia del editor ahora?"
+    ],
+    [
+      "Are you sure you want to <cr>delete</c> this level?",
+      "Estas seguro de que quieres <cr>eliminar</c> este nivel?"
+    ],
+    [
+      "<cy>This action cannot be undone.</c>",
+      "<cy>Esta accion no se puede deshacer.</c>"
+    ],
+    [
+      "Texto recibido: Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
+      "El contenido de odio, abusivo o inapropiado, ya sea en el nivel, el nombre o la descripcion, puede resultar en la <cr>eliminacion</c>. Lo mismo aplica a los niveles que usan trampas o exploits. Se <co>desaconseja</c> robar recursos de otros niveles y puede impedir que un nivel se califique segun el contexto, la gravedad, el credito, etc. Los niveles verificados con hacks no se pueden calificar."
+    ],
+    [
+      "Uploaded: <cy>",
+      "Subido: <cy>"
+    ],
+    [
+      "List ID: <cy>",
+      "ID de la Lista: <cy>"
+    ],
+    [
+      "List Info",
+      "Informacion de la Lista"
+    ],
+    [
+      "(No description provided)",
+      "(No hay descripcion mencionada)"
+    ],
+    [
+      " minute ago",
+      " un minuto"
+    ],
+    [
+      " hours ago",
+      " unas horas"
+    ],
+    [
+      "Less than 1 minute ago",
+      "Hace menos de 1 minuto"
+    ],
+    [
+      " minutes ago",
+      " minutos"
+    ],
+    [
+      " day ago",
+      " un dia"
+    ],
+    [
+      " months ago",
+      " un mes"
+    ],
+    [
+      " hour ago",
+      " una hora"
+    ],
+    [
+      " days ago",
+      " dias"
+    ],
+    [
+      " year ago",
+      " lapso"
+    ],
+    [
+      "Uploaded: <cy>%s ago</c>",
+      "Subido: <cy>%s lapso</c>"
+    ],
+    [
+      "Updated: <cy>%s ago</c>",
+      "Actualizado: <cy>%s lapso</c>"
+    ],
+    [
+      "Upload Guidelines",
+      "Upload Guidelines"
+    ],
+    [
+      "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
+      "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated."
+    ],
+    [
+      "<cy>These guidelines and their enforcement are entirely at RobTop's discretion.</c>",
+      "<cy>These guidelines and their enforcement are entirely at RobTop's discretion.</c>"
+    ],
+    [
+      "<cg>Total Attempts</c>: %i",
+      "<cg>Intentos Totales</c>: %i"
+    ],
+    [
+      "<cp>Objects</c>: %i",
+      "<cp>Objectos</c>: %i"
+    ],
+    [
+      "<cr>Roses are red</c>",
+      "<cr>Las rosas son rojas</c>"
+    ],
+    [
+      "<cl>Violets are blue</c>",
+      "<cl>Las violetas son azules</c>"
+    ],
+    [
+      "<cg>Welcome to</c>",
+      "<cg>Bienvenido a la</c>"
+    ],
+    [
+      "It's a secret...",
+      "Es un secreto..."
+    ],
+    [
+      "OK",
+      "Okey"
+    ],
+    [
+      "yes",
+      "si"
+    ],
+    [
+      "YES",
+      "SI"
+    ],
+    [
+      "Quit Game",
+      "Abandonar el Juego"
+    ],
+    [
+      "The path leads to an <cr>old tower</c>. It's been left alone for <cg>years</c>, with little reason to <co>explore</c>.",
+      "El camino lleva a una <cr>vieja torre</c>. Ha estado abandonada durante <cg>siglos</c>, sin muchas razones para <co>explorarla</c>."
+    ],
+    [
+      "When you activate a path, <cy>Stars</c> and <cl>Moons</c> you <cg>collect</c> will level up your <co>Path</c>. You can unlock multiple paths, but <cr>only one</c> can be <cr>active</c> at a time.",
+      "Al activar un camino, las, <cy>Estrellas</c> y <cl>Lunas</c> que <cg>recolectes</c> subiran de nivel tu <co>Camino</c>. Puedes desbloquear varios caminos, pero <cr>solo uno</c> puede estar <cr>activo</c> a la vez."
+    ],
+    [
+      "Paths of Power",
+      "Caminos de Poder"
+    ],
+    [
+      "Map Packs",
+      "Paquetes de Mapas"
+    ],
+    [
+      "<cg>Map Packs</c> are collections of 3 rated levels of similar difficulty set by RobTop. Once completed, they reward <cy>Stars</c> and <cl>Secret Coins</c>.",
+      "Los <cg>Paquetes de Mapas</c> son colecciones de 3 niveles de dificultad similar, creados por RobTop. Al completarlos, se obtienen <cy>Estrellas</c> y <cl>Monedas Secretas</c>."
+    ],
+    [
+      "Levels on this list have been rated and featured by RobTop. The extra visual around the difficulty face indicates how much he likes a specific level. In order of increasing quality:",
+      "Los niveles de esta lista han sido calificados y destacados por RobTop. El elemento visual adicional alrededor del nivel de dificultad indica cuanto le gusta un nivel especifico. En orden de calidad creciente:"
+    ],
+    [
+      "<cy>Featured</c>, <co>Epic</c>, <cp>Legendary</c>, and <cj>Mythic</c>.",
+      "<cy>Descatado</c>, <co>Epico</c>, <cp>Legendario</c>, y <cj>Mitico</c>."
+    ],
+    [
+      "Top Lists",
+      "Top Listas"
+    ],
+    [
+      "These <co>lists</c> have been rated by RobTop. The rewards for each one are also decided by him and are variable from list to list. Note that rated lists can only be <cy>Featured</c> and do not reward Creator Points.",
+      "Estas <co>listas</c> han sido calificadas por RobTop. Las recompensas de cada una tambien las decide el y varian segun la lista. Ten en cuenta que las listas calificadas solo pueden ser <cy>descatadas</c> y no otorgan Puntos de Creador."
+    ],
+    [
+      "<cg>Gauntlets</c> are themed collections of 5 rated levels that give a special <cy>reward</c> once beaten. They are made by RobTop based on which levels fit the theme or through official <cl>creator contests</c>. Follow RobTop on social media to be notified about future contests!",
+      "Los <cg>Guanteletes</c> son colecciones tematicas de 5 niveles puntuables que otorgan una <cy>recompensa</c> especial al superarlos. Los crea RobTop basandose en los niveles que se ajustan a la tematica o mediante <cl>concursos de creadores</c> oficiales. Sigue a RobTop en redes sociales para enterarte de futuros concursos!"
+    ],
+    [
+      "Quests",
+      "Misiones"
+    ],
+    [
+      "<cg>Quests</c> are small daily challenges that give <cy>rewards</c>. The type of quest is decided randomly. You can have maximum 3 active and 3 queued at a time. Queued quests are indicated by <cl>dots</c> to the right of a quest.",
+      "Las <cg>Misiones</c> son diminutos desafios diarios que otorgan <cy>recompensas</c>. El tipo de mision se decide aleatoriamente. Puedes tener un maximo de 3 misiones activas y 3 en cola a la vez. Las misiones en cola se indican con <cl>puntos</c> a la derecha."
+    ],
+    [
+      "Levels",
+      "Niveles"
+    ],
+    [
+      "A <co>level</c> rewards <cy>Stars</c> if it is rated by RobTop. For unrated levels, the difficulty face is set by community votes on each level's page. This is also how <cr>Demon</c> difficulties are decided.",
+      "Un nivel otorga <cy>Estrellas</c> si esta calificado por RobTop. En los niveles sin calificacion, la dificultad se establece mediante votos de la comunidad en la pagina de cada nivel. Asi tambien se deciden las dificultades de los <cr>Demonios</c>."
+    ],
+    [
+      "Usernames are <cy>gold</c> for registered users and <cg>green</c> for unregistered users. A song is <cl>blue</c> if it is official and <cp>pink</c> if it is custom.",
+      "Los nombres de usuario son: <cy>oro</c> para los usuarios registrados y <cg>verdes</c> para los no registrados. Una cancion es <cl>azul</c> si es oficial y <cp>rosa</c> si es personalizada."
+    ],
+    [
+      "The <cg>Top 100</c> leaderboard shows the players with the most <cy>Stars</c> in the game. Players must be <cl>manually whitelisted</c> by a Leaderboard Moderator to appear here, ensuring legitimate rankings.",
+      "La tabla de clasificacion del <cg>Top 100</c> muestra a los jugadores con mas <cy>Estrellas</c> en el juego. Para que los jugadores aparezcan aqui, deben ser incluidos manualmente en la lista blanca por un moderador de la tabla de clasificacion, lo que garantiza una clasificacion legitima."
+    ],
+    [
+      "The <cg>Friends</c> leaderboard shows your friends in order of <cy>Stars</c>.",
+      "La tabla de clasificacion de <cg>Amigos</c> muestra a tus amigos en orden de <cy>Estrellas</c>."
+    ],
+    [
+      "The <cg>Global</c> leaderboard shows players in order of <cy>Stars</c>.",
+      "La tabla de clasificacion <cg>global</c> muestra a los jugadores en orden de <cy>estrellas</c>."
+    ],
+    [
+      "Players banned by Leaderboard Moderators are excluded.",
+      "Los jugadores baneados por los moderadores de la tabla de clasificacion quedan excluidos."
+    ],
+    [
+      "The <cg>Creators</c> leaderboard is sorted by amount of Creator Points. Creating a rated level rewards 1, <cy>Featured</c> rewards 2, <co>Epic</c> rewards 3, <cp>Legendary</c> rewards 4, and <cj>Mythic</c> rewards 5.",
+      "La clasificacion de <cg>Creadores</c> se ordena por la cantidad de Puntos de Creador. Crear un nivel puntuado otorga 1 recompensa, <cy>Destacado</c> 2 recompensa, <co>Epico</c> 3 recompensa, <cp>Legendario</c> 4 recompensa y <cj>Mitico</c> 5 recompensa."
+    ],
+    [
+      "Move this level to the top of the created levels list?",
+      "Mover este nivel a la parte superior de la lista de niveles creados?"
+    ],
+    [
+      "Move to Top",
+      "Mover hacia la cima"
+    ],
+    [
+      "Create a <cl>copy</c> of this <cg>level</c>?",
+      "Crear una <cl>copia</c> de este <cg>nivel</c>?"
+    ],
+    [
+      "Important notification - Terms of use. RobTop Games provides a library of music and sound effects for creative use within Geometry Dash. You are free to use these assets for creating and sharing levels within the game. However, redistributing, selling, manipulating, or using these assets outside the game is prohibited. If you share game-related content on social media or upload videos featuring custom music, please give credit to the respective artist. Regarding music from Newgrounds.com: Some custom songs are available via a third party website, Newgrounds.com. These songs, created by artists using Newgrounds.com, are under Creative Commons licensing terms accessible on Newgrounds.com. By downloading a song from Newgrounds, you accept these terms and any others designated by Newgrounds. RobTop Games is not the provider of songs from Newgrounds.com, nor a party to the licensing agreements, and does not store any audio files downloaded from Newgrounds.com. You are responsible for the content you create using all music and sound effects provided. Ensure your creations adhere to the game's community guidelines and do not infringe on any rights. The availability of music and sound effects in Geometry Dash is subject to change. RobTop Games may add or remove content from both the custom library and the Newgrounds.com selection without prior notice. We do not guarantee the continuous availability or suitability of any music or sound effects in the game. We may update these terms at any time, with your continued use of Geometry Dash signifying acceptance of any changes. By clicking the 'I Accept' button, you acknowledge and approve of the above-stated terms of use.",
+      "Aviso importante: Condiciones de uso. RobTop Games ofrece una biblioteca de musica y efectos de sonido para uso creativo en Geometry Dash. Puedes usar estos recursos para crear y compartir niveles dentro del juego. Sin embargo, esta prohibido redistribuir, vender, manipular o usar estos recursos fuera del juego. Si compartes contenido relacionado con el juego en redes sociales o subes videos con musica personalizada, menciona al artista correspondiente. Respecto a la musica de Newgrounds.com: Algunas canciones personalizadas estan disponibles a traves de un sitio web externo, Newgrounds.com. Estas canciones, creadas por artistas que utilizan Newgrounds.com, estan sujetas a los terminos de la licencia Creative Commons, accesibles en Newgrounds.com. Al descargar una cancion de Newgrounds, aceptas estos terminos y cualquier otro designado por Newgrounds. RobTop Games no es el proveedor de las canciones de Newgrounds.com ni forma parte de los acuerdos de licencia, y no almacena ningun archivo de audio descargado de Newgrounds.com. Eres responsable del contenido que creas utilizando toda la musica y los efectos de sonido proporcionados. Asegurate de que tus creaciones cumplan con las normas de la comunidad del juego y no infrinjan ningun derecho. La disponibilidad de la musica y los efectos de sonido en Geometry Dash esta sujeta a cambios. RobTop Games puede agregar o eliminar contenido de la biblioteca personalizada y de la seleccion de Newgrounds.com sin previo aviso. No garantizamos la disponibilidad continua ni la idoneidad de la musica ni los efectos de sonido del juego. Podemos actualizar estos terminos en cualquier momento; el uso continuado de Geometry Dash implica la aceptacion de cualquier cambio. Al hacer clic en el boton "
+    ],
+    [
+      "I Accept",
+      "Acepto"
+    ],
+    [
+      "Show Progress Bar",
+      "Mostrar Barra de Progreso"
+    ],
+    [
+      "Show Time",
+      "Mostrar Tiempo"
+    ],
+    [
+      "Show Info Label",
+      "Mostrar Etiqueta de Informacion"
+    ],
+    [
+      "Shows hitboxes while in practice mode.",
+      "Muestra los Hitboxs mientras esta en modo de practica."
+    ],
+    [
+      "Practice Music Sync",
+      "Practica la sincronizacion Musical"
+    ],
+    [
+      "Auto-Checkpoints",
+      "Puntos de Control Automaticos"
+    ],
+    [
+      "Show Percentage",
+      "Mostrar Porcentaje"
+    ],
+    [
+      "Audio Visualizer",
+      "Visualizador de Audio"
+    ],
+    [
+      "Disable Checkpoints",
+      "Deshabilitar Puntos de Control"
+    ],
+    [
+      "Hitbox On Death",
+      "Hitbox al morir"
+    ],
+    [
+      "Shows hitboxes upon death in both normal and practice mode.",
+      "Muestra las cajas de impacto al morir tanto en el modo normal como en el de practica."
+    ],
+    [
+      "You need a <cg>Music Unlocker</c> to play <cy>normal music</c> in <cl>practice mode</c>.",
+      "Necesitas un <cg>Music Unlocker</c> para reproducir <cy>musica normal</c> en el <cl>modo de practica</c>."
+    ],
+    [
+      "Platformer UI",
+      "Plataforma UI"
+    ],
+    [
+      "Practice UI",
+      "Practica UI"
+    ],
+    [
+      "Width:",
+      "Ancho:"
+    ],
+    [
+      "Height:",
+      "Altura:"
+    ],
+    [
+      "Scale:",
+      "Escala:"
+    ],
+    [
+      "Opacity:",
+      "Opacidad:"
+    ],
+    [
+      "Deadzone:",
+      "Zona Muerta:"
+    ],
+    [
+      "Radius:",
+      "Radio:"
+    ],
+    [
+      "JumpL",
+      "SaltoL"
+    ],
+    [
+      "Split",
+      "Dividir"
+    ],
+    [
+      "Dual",
+      "Dual"
+    ],
+    [
+      "ModeB",
+      "ModoB"
+    ],
+    [
+      "P1 Jump",
+      "Salto P1"
+    ],
+    [
+      "P2 Jump",
+      "Salto P2"
+    ],
+    [
+      "P1 Move",
+      "Movimiento P1"
+    ],
+    [
+      "P2 Move",
+      "Movimiento P2"
+    ],
+    [
+      "This item lets you <co>customize Practice and Menu music</c>.",
+      "Este elemento le permite <co>personalizar la musica de practica y menu</c>."
+    ],
+    [
+      "After purchasing this item you will be able to change practice and menu music from the more info page on custom songs.",
+      "Despues de comprar este articulo, podras cambiar la musica de practica y del menu desde la pagina de mas informacion sobre canciones personalizadas."
+    ],
+    [
+      "Music Customizer",
+      "Musica Personalizada"
+    ],
+    [
+      "No Song",
+      "Sin Cancion"
+    ],
+    [
+      "This level uses a <cl>custom song</c> that has not been <cg>downloaded</c> yet.",
+      "Este nivel utiliza una <cl>cancion</c> que aun no se ha <cg>descargado</c>."
+    ],
+    [
+      "Do you want to play without music?",
+      "Quieres jugar sin musica?"
+    ],
+    [
+      "<cy>Download by using the bar below</c>",
+      "<cy>Descargalo usando la barra de abajo</c>"
+    ],
+    [
+      "High Objects",
+      "Objetos Altos"
+    ],
+    [
+      "This level has a <co>high object</c> count and can be <cr>unstable</c> on some devices. This may effect <cg>performance</c>, <cl>load time</c> etc.",
+      "Este nivel tiene una cantidad alta de <co>Objectos Altos</c> y puede ser <cr>inestable</c> en algunos dispositivos. Esto puede afectar el <cg>rendimiento</c>, <cl>el tiempo de carga</c>, entre otros."
+    ],
+    [
+      "Play",
+      "Jugar"
+    ],
+    [
+      "Enter Password",
+      "Poner Codigo"
+    ],
+    [
+      "Incorrect password",
+      "Codigo Incorrecta"
+    ],
+    [
+      "The Keymaster",
+      "La LLave Maestra"
+    ],
+    [
+      "Scratch",
+      "Rasgunador"
+    ],
+    [
+      "The Mechanic",
+      "El Mecanico"
+    ],
+    [
+      "PotBor",
+      "Sr. Calderon"
+    ],
+    [
+      "but it's in the works!",
+      "pero ya estamos en proceso!"
+    ],
+    [
+      "Yea<d010>.<d010>.<d010>. It's still <cl>delayed</c>.",
+      "Seee<d010>.<d010>.<d010>. Sigue siendo <cl>atrasada</c>."
+    ],
+    [
+      "I blame <cg>RobTop</c>.",
+      "La culpa es de <cg>Roberto Pala</c>."
+    ],
+    [
+      "Who else could we <cr>blame</c>?",
+      "A quien mas querriamos <cr>culpar</c>?"
+    ],
+    [
+      "We're not even real.",
+      "Ni vosotros mismos somos reales<d010>.<d010>.<d010>."
+    ],
+    [
+      "Speak for yourself <co>I'm real!</c>",
+      "Digais por vos!<d020> <co>Yo Soy Real!</c>"
+    ],
+    [
+      "<cl>Yea, a real pain in the<d010>.<d010>.<d010>.</c>",
+      "<cl>Claro, sos un dolor de cabeza<d010>.<d010>.<d010>.</c>"
+    ],
+    [
+      "You're just <cr>mad</c> because you don't have a <cy>shop</c>.",
+      "Usted esta <cr>enfadada</c> por no tener una <cy>tienda</c>."
+    ],
+    [
+      "You have a <cy>shop</c>?",
+      "Tienes una <cy>tienda</c>?"
+    ],
+    [
+      "<co>I HAVE SAID TOO MUCH!",
+      "<co>HE DICHO DEMASIADO!"
+    ],
+    [
+      "QUICKLY TO THE <i050><s260>CHOPPER!</s></i></c>",
+      "RAPIDO AL <i050><s260>HELICOPTERO!</s></i></c>"
+    ],
+    [
+      "You don't have a chop<d010>.<d010>.<d010>.",
+      "Tu no tienes un helicoptero<d010>.<d010>.<d010>."
+    ],
+    [
+      "Who left the <cy>lights</c> on?",
+      "Who left the <cy>lights</c> on?"
+    ],
+    [
+      "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>",
+      "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>"
+    ],
+    [
+      "<cl>Great...</c><d020> Just what I needed.<d050>",
+      "<cl>Great...</c><d020> Just what I needed.<d050>"
+    ],
+    [
+      "Another visitor to my <cr>prison</c>.",
+      "Another visitor to my <cr>prison</c>."
+    ],
+    [
+      "Must be my lucky day...<d040> <cg>or yours</c>.",
+      "Must be my lucky day...<d040> <cg>or yours</c>."
+    ],
+    [
+      "<d050><cl>I don't really have days anymore.</c>",
+      "<d050><cl>I don't really have days anymore.</c>"
+    ],
+    [
+      "I wasn't always like this,<d015> you know.",
+      "I wasn't always like this,<d015> you know."
+    ],
+    [
+      "<d050>I used to be something,<d040> <co>greater</c><d010>.<d015>.<d020>.",
+      "<d050>I used to be something,<d040> <co>greater</c><d010>.<d015>.<d020>."
+    ],
+    [
+      "Now instead,<d030> I get to listen to you.",
+      "Now instead,<d030> I get to listen to you."
+    ],
+    [
+      "<d050><cl>What a treat...</c>",
+      "<d050><cl>What a treat...</c>"
+    ],
+    [
+      "<cg>Go on</c>, <d030><co>or don't</c>.",
+      "<cg>Go on</c>, <d030><co>or don't</c>."
+    ],
+    [
+      "<d050>Not like I can stop you.",
+      "<d050>Not like I can stop you."
+    ],
+    [
+      "Well, well, well.<d035>",
+      "Well, well, well.<d035>"
+    ],
+    [
+      "Look who it is.",
+      "Look who it is."
+    ],
+    [
+      "I see you have the <cg>keys</c>.<d040>",
+      "I see you have the <cg>keys</c>.<d040>"
+    ],
+    [
+      "But what comes next?",
+      "But what comes next?"
+    ],
+    [
+      "The <co>door</c> is open.<d040>",
+      "The <co>door</c> is open.<d040>"
+    ],
+    [
+      "Time to find out<d010>.<d010>.<d010>.",
+      "Time to find out<d010>.<d010>.<d010>."
+    ],
+    [
+      "Wait, you are not <cl>RubRub</c>...",
+      "Wait, you are not <cl>RubRub</c>..."
     ]
   ],
+  "Alertas": [
+    [
+      "<co>Practice</c>: %i%%",
+      "<co>Practice</c>: %i%%"
+    ],
+    [
+      "Info",
+      "Informacion"
+    ]
+  ],
+  "Dialogs": [],
   "Voices": [
     [
       "Play",
