@@ -58,123 +58,123 @@
     ],
     [
       "Not logged in",
-      "Not logged in"
+      "Sesion no iniciada"
     ],
     [
       "Create an account to back up",
-      "Create an account to back up"
+      "Crea una cuenta para respaldar"
     ],
     [
       "and load your data from the cloud",
-      "and load your data from the cloud"
+      "y cargar tus datos desde la nube"
     ],
     [
       "Log in",
-      "Log in"
+      "Iniciar sesion"
     ],
     [
       "Register",
-      "Register"
+      "Registrarse"
     ],
     [
       "Register Account",
-      "Register Account"
+      "Registrar Cuenta"
     ],
     [
       "Username: (shown to other players)",
-      "Username shown to other players"
+      "Usuario visible para otros jugadores"
     ],
     [
       "Password:",
-      "Password"
+      "Contrasena"
     ],
     [
       "Confirm Password:",
-      "Confirm Password"
+      "Confirmar Contrasena"
     ],
     [
       "Verify Email:",
-      "Verify Email"
+      "Verificar Correo"
     ],
     [
       "Username",
-      "Username"
+      "Usuario"
     ],
     [
       "Password",
-      "Password"
+      "Contrasena"
     ],
     [
       "Corfirm Password",
-      "Corfirm Password"
+      "Confirmar Contrasena"
     ],
     [
       "Too short. Minimum 3 characters",
-      "Too short Minimum 3 characters"
+      "Muy corto Minimo 3 caracteres"
     ],
     [
       "Too short. Minimum 6 characters",
-      "Too short Minimum 6 characters"
+      "Muy corto Minimo 6 caracteres"
     ],
     [
       "Password do not match",
-      "Password do not match"
+      "Las contrasenas no coinciden"
     ],
     [
       "Email is invalid",
-      "Email is invalid"
+      "Correo invalido"
     ],
     [
       "Email do not match",
-      "Email do not match"
+      "Los correos no coinciden"
     ],
     [
       "Username is already in use",
-      "Username is already in use"
+      "El nombre de usuario ya esta en uso"
     ],
     [
       "Login",
-      "Login"
+      "Entrar"
     ],
     [
       "Forgot Username",
-      "Forgot Username"
+      "Olvide mi usuario"
     ],
     [
       "Forgot Password",
-      "Forgot Password"
+      "Olvide mi contrasena"
     ],
     [
       "Login failed",
-      "Login failed"
+      "Error al entrar"
     ],
     [
       "Create",
-      "Create"
+      "Crear"
     ],
     [
       "Thank you for registering.",
-      "Thank you for registering"
+      "Gracias por registrarte"
     ],
     [
       "A confirmation email has been sent to your inbox <cy>cherrywcode@gmail.com</c>.",
-      "A confirmation email has been sent to your inbox cherrywcodegmailcom"
+      "Se ha enviado un correo de confirmacion a tu bandeja de entrada"
     ],
     [
       "Please <cg>activate</c> your account.",
-      "Please activate your account"
+      "Por favor activa tu cuenta"
     ],
     [
       "Login Success",
-      "Login Success"
+      "Sesion iniciada"
     ],
     [
       "Thank you for logging in.",
-      "Thank you for logging in"
+      "Gracias por entrar"
     ],
     [
       "You have now linked your account:",
-      "You have now linked your account"
+      "Has vinculado tu cuenta"
     ],
     [
       "Save Data",
@@ -1790,7 +1790,7 @@
     ],
     [
       "Custom",
-      "Personalizada"
+      "Costumbre"
     ],
     [
       "Font",
@@ -2482,7 +2482,7 @@
     ],
     [
       "No Star",
-      "Sin Estrellas"
+      "No Estrellas"
     ],
     [
       "Legendary",
