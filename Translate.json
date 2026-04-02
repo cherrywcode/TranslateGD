@@ -485,56 +485,12 @@
       " (Solo lectura)"
     ],
     [
-      "Show Hitboxes",
-      "Mostrar Hitboxes"
-    ],
-    [
-      "Hide Invisible",
-      "Ocultar Invisible"
-    ],
-    [
-      "Preview Mode",
-      "Modo de Vista Previa"
-    ],
-    [
-      "Preview Animations",
-      "Animaciones de Vista Previa"
-    ],
-    [
-      "Preview Particles",
-      "Particulas de Vista Previa"
-    ],
-    [
-      "Preview Shaders",
-      "Shaders de Vista Previa"
-    ],
-    [
-      "Show Ground",
-      "Mostrar Suelo"
-    ],
-    [
-      "Show Object Info",
-      "Mostrar Informacion de los Objectos"
-    ],
-    [
-      "Show Grid",
-      "Mostrar Cuadricula"
-    ],
-    [
-      "Select Filter",
-      "Seleccionar Filtro"
-    ],
-    [
-      "Ignore Damage",
-      "Ignorar Lesiones"
-    ],
-    [
       "Hold to Dash",
       "Hold to Dash"
     ],
     [
       "I see you have a lot of <cl>orbs</c>. You should visit my <cy>shop</c>!",
-      "I see you have a lot of <cl>orbs</c>. You should visit my <cy>shop</c>!"
+      "Veo que tienes muchos <cl>orbs</c>. Deberias visitar mi <cy>tienda</c>!"
     ]
   ],
   "Popups": [
@@ -596,123 +552,115 @@
     ],
     [
       "Not logged in",
-      "Not logged in"
+      "No iniciaste sesion"
     ],
     [
       "Create an account to back up",
-      "Create an account to back up"
+      "Crea una cuenta para respaldar tus datos"
     ],
     [
       "and load your data from the cloud",
-      "and load your data from the cloud"
+      "y cargar tus datos desde la nube"
     ],
     [
       "Log in",
-      "Log in"
+      "Iniciar sesion"
     ],
     [
       "Register",
-      "Register"
+      "Registrarse"
     ],
     [
       "Register Account",
-      "Register Account"
+      "Registrar Cuenta"
     ],
     [
       "Username: (shown to other players)",
-      "Username: (shown to other players)"
+      "Nombre de Usuario: (Mostrado a otros jugadores)"
     ],
     [
       "Password:",
-      "Password:"
+      "Clave:"
     ],
     [
       "Confirm Password:",
-      "Confirm Password:"
+      "Confirmar Clave:"
     ],
     [
       "Verify Email:",
-      "Verify Email:"
+      "Verificar Email:"
     ],
     [
       "Username",
-      "Username"
-    ],
-    [
-      "Password",
-      "Password"
-    ],
-    [
-      "Corfirm Password",
-      "Corfirm Password"
+      "Nombre de Usuario"
     ],
     [
       "Too short. Minimum 3 characters",
-      "Too short. Minimum 3 characters"
+      "Demasiado corto. Mínimo 3 caracteres"
     ],
     [
       "Too short. Minimum 6 characters",
-      "Too short. Minimum 6 characters"
+      "Demasiado corto. Mínimo 6 caracteres"
     ],
     [
       "Password do not match",
-      "Password do not match"
+      "Las contraseñas no coinciden"
     ],
     [
       "Email is invalid",
-      "Email is invalid"
+      "El email es inválido"
     ],
     [
       "Email do not match",
-      "Email do not match"
+      "Los emails no coinciden"
     ],
     [
       "Username is already in use",
-      "Username is already in use"
+      "El nombre de usuario ya está en uso"
     ],
     [
       "Login",
-      "Login"
+      "Iniciar sesion"
     ],
     [
       "Forgot Username",
-      "Forgot Username"
+      "Olvidaste tu nombre de usuario"
     ],
     [
       "Forgot Password",
-      "Forgot Password"
+      "Olvidaste tu contraseña"
     ],
     [
       "Login failed",
-      "Login failed"
+      "Error al iniciar sesion"
     ],
     [
       "Create",
-      "Create"
+      "Crear"
     ],
     [
       "Thank you for registering.",
-      "Thank you for registering."
+      "Gracias por registrarte."
     ],
     [
-      "A confirmation email has been sent to your inbox <cy>cherrywcode@gmail.com</c>.",
-      "A confirmation email has been sent to your inbox <cy>cherrywcode@gmail.com</c>."
+      "A confirmation email has been sent to your inbox <cy>%s</c>.",
+      "Se ha enviado un correo electrónico de confirmación a su bandeja de entrada. <cy>%s</c>."
     ],
     [
       "Please <cg>activate</c> your account.",
-      "Please <cg>activate</c> your account."
+      "Porfavor <cg>activa</c> tu cuenta."
     ],
     [
       "Login Success",
-      "Login Success"
+      "Inicio de sesion exitoso"
     ],
     [
       "Thank you for logging in.",
-      "Thank you for logging in."
+      "Gracias por iniciar sesion."
     ],
     [
       "You have now linked your account:",
-      "You have now linked your account:"
+      "Ya has vinculado tu cuenta:"
     ],
     [
       "Save Data",
@@ -3080,63 +3028,63 @@
     ],
     [
       "<cg>Auto-builds</c> structures with given templates.",
-      "<cg>Auto-builds</c> structures with given templates."
+      "<cg>Auto-Crear</c> estructuras con plantillas dadas."
     ],
     [
       "Use <cy>Browser</c> to start and select templates.",
-      "Use <cy>Browser</c> to start and select templates."
+      "Usa <cy>Buscar</c> para iniciar y seleccionar plantillas."
     ],
     [
       "Click <cl>Template</c> with a template made to save it.",
-      "Click <cl>Template</c> with a template made to save it."
+      "Click en <cl>Plantilla</c> para guardar la plantilla."
     ],
     [
       "Create structures with these blocks and click <cp>Create</c> to paste the selected template.",
-      "Create structures with these blocks and click <cp>Create</c> to paste the selected template."
+      "Crea estructuras con estos bloques y haz clic en <cp>Crear</c> para pegar la plantilla dada."
     ],
     [
       "<cr>Reference Only</c> blocks are used as reference positions.",
-      "<cr>Reference Only</c> blocks are used as reference positions."
+      "Los bloques <cr>Solo referencia</c> se usan como posiciones de referencia."
     ],
     [
       "<co>Allow Rotation, Flip X, and Flip Y</c> allow rotating the design.",
-      "<co>Allow Rotation, Flip X, and Flip Y</c> allow rotating the design."
+      "<co>Permitir rotacion, voltear X y voltear Y</c> permiten rotar el diseño."
     ],
     [
       "<ca>Dont Delete</c> keeps these blocks when template is pasted.",
-      "<ca>Dont Delete</c> keeps these blocks when template is pasted."
+      "<ca>No eliminar</c> conserva estos bloques cuando se pega la plantilla."
     ],
     [
       "<cy>The tool is in beta and will be enhanced in future updates.</c>",
-      "<cy>The tool is in beta and will be enhanced in future updates.</c>"
+      "<cy>La herramienta esta en fase beta y se mejorara en futuras actualizaciones.</c>"
     ],
     [
       "Reference Only",
-      "Reference Only"
+      "Solo para referencia"
     ],
     [
       "Allow Rotation",
-      "Allow Rotation"
+      "Permitir rotacion"
     ],
     [
       "Allow Flip X",
-      "Allow Flip X"
+      "Permitir voltear X"
     ],
     [
       "Allow Flip Y",
-      "Allow Flip Y"
+      "Permitir voltear Y"
     ],
     [
       "Ignore Corners",
-      "Ignore Corners"
+      "Ignorar las esquinas"
     ],
     [
       "Use nearby as reference",
-      "Use nearby as reference"
+      "Utilice las cercanias como referencia"
     ],
     [
       "Dont delete",
-      "Dont delete"
+      "No borrar"
     ],
     [
       "Template",
@@ -3148,91 +3096,83 @@
     ],
     [
       "Create All",
-      "Create All"
+      "Crear todo"
     ],
     [
       "Paste Template",
-      "Paste Template"
+      "Pegar Base"
     ],
     [
       "Select Type",
-      "Select Type"
+      "Seleccionar Tipo"
     ],
     [
       "Smart Templates",
-      "Smart Templates"
+      "Plantillas inteligentes"
     ],
     [
       "Find Template",
-      "Find Template"
+      "Buscar plantilla"
     ],
     [
       "Tap <cg>New</c> to create a <cl>Template</c>!",
-      "Tap <cg>New</c> to create a <cl>Template</c>!"
+      "Pulsa <cg>Nuevo</c> para crear una <cl>Plantilla</c>!"
     ],
     [
       "Template Name",
-      "Template Name"
+      "Nombre de la P1"
     ],
     [
       "<cg>Defined</c> tells you how many variations you have in the template.",
-      "<cg>Defined</c> tells you how many variations you have in the template."
+      "<cg>Definido</c> te indica cuántas variaciones tienes en la plantilla."
     ],
     [
       "Click <cy>Browse</c> to see your template's defined variations.",
-      "Click <cy>Browse</c> to see your template's defined variations."
+      "Haz clic en <cy>Buscar</c> para ver las variaciones definidas de tu plantilla."
     ],
     [
       "Use",
-      "Use"
+      "Usar"
     ],
     [
       "Edit",
-      "Edit"
+      "Editar"
     ],
     [
       "Added to editor",
-      "Added to editor"
+      "Agregar al Editor"
     ],
     [
       "Shows the <cg>auto-build designs</c> in the current template.",
-      "Shows the <cg>auto-build designs</c> in the current template."
+      "Muestra las bases de <cg>autoconstruccion</c> en la plantilla actual."
     ],
     [
       "These will be used when the template is pasted.",
-      "These will be used when the template is pasted."
+      "Estos se utilizaran al pegar la plantilla."
     ],
     [
       "Click on an <cy>empty design</c> to paste it into editor.",
-      "Click on an <cy>empty design</c> to paste it into editor."
+      "Haz clic en un base vacio para pegarlo en el editor."
     ],
     [
       "Click an <cl>added design</c> to change the chance of different variations.",
-      "Click an <cl>added design</c> to change the chance of different variations."
+      "Haz clic en un <cl>base agregrado</c> para cambiar la probabilidad de diferentes variaciones."
     ],
     [
       "Delete Template",
-      "Delete Template"
+      "Eliminar Base"
     ],
     [
       "Are you sure you want to <cr>delete</c> this template?",
-      "Are you sure you want to <cr>delete</c> this template?"
-    ],
-    [
-      "<cg>Defined</c> tells you how many variations you have in the template.",
-      "<cg>Defined</c> tells you how many variations you have in the template."
-    ],
-    [
-      "Click <cy>Browse</c> to see your template's defined variations.",
-      "Click <cy>Browse</c> to see your template's defined variations."
+      "Estas segurisimo de <cr>eliminar</c> esta plantilla?"
     ],
     [
       "Setup Object",
-      "Setup Object"
+      "Configurar Objecto"
     ],
     [
-      "NO Multi\\nActivate",
-      "NO Multi\\nActivate"
+      "NO Multi\nActivate",
+      "NO Multi-\nActivar"
     ],
     [
       "Preview",
@@ -3240,283 +3180,283 @@
     ],
     [
       "Playback",
-      "Playback"
+      "Reproduccion"
     ],
     [
       "Trace out",
-      "Trace out"
+      "Rastrear"
     ],
     [
       "Setup Teleport",
-      "Setup Teleport"
+      "Configurar Tp"
     ],
     [
       "Gravity",
-      "Gravity"
+      "Gravedad"
     ],
     [
       "Flipped",
-      "Flipped"
+      "Volteo"
     ],
     [
       "Toggle",
-      "Toggle"
+      "Palanca"
     ],
     [
       "Rotate Force",
-      "Rotate Force"
+      "Fuerza de Rotacion"
     ],
     [
-      "Static\\nForce",
-      "Static\\nForce"
+      "Static\nForce",
+      "Fuerza\nEstetica"
     ],
     [
-      "Redirect\\nForce",
-      "Redirect\\nForce"
+      "Redirect\nForce",
+      "Redirigir\nFuerza"
     ],
     [
-      "Smmooth\\nEase",
-      "Smmooth\\nEase"
+      "Smmooth\nEase",
+      "Facilidad\\nSuave"
     ],
     [
-      "Save\\nOffset",
-      "Save\\nOffset"
+      "Save\nOffset",
+      "Guardar\nCompensacion"
     ],
     [
       "Ignore X",
-      "Ignore X"
+      "Ignorar X"
     ],
     [
       "Ignore Y",
-      "Ignore Y"
+      "Ignorar Y"
     ],
     [
-      "Instant\\nCamera",
-      "Instant\\nCamera"
+      "Instant\nCamera",
+      "Camera\nInstantanea"
     ],
     [
-      "Snap\\nGround",
-      "Snap\\nGround"
+      "Snap\nGround",
+      "Qubrar\nSuelo"
     ],
     [
-      "Redirect\\nDash",
-      "Redirect\\nDash"
+      "Redirect\nDash",
+      "Redirigir\nImpulso"
     ],
     [
       "<cg>Teleports</c> to an object using <cy>Target GroupID</c>.",
-      "<cg>Teleports</c> to an object using <cy>Target GroupID</c>."
+      "<cg>Teletransporta</c> a un objecto usando <cy>GrupoID de Destino</c>."
     ],
     [
       "<cl>Smooth Ease</c> makes the camera move slower.",
-      "<cl>Smooth Ease</c> makes the camera move slower."
+      "<cl>Facilidad Suave</c> hace que la camara se mueva mas despacio."
     ],
     [
       "<cp>Static Force</c> lets you specify an exit force.",
-      "<cp>Static Force</c> lets you specify an exit force."
+      "<cp>Fuerza estatica</c> te permite especificar una fuerza de salida."
     ],
     [
       "<cr>Redirect Force</c> exits based on input force.",
-      "<cr>Redirect Force</c> exits based on input force."
+      "<cr>Redirigir fuerza</c> sale en funcion de la fuerza de entrada."
     ],
     [
       "<co>Save Offset</c> keeps the offset from entering when exiting.",
-      "<co>Save Offset</c> keeps the offset from entering when exiting."
+      "<co>Guardar Desplazamiento</c> mantiene el desplazamiento al entrar cuando se sale."
     ],
     [
       "<cg>Redirect Dash</c> will rotate the dash to the exit rotation in platformer mode.",
-      "<cg>Redirect Dash</c> will rotate the dash to the exit rotation in platformer mode."
+      "<cg>Redirigir Impulso</c> rotara el impulso a la rotacion de salida en modo plataforma."
     ],
     [
       "Target GroupID",
-      "Target GroupID"
+      "ID de Grupo Objetivo"
     ],
     [
       "Color Base",
-      "Color Base"
+      "Base de color"
     ],
     [
       "Detail Color",
-      "Detail Color"
+      "Color de Detalle"
     ],
     [
       "Toggle Orb",
-      "Toggle Orb"
+      "Orbe de Alternar"
     ],
     [
       "Group ID",
-      "Group ID"
+      "Grupo ID"
     ],
     [
       "Activate Group",
-      "Activate Group"
+      "Activar Grupo"
     ],
     [
       "Claim Touch",
-      "Claim Touch"
+      "Reclamar contacto"
     ],
     [
-      "Spawn\\nOnly",
-      "Spawn\\nOnly"
+      "Spawn\nOnly",
+      "Generar\nSolo"
     ],
     [
       "Disables <cg>Group ID</c> if the player clicks within the hitbox.",
-      "Disables <cg>Group ID</c> if the player clicks within the hitbox."
+      "Deshabilita <cg>ID de Grupo</c> si el jugador hace click dentro del area de impacto."
     ],
     [
       "Use <cy>Activate Group</c> to activate and spawn instead.",
-      "Use <cy>Activate Group</c> to activate and spawn instead."
+      "Utilice <cy>Activar Grupo</c> para activar y generar en su lugar."
     ],
     [
       "<cl>Claim Touch</c> disables player jump, rings, and click buffering.",
-      "<cl>Claim Touch</c> disables player jump, rings, and click buffering."
+      "<cl>Reclamar contacto</c> deshabilita el salto del jugador, los anillos y el almacenamiento en buffer de clics."
     ],
     [
       "<cp>Spawn Only</c> makes the group spawn and not toggle on or off.",
-      "<cp>Spawn Only</c> makes the group spawn and not toggle on or off."
+      "<cp>Generar Solo</c> hace que el grupo se genere y no se alterne entre activo o inactivo."
     ],
     [
       "Allow Multi",
-      "Allow Multi"
+      "Permitir Multiples"
     ],
     [
       "Setup",
-      "Setup"
+      "Configurar"
     ],
     [
       "<cy>Allow Multi</c> makes it so the object can be activated several times.",
-      "<cy>Allow Multi</c> makes it so the object can be activated several times."
+      "<cy>Permitir Multiples</c> permite que el objeto se active varias veces."
     ],
     [
       "Setup Checkpoint",
-      "Setup Checkpoint"
+      "Configurar Control de Linea"
     ],
     [
       "SpawnID:",
-      "SpawnID:"
+      "AparicionID:"
     ],
     [
       "TargetPos:",
-      "TargetPos:"
+      "ObjetivoPos:"
     ],
     [
       "Player Pos",
-      "Player Pos"
+      "Jugador Pos"
     ],
     [
       "RespawnID:",
-      "RespawnID:"
+      "ReaparicionID:"
     ],
     [
-      "Touch\\nTrigger",
-      "Touch\\nTrigger"
+      "Touch\nTrigger",
+      "Tocar\nDisparador"
     ],
     [
-      "Spawn\\nTrigger",
-      "Spawn\\nTrigger"
+      "Spawn\nTrigger",
+      "Generar\nDisparador"
     ],
     [
       "Multi\\nTrigger",
-      "Multi\\nTrigger"
+      "Disparador\nMultiple"
     ],
     [
       "<cg>Checkpoints</c> used when the game type is Platformer.",
-      "<cg>Checkpoints</c> used when the game type is Platformer."
+      "<cg>Control de Linea</c> se utiliza cuando el tipo de juego es Plataformas."
     ],
     [
       "<cy>SpawnID</c> lets you spawn a group when the checkpoint is activated.",
-      "<cy>SpawnID</c> lets you spawn a group when the checkpoint is activated."
+      "<cy>AparicionID</c> te permite generar un grupo cuando se activa el punto de control."
     ],
     [
       "<cl>TargetPos</c> lets you set a respawn location upon death after the checkpoint. Make sure this group contains one object.",
-      "<cl>TargetPos</c> lets you set a respawn location upon death after the checkpoint. Make sure this group contains one object."
+      "<cl>ObjetivoPos</c> te permite establecer una ubicacion de reaparicion tras la muerte despues del punto de control. Asegurate de que este grupo contenga un objeto."
     ],
     [
       "<cp>RespawnID</c> lets you spawn a group when the player respawns at this checkpoint.",
-      "<cp>RespawnID</c> lets you spawn a group when the player respawns at this checkpoint."
+      "<cp>ID de Reaparicion</c> te permite generar un grupo cuando el jugador reaparece en este punto de control."
     ],
     [
       "Text",
-      "Text"
+      "Texto"
     ],
     [
       "Insert Text",
-      "Insert Text"
+      "Insertar Texto"
     ],
     [
       "Kerning: ",
-      "Kerning: "
+      "Espaciado: "
     ],
     [
       "Setup Force Block",
-      "Setup Force Block"
+      "Configurar Bloque de Fuerza"
     ],
     [
       "Force:",
-      "Force:"
+      "Fuerza:"
     ],
     [
       "Relative",
-      "Relative"
+      "Relativo"
     ],
     [
       "Range",
-      "Range"
+      "Rango"
     ],
     [
       "ForceID",
-      "ForceID"
+      "FuerzaID"
     ],
     [
       "<cg>Force</c> is how much force is applied upon player collision.",
-      "<cg>Force</c> is how much force is applied upon player collision."
+      "<cg>Fuerza</c> es la cantidad de fuerza que se aplica al colisionar el jugador."
     ],
     [
       "Blocks with the same <cy>Force ID</c> do not stack.",
-      "Blocks with the same <cy>Force ID</c> do not stack."
+      "Los bloques con el mismo <cy>Fuerza ID</c> no se apilan."
     ],
     [
       "<cl>Relative</c> makes force direction based on angle between player and object center.",
-      "<cl>Relative</c> makes force direction based on angle between player and object center."
+      "<cl>Relativo</c> hace que la direccion de la fuerza se base en el angulo entre el jugador y el centro del objeto."
     ],
     [
       "<cp>UseRange</c> lets you set a range to apply force from based on player position. Range calculation is based on block radius.",
-      "<cp>UseRange</c> lets you set a range to apply force from based on player position. Range calculation is based on block radius."
+      "<cp>Usar Rango</c> te permite establecer un rango para aplicar fuerza desde una posicion especifica del jugador. El calculo del rango se basa en el radio del bloque."
     ],
     [
       "Create Particle Effect",
-      "Create Particle Effect"
+      "Crear Particulas de Efecto"
     ],
     [
       "Motion",
-      "Motion"
+      "Movimiento"
     ],
     [
       "Texture",
-      "Texture"
+      "Textura"
     ],
     [
       "Radius",
-      "Radius"
+      "Radio"
     ],
     [
-      "Max\\nParticles",
-      "Max\\nParticles"
+      "Max\nParticles",
+      "Particulas\nMaximas"
     ],
     [
       "Duration",
-      "Duration"
+      "Duracion"
     ],
     [
       "LifeTime",
-      "LifeTime"
+      "Tiempo de Vida"
     ],
     [
       "Angle",
-      "Angle"
+      "Angulo"
     ],
     [
       "Speed",
-      "Speed"
+      "Velocidad"
     ],
     [
       "PosVar X",
@@ -3524,219 +3464,215 @@
     ],
     [
       "Gravity X",
-      "Gravity X"
+      "Gravedad X"
     ],
     [
       "AccelRad",
-      "AccelRad"
+      "Aceleracion Radial"
     ],
     [
       "AccelTan",
-      "AccelTan"
+      "Aceleracion Tangencial"
     ],
     [
       "StartSize",
-      "StartSize"
+      "Magnitud Inicial"
     ],
     [
       "EndSize",
-      "EndSize"
+      "Magnitud Final"
     ],
     [
       "StartSpin",
-      "StartSpin"
+      "Inicio Giro"
     ],
     [
       "EndSpin",
-      "EndSpin"
-    ],
-    [
-      "EndSpin",
-      "EndSpin"
+      "Final Giro"
     ],
     [
       "Start_R",
-      "Start_R"
+      "Inicio_R"
     ],
     [
       "Start_G",
-      "Start_G"
+      "Inicio_G"
     ],
     [
       "Start_B",
-      "Start_B"
+      "Inicio_B"
     ],
     [
       "Start_A",
-      "Start_A"
+      "Inicio_A"
     ],
     [
       "End_R",
-      "End_R"
+      "Final_R"
     ],
     [
       "End_G",
-      "End_G"
+      "Final_G"
     ],
     [
       "End_B",
-      "End_B"
+      "Final_B"
     ],
     [
       "End_A",
-      "End_A"
+      "Final_A"
     ],
     [
       "Free",
-      "Free"
+      "Gratis"
     ],
     [
       "Grouped",
-      "Grouped"
+      "Agrupado"
     ],
     [
       "Relative",
-      "Relative"
+      "Relativo"
     ],
     [
       "FrictionP",
-      "FrictionP"
+      "FriccionP"
     ],
     [
       "FrictionS",
-      "FrictionS"
+      "FriccionS"
     ],
     [
       "FrictionR",
-      "FrictionR"
+      "FriccionR"
     ],
     [
       "Respawn",
-      "Respawn"
+      "Reaparicion"
     ],
     [
       "Additive",
-      "Additive"
+      "Aditivo"
     ],
     [
-      "Start Size\\n= End",
-      "Start Size\\n= End"
+      "Start Size\n= End",
+      "Magnitud Inicial\n= Fin"
     ],
     [
-      "Start Spin\\n= End",
-      "Start Spin\\n= End"
+      "Start Spin\n= End",
+      "Inicio Giro\n= Fin"
     ],
     [
-      "Start Rad\\n= End",
-      "Start Rad\\n= End"
+      "Start Rad\n= End",
+      "Inicio Radio\n= Fin"
     ],
     [
-      "Start rot\\nis dir",
-      "Start rot\\nis dir"
+      "Start rot\nis dir",
+      "Inicio podre\nes dir"
     ],
     [
-      "Use\\nobj color",
-      "Use\\nobj color"
+      "Use\nobj color",
+      "Usar\nObjeto color"
     ],
     [
-      "Uniform\\nobj color",
-      "Uniform\\nobj color"
+      "Uniform\nobj color",
+      "Objecto\nuniforme color"
     ],
     [
-      "Dynamic\\nrotation",
-      "Dynamic\\nrotation"
+      "Dynamic\nrotation",
+      "Rotacion\ndinamica"
     ],
     [
-      "Animate\\non Trigger",
-      "Animate\\non Trigger"
+      "Animate\non Trigger",
+      "Animar\ncon Interruptor"
     ],
     [
-      "Animate\\nActive Only",
-      "Animate\\nActive Only"
+      "Animate\nActive Only",
+      "Animar\nSolo Activo"
     ],
     [
-      "Order\\nSensitive",
-      "Order\\nSensitive"
+      "Order\nSensitive",
+      "Orden\nSensible"
     ],
     [
-      "StartRGB\\nVar Sync",
-      "StartRGB\\nVar Sync"
+      "StartRGB\nVar Sync",
+      "IniciarRGB\nVar Sync"
     ],
     [
-      "Quick\\nStart",
-      "Quick\\nStart"
+      "Quick\nStart",
+      "Iniciar\nRapido"
     ],
     [
       "Perf\\nLog",
-      "Perf\\nLog"
+      "Regristro de\nRendimiento"
     ],
     [
       "Performance Log",
-      "Performance Log"
+      "Registro de Actuacion"
     ],
     [
       "<cg>1: Active / Max Particles</c>",
-      "<cg>1: Active / Max Particles</c>"
+      "<cg>1: Activar / Particulas Maximas</c>"
     ],
     [
       "<cy>2: Draw cost.</c>",
-      "<cy>2: Draw cost.</c>"
+      "<cy>2: Dibujar Costo.</c>"
     ],
     [
       "<cl>Try to keep the draw cost low.</c>",
-      "<cl>Try to keep the draw cost low.</c>"
+      "<cl>Intenta mantener el costo de dibujo bajo.</c>"
     ],
     [
       "Edit Animation Settings",
-      "Edit Animation Settings"
+      "Editar Configuración de Animacion"
     ],
     [
-      "Randomize\\nStart",
-      "Randomize\\nStart"
+      "Randomize\nStart",
+      "Inicio\nAleatorio"
     ],
     [
-      "Disable\\ndelaye\\nloop",
-      "Disable\\ndelaye\\nloop"
+      "Disable\ndelayed\nloop",
+      "Deshabilitar\nbucle\nretrasado"
     ],
     [
-      "Use\\nSpeed",
-      "Use\\nSpeed"
+      "Use\nSpeed",
+      "Usar\nVelocidad"
     ],
     [
-      "Disable\\nanimShine",
-      "Disable\\nanimShine"
+      "Disable\nanimShine",
+      "Desactivar\nBrillo de Anim"
     ],
     [
       "Only if\\nactive",
-      "Only if\\nactive"
+      "Solo si\\nesta activo"
     ],
     [
       "Single Frame:",
-      "Single Frame:"
+      "Fotograma unico:"
     ],
     [
       "Offset Anim",
-      "Offset Anim"
+      "Compensar Anim"
     ],
     [
       "<cg>Disable Anim Shine</c> removes the white flash at the start of the animation for some animated objects.",
-      "<cg>Disable Anim Shine</c> removes the white flash at the start of the animation for some animated objects."
+      "<cg>Desactivar Brillo de Anim</c> Elimina el destello blanco al inicio de la animacion de algunos objetos animados."
     ],
     [
       "<cy>Use Speed</c> lets you set a custom animation speed.",
-      "<cy>Use Speed</c> lets you set a custom animation speed."
+      "<cy>Usar Velocidad</c> Te permite configurar una velocidad de animacion personalizada."
     ],
     [
       "<cp>Only If Active</c> only does this if the object is active.",
-      "<cp>Only If Active</c> only does this if the object is active."
+      "<cp>Solo si esta activo</c> Esto solo ocurre si el objeto está activo."
     ],
     [
       "<cr>Single Frame</c> lets you select a specific frame of the animation.",
-      "<cr>Single Frame</c> lets you select a specific frame of the animation."
+      "<cr>Cuadro Unico</c> Te permite seleccionar un fotograma especifico de la animacion."
     ],
     [
       "<co>Offset Anim</c> will offset the animation the value of <cr>single frame</c>.",
-      "<co>Offset Anim</c> will offset the animation the value of <cr>single frame</c>."
+      "<co>Compensar Anim</c> Desplazara la animacion el valor de <cr>Fotograma Unico</c>."
     ],
     [
       "Are you sure you want to <cr>quit</c>?",
@@ -3979,6 +3915,10 @@
       "Misiones"
     ],
     [
+      "Quest Complete!",
+      "Mision Completada!"
+    ],
+    [
       "<cg>Quests</c> are small daily challenges that give <cy>rewards</c>. The type of quest is decided randomly. You can have maximum 3 active and 3 queued at a time. Queued quests are indicated by <cl>dots</c> to the right of a quest.",
       "Las <cg>Misiones</c> son diminutos desafios diarios que otorgan <cy>recompensas</c>. El tipo de mision se decide aleatoriamente. Puedes tener un maximo de 3 misiones activas y 3 en cola a la vez. Las misiones en cola se indican con <cl>puntos</c> a la derecha."
     ],
@@ -4080,7 +4020,7 @@
     ],
     [
       "You need a <cg>Music Unlocker</c> to play <cy>normal music</c> in <cl>practice mode</c>.",
-      "Necesitas un <cg>Music Unlocker</c> para reproducir <cy>musica normal</c> en el <cl>modo de practica</c>."
+      "Compra <cg>MusicUnlocker</c> para reproducir <co>musica</c> en el <cl>modo de practica</c>."
     ],
     [
       "Platformer UI",
@@ -4260,19 +4200,19 @@
     ],
     [
       "Who left the <cy>lights</c> on?",
-      "Who left the <cy>lights</c> on?"
+      "Quien dejo las <cy>luces</c> prendidas?"
     ],
     [
       "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>",
-      "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>"
+      "<co>Tengo un mal presentimiento<d010>.<d010>.<d010>.</c>"
     ],
     [
       "<cl>Great...</c><d020> Just what I needed.<d050>",
-      "<cl>Great...</c><d020> Just what I needed.<d050>"
+      "<cl>Excelente...</c><d020> Justo lo que necesitaba.<d050>"
     ],
     [
       "Another visitor to my <cr>prison</c>.",
-      "Another visitor to my <cr>prison</c>."
+      "Otro visitante para mi <cr>prision</c>."
     ],
     [
       "Must be my lucky day...<d040> <cg>or yours</c>.",
