@@ -2316,11 +2316,13 @@
     ],
     [
       "Spawn Group:",
-      "Grupo Generacion:"
+      "Grupo Generacion:",
+      true
     ],
     [
       "Spawn Group",
-      "Grupo Generacion"
+      "Grupo Generacion",
+      true
     ],
     [
       "Lets you set a target position for player spawn.",
@@ -2553,6 +2555,34 @@
     [
       "Practice",
       "Practica"
+    ],
+    [
+      "Save/Load UI",
+      "Guardar/Cargar UI"
+    ],
+    [
+      "Save1",
+      "Guardar1"
+    ],
+    [
+      "Save2",
+      "Guardar2"
+    ],
+    [
+      "Save3",
+      "Guardar3"
+    ],
+    [
+      "Load1",
+      "Cargar1"
+    ],
+    [
+      "Load2",
+      "Cargar2"
+    ],
+    [
+      "Load3",
+      "Cargar3"
     ],
     [
       "Find Song",
@@ -2880,7 +2910,8 @@
     ],
     [
       "ItemID",
-      "Articulo ID"
+      "ArticuloID",
+      true
     ],
     [
       "Sub\nCount",
@@ -2912,7 +2943,43 @@
     ],
     [
       "Target Orden",
-      "Pos de Destino"
+      "Pos de Destino",
+      true
+    ],
+    [
+      "Order",
+      "Orden",
+      true
+    ],
+    [
+      "Channel",
+      "Canal",
+      true
+    ],
+    [
+      "Mini Mode",
+      "Modo Mini"
+    ],
+    [
+      "Dual Mode",
+      "Modo Doble"
+    ],
+    [
+      "Mirror Mode",
+      "Modo Espejo"
+    ],
+    [
+      "Rotate\nGameplay",
+      "Rotar\nJuego"
+    ],
+    [
+      "Flip\nGravity",
+      "Invertir\nGravedad",
+      true
+    ],
+    [
+      "Reverse\nGameplay",
+      "Invertir\nJuego"
     ],
     [
       "Target Channel",
@@ -2924,11 +2991,13 @@
     ],
     [
       "Move X:",
-      "Movimiento X:"
+      "Movi X:",
+      true
     ],
     [
       "Move Y:",
-      "Movimiento Y:"
+      "Movi Y:",
+      true
     ],
     [
       "Lock X:",
@@ -2940,11 +3009,11 @@
     ],
     [
       "Mod X:",
-      "Modificar X:"
+      "Mod X:"
     ],
     [
       "Mod Y:",
-      "Modificar Y:"
+      "Mod Y:"
     ],
     [
       "Target\nMode",
@@ -2964,7 +3033,8 @@
     ],
     [
       "Move Time:",
-      "Tiempo de Movimiento:"
+      "Tiempo de Movi:",
+      true
     ],
     [
       "Silent",
@@ -2972,11 +3042,13 @@
     ],
     [
       "Center Group ID:",
-      "ID del Grupo Central:"
+      "GrupoID Central:",
+      true
     ],
     [
       "TargetPos Group ID:",
-      "DirPos del GrupoID:"
+      "DirPos del GrupoID:",
+      true
     ],
     [
       "X Only",
@@ -2992,15 +3064,22 @@
     ],
     [
       "Easing",
-      "Suavizado"
+      "Suavizado",
+      true
     ],
     [
-      "Easing",
-      "Suavizado"
+      "Target Group ID:",
+      "GrupoID de Destino:",
+      true
     ],
     [
       "Object Options",
       "Opciones de Objeto"
+    ],
+    [
+      "No Time\nPenalty",
+      "Sin Penalizacion\nde Tiempo",
+      true
     ],
     [
       "<cg>NoTouch</c> disables player collision for solid objects.",
@@ -3264,7 +3343,8 @@
     ],
     [
       "Use nearby as reference",
-      "Utilizar cercanias como referencia"
+      "Utilizar cercanias como referencia",
+      true
     ],
     [
       "Dont delete",
@@ -3316,11 +3396,13 @@
     ],
     [
       "Use",
-      "Usar"
+      "Usar",
+      true
     ],
     [
       "Edit",
-      "Editar"
+      "Editar",
+      true
     ],
     [
       "Added to editor",
@@ -3612,7 +3694,8 @@
     ],
     [
       "Create Particle Effect",
-      "Crear Particulas de Efecto"
+      "Crear Particulas de Efecto",
+      true
     ],
     [
       "Motion",
@@ -3813,6 +3896,20 @@
     [
       "<cl>Try to keep the draw cost low.</c>",
       "<cl>Intenta mantener el costo de dibujo bajo.</c>"
+    ],
+    [
+      "Smooth\nEase",
+      "Movi\nSuave"
+    ],
+    [
+      "MinForce:",
+      "FuerzaMin:",
+      true
+    ],
+    [
+      "MaxForce:",
+      "FuerzaMax:",
+      true
     ],
     [
       "Edit Animation Settings",
@@ -4490,7 +4587,8 @@
     [
       "Play",
       "Jugar",
-      "play_001.mp3"
+      false,
+      "Shop_02_001.mp3"
     ]
   ]
 }
