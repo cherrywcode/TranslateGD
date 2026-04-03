@@ -824,15 +824,15 @@
     ],
     [
       "Disable Comments",
-      "Desactivar comentarios\\en los niveles"
+      "Desactivar comentarios\nen los niveles"
     ],
     [
-      "Disable Account\\Comments",
-      "Desactivar comentarios\\de las cuentas"
+      "Disable Account\nComments",
+      "Desactivar comentarios\nde las cuentas"
     ],
     [
-      "Only Allow\\Featured Levels",
-      "Mostrar solo\\niveles destacados"
+      "Only Allow\nFeatured Levels",
+      "Mostrar solo\nniveles destacados"
     ],
     [
       "Video Options",
@@ -2812,7 +2812,191 @@
     ],
     [
       "Default",
-      "Por defecto"
+      "Fijado"
+    ],
+    [
+      "Degrees/s:",
+      "Angulo/s:"
+    ],
+    [
+      "Edit Rotate Action",
+      "Editar Accion de Rotacion"
+    ],
+    [
+      "<cg>Default</c> uses the default rotation values.",
+      "<cg>Fijado</c> utiliza los valores de rotacion por defecto."
+    ],
+    [
+      "<cy>Custom</c> lets you specify degrees per second.",
+      "<cy>Personalizado</c> te permite especificar grados por segundo."
+    ],
+    [
+      "<cl>Disable</c> stops rotation completely.",
+      "<cl>Deshabilitar</c> detiene completamente la rotacion."
+    ],
+    [
+      "Edit Pickup",
+      "Editar Recogida"
+    ],
+    [
+      "Pickup\nItem",
+      "Recoger\nArticulo"
+    ],
+    [
+      "Toggle\nTrigger",
+      "Alternar\nDisparador"
+    ],
+    [
+      "Particle",
+      "Particula"
+    ],
+    [
+      "Points",
+      "Puntos"
+    ],
+    [
+      "No\nAnim",
+      "Sin\nAnimacion"
+    ],
+    [
+      "Sets the object to be a <cg>pickup</c> collectable for <cy>ItemID</c>.",
+      "Establece el objeto como un objeto coleccionable <cg>Recorger</c> para <cy>ArticuloID</c>."
+    ],
+    [
+      "<cl>Points</c> is how much it increases the count of that ItemID.",
+      "<cl>Puntos</c> es cuanto aumenta el recuento de ese ID de articulo."
+    ],
+    [
+      "<cp>Toggle Trigger</c> lets you toggle or spawn a specific group when collected.",
+      "<cp>Disparador de Alternancia</c> te permite alternar o generar un grupo especifico cuando es recogido."
+    ],
+    [
+      "<cr>Particle</c> lets you refer to a custom particles to spawn when collected.",
+      "<cr>Particula</c> te permite referirte a particulas personalizadas para generar cuando son recogidas."
+    ],
+    [
+      "<co>No Anim</c> disables the animation upon collection.",
+      "<co>Sin Animacion</c> deshabilita la animacion al ser recogido."
+    ],
+    [
+      "ItemID",
+      "Articulo ID"
+    ],
+    [
+      "Sub\nCount",
+      "Sub\nContador"
+    ],
+    [
+      "Enable\nGroup",
+      "Habilitar\nGrupo"
+    ],
+    [
+      "Target GroupID:",
+      "GrupoID de Destino:"
+    ],
+    [
+      "Multi\nTrigger",
+      "Multi\nGatillo"
+    ],
+    [
+      "Max Coins",
+      "Monedas Maximas"
+    ],
+    [
+      "You cannot add more than <cy>3</c> <cg>coins</c> in a single level.",
+      "No puedes agregar mas de <cy>3</c> <cg>monedas</c> en un solo nivel."
+    ],
+    [
+      "Reset\nCamera",
+      "Restablecer\nCamara"
+    ],
+    [
+      "Target Orden",
+      "Pos de Destino"
+    ],
+    [
+      "Target Channel",
+      "Pos del Canal"
+    ],
+    [
+      "Setup Move Command",
+      "Configurar Comando de Movimiento"
+    ],
+    [
+      "Move X:",
+      "Movimiento X:"
+    ],
+    [
+      "Move Y:",
+      "Movimiento Y:"
+    ],
+    [
+      "Lock X:",
+      "Bloquear X:"
+    ],
+    [
+      "Lock Y:",
+      "Bloquear Y:"
+    ],
+    [
+      "Mod X:",
+      "Modificar X:"
+    ],
+    [
+      "Mod Y:",
+      "Modificar Y:"
+    ],
+    [
+      "Target\nMode",
+      "Modo\nObjetivo"
+    ],
+    [
+      "Direction\nMode",
+      "Modo\nDireccion"
+    ],
+    [
+      "Small\nStep",
+      "Paso\nDiminuto"
+    ],
+    [
+      "Dinamic\nMode",
+      "Modo\nDinamico"
+    ],
+    [
+      "Move Time:",
+      "Tiempo de Movimiento:"
+    ],
+    [
+      "Silent",
+      "Silencioso"
+    ],
+    [
+      "Center Group ID:",
+      "ID del Grupo Central:"
+    ],
+    [
+      "TargetPos Group ID:",
+      "DirPos del GrupoID:"
+    ],
+    [
+      "X Only",
+      "Solo X"
+    ],
+    [
+      "Y Only",
+      "Solo Y"
+    ],
+    [
+      "Distance:",
+      "Distancia:"
+    ],
+    [
+      "Easing",
+      "Suavizado"
+    ],
+    [
+      "Easing",
+      "Suavizado"
     ],
     [
       "Object Options",
@@ -3044,11 +3228,11 @@
     ],
     [
       "<cr>Reference Only</c> blocks are used as reference positions.",
-      "Los bloques <cr>Solo referencia</c> se usan como posiciones de referencia."
+      "Bloques <cr>Solo referencia</c> usan como posiciones de referencia."
     ],
     [
       "<co>Allow Rotation, Flip X, and Flip Y</c> allow rotating the design.",
-      "<co>Permitir rotacion, voltear X y voltear Y</c> permiten rotar el diseño."
+      "<co>Permitir rotacion, voltearX y voltearY</c> permiten rotar el Diseno."
     ],
     [
       "<ca>Dont Delete</c> keeps these blocks when template is pasted.",
@@ -3056,7 +3240,7 @@
     ],
     [
       "<cy>The tool is in beta and will be enhanced in future updates.</c>",
-      "<cy>La herramienta esta en fase beta y se mejorara en futuras actualizaciones.</c>"
+      "<cy>La herramienta esta en fase beta y se mejorara en futuras actualizaciones >w<!</c>"
     ],
     [
       "Reference Only",
@@ -3080,7 +3264,7 @@
     ],
     [
       "Use nearby as reference",
-      "Utilice las cercanias como referencia"
+      "Utilizar cercanias como referencia"
     ],
     [
       "Dont delete",
@@ -3172,7 +3356,11 @@
     ],
     [
       "NO Multi\nActivate",
-      "NO Multi-\nActivar"
+      "NO Multi\nActivar"
+    ],
+    [
+      "Multi\nActivate",
+      "Activar\nMultiple"
     ],
     [
       "Preview",
@@ -3220,7 +3408,7 @@
     ],
     [
       "Save\nOffset",
-      "Guardar\nCompensacion"
+      "Guardar\nIgualdad"
     ],
     [
       "Ignore X",
@@ -3296,7 +3484,7 @@
     ],
     [
       "Spawn\nOnly",
-      "Generar\nSolo"
+      "Gen\nSolo"
     ],
     [
       "Disables <cg>Group ID</c> if the player clicks within the hitbox.",
@@ -3312,11 +3500,11 @@
     ],
     [
       "<cp>Spawn Only</c> makes the group spawn and not toggle on or off.",
-      "<cp>Generar Solo</c> hace que el grupo se genere y no se alterne entre activo o inactivo."
+      "<cp>Gen Solo</c> hace que el grupo se genere y no se alterne entre activo o inactivo."
     ],
     [
       "Allow Multi",
-      "Permitir Multiples"
+      "Permitir Multi"
     ],
     [
       "Setup",
@@ -3523,6 +3711,10 @@
       "Final_A"
     ],
     [
+      "EndRGB\nVar Sync",
+      "FinalRGB\nVar Sync"
+    ],
+    [
       "Free",
       "Gratis"
     ],
@@ -3584,7 +3776,7 @@
     ],
     [
       "Animate\non Trigger",
-      "Animar\ncon Interruptor"
+      "Animar\ncon Inter"
     ],
     [
       "Animate\nActive Only",
@@ -3603,12 +3795,12 @@
       "Iniciar\nRapido"
     ],
     [
-      "Perf\\nLog",
-      "Regristro de\nRendimiento"
+      "Perf\nLog",
+      "Reg\nRend"
     ],
     [
       "Performance Log",
-      "Registro de Actuacion"
+      "Registro de Rendimiento"
     ],
     [
       "<cg>1: Active / Max Particles</c>",
@@ -3639,12 +3831,12 @@
       "Usar\nVelocidad"
     ],
     [
-      "Disable\nanimShine",
+      "Disable\nAnimShine",
       "Desactivar\nBrillo de Anim"
     ],
     [
-      "Only if\\nactive",
-      "Solo si\\nesta activo"
+      "Only if\nactive",
+      "Solo si\nesta activo"
     ],
     [
       "Single Frame:",
@@ -3653,6 +3845,14 @@
     [
       "Offset Anim",
       "Compensar Anim"
+    ],
+    [
+      "Offset\nAnim",
+      "Compensar\nAnim"
+    ],
+    [
+      "Disable",
+      "Desactivar"
     ],
     [
       "<cg>Disable Anim Shine</c> removes the white flash at the start of the animation for some animated objects.",
