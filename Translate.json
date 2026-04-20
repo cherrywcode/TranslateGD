@@ -2910,8 +2910,8 @@
     ],
     [
       "ItemID",
-      "ArticuloID",
-      true
+      "Articulo",
+      0.4
     ],
     [
       "Sub\nCount",
@@ -2942,9 +2942,9 @@
       "Restablecer\nCamara"
     ],
     [
-      "Target Orden",
+      "Target Order",
       "Pos de Destino",
-      true
+      0.5
     ],
     [
       "Order",
@@ -2991,13 +2991,11 @@
     ],
     [
       "Move X:",
-      "Movi X:",
-      true
+      "Mover X:"
     ],
     [
       "Move Y:",
-      "Movi Y:",
-      true
+      "Mover Y:"
     ],
     [
       "Lock X:",
@@ -3033,8 +3031,8 @@
     ],
     [
       "Move Time:",
-      "Tiempo de Movi:",
-      true
+      "Tiempo de Movimiento:",
+      0.4
     ],
     [
       "Silent",
@@ -3065,7 +3063,7 @@
     [
       "Easing",
       "Suavizado",
-      true
+      0.48
     ],
     [
       "Target Group ID:",
@@ -3344,7 +3342,7 @@
     [
       "Use nearby as reference",
       "Utilizar cercanias como referencia",
-      true
+      0.275
     ],
     [
       "Dont delete",
@@ -3397,12 +3395,12 @@
     [
       "Use",
       "Usar",
-      true
+      0.4
     ],
     [
       "Edit",
       "Editar",
-      true
+      0.4
     ],
     [
       "Added to editor",
@@ -3695,7 +3693,7 @@
     [
       "Create Particle Effect",
       "Crear Particulas de Efecto",
-      true
+      0.525
     ],
     [
       "Motion",
@@ -3904,12 +3902,12 @@
     [
       "MinForce:",
       "FuerzaMin:",
-      true
+      0.5
     ],
     [
       "MaxForce:",
       "FuerzaMax:",
-      true
+      0.5
     ],
     [
       "Edit Animation Settings",
