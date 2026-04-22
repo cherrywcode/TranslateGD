@@ -2949,12 +2949,193 @@
     [
       "Order",
       "Orden",
-      true
+      0.425
     ],
     [
       "Channel",
       "Canal",
-      true
+      0.425
+    ],
+    [
+      "Ease In Out",
+      "Suavizar Entrada y Salida",
+      0.285
+    ],
+    [
+      "Ease In",
+      "Suavizar Entrada",
+      0.425
+    ],
+    [
+      "Ease Out",
+      "Suavizar Salida",
+      0.45
+    ],
+    [
+      "Elastic In Out",
+      "Elastico Dentro y Fuera",
+      0.28
+    ],
+    [
+      "Elastic In",
+      "Elastico Dentro",
+      0.43
+    ],
+    [
+      "Elastic Out",
+      "Elastico Fuera",
+      0.43
+    ],
+    [
+      "Bounce In Out",
+      "Rebotar Dentro y Fuera",
+      0.32
+    ],
+    [
+      "Bounce In Out",
+      "Rebotar Dentro y Fuera",
+      0.32
+    ],
+    [
+      "Bounce In",
+      "Rebotar Dentro",
+      0.46
+    ],
+    [
+      "Bounce Out",
+      "Rebotar Fuera",
+      0.46
+    ],
+    [
+      "Exponential In Out",
+      "Exponencial Dentro y Fuera",
+      0.27
+    ],
+    [
+      "Exponential In",
+      "Entrada Exponencial",
+      0.37
+    ],
+    [
+      "Exponential Out",
+      "Salida Exponencial",
+      0.37
+    ],
+    [
+      "Sine In Out",
+      "Seno Dentro y Fuera",
+      0.37
+    ],
+    [
+      "Sine In",
+      "Seno Dentro",
+      0.56
+    ],
+    [
+      "Sine Out",
+      "Seno Fuera",
+      0.56
+    ],
+    [
+      "Back In Out",
+      "Volver Dentro y Fuera",
+      0.33
+    ],
+    [
+      "Back In",
+      "Volver Adentro",
+      0.46
+    ],
+    [
+      "Back Out",
+      "Volver Afuera",
+      0.47
+    ],
+    [
+      "Player\nColor 1",
+      "Color 1\ndel Jugador",
+      0.3
+    ],
+    [
+      "Player\nColor 2",
+      "Color 1\ndel Jugador",
+      0.3
+    ],
+    [
+      "Stop Trigger",
+      "Detener Disparador"
+    ],
+    [
+      "TargetID",
+      "DestinoID"
+    ],
+    [
+      "Use\nControl ID",
+      "ID de Control\nde Uso"
+    ],
+    [
+      "Setup Pulse Effect",
+      "Configurar Efecto de Pulso"
+    ],
+    [
+      "Fade In:",
+      "Aparecer:"
+    ],
+    [
+      "Hold:",
+      "Mantener:"
+    ],
+    [
+      "Fade Out:",
+      "Desvanecer:"
+    ],
+    [
+      "Touch\nTriggered",
+      "Tocado\nActivado"
+    ],
+    [
+      "Spawm\nTriggered",
+      "Generado\nActivado"
+    ],
+    [
+      "Exclusive",
+      "Exclusivo"
+    ],
+    [
+      "Channel ID",
+      "Canal ID"
+    ],
+    [
+      "Group",
+      "Grupo"
+    ],
+    [
+      "Static\nHSV",
+      "HSV\nEstatico"
+    ],
+    [
+      "Pulse Mode",
+      "Modo de Pulso"
+    ],
+    [
+      "Target Type",
+      "Tipo de Objetivo"
+    ],
+    [
+      "Main\nOnly",
+      "Solo\nPrincipal"
+    ],
+    [
+      "Detail\nOnly",
+      "Solo\nDetalles"
+    ],
+    [
+      "Special Color Select",
+      "Seleccion Especial de Color"
+    ],
+    [
+      "Line",
+      "Linea"
     ],
     [
       "Mini Mode",
@@ -3028,6 +3209,14 @@
     [
       "Dinamic\nMode",
       "Modo\nDinamico"
+    ],
+    [
+      "Create\nAll",
+      "Crear\nTodo"
+    ],
+    [
+      "Paste\nTemplate",
+      "Pegar\nPlantilla"
     ],
     [
       "Move Time:",
