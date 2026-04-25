@@ -249,6 +249,10 @@
       "Cancion ID: %i  Peso: %.%%MB"
     ],
     [
+      "ID: %i  Size: %s",
+      "ID: %i  Peso: %s"
+    ],
+    [
       "Songs: %i  SFX: %i  Size: %s",
       "Canciones: %i  Efectos: %i  Peso: %s"
     ],
@@ -2220,8 +2224,7 @@
     ],
     [
       "Speed:",
-      "Velocidad:",
-      0.5
+      "Velocidad:"
     ],
     [
       "Select Speed",
@@ -2237,8 +2240,7 @@
     ],
     [
       "Options:",
-      "Opciones:",
-      0.5
+      "Opciones:"
     ],
     [
       "Game Type:",
@@ -2314,11 +2316,13 @@
     ],
     [
       "Spawn Group:",
-      "Grupo Generacion:"
+      "Grupo Generacion:",
+      true
     ],
     [
       "Spawn Group",
-      "Grupo Generacion"
+      "Grupo Generacion",
+      true
     ],
     [
       "Lets you set a target position for player spawn.",
@@ -2922,6 +2926,10 @@
       "GrupoID de Destino:"
     ],
     [
+      "Multi\nTrigger",
+      "Multi\nGatillo"
+    ],
+    [
       "Max Coins",
       "Monedas Maximas"
     ],
@@ -3045,12 +3053,12 @@
     ],
     [
       "Player\nColor 1",
-      "Jugador\nColor 1",
+      "Color 1\ndel Jugador",
       0.3
     ],
     [
       "Player\nColor 2",
-      "Jugador\nColor 2",
+      "Color 1\ndel Jugador",
       0.3
     ],
     [
@@ -3067,27 +3075,26 @@
     ],
     [
       "Setup Pulse Effect",
-      "Configurar Efecto de Pulso",
-      0.65
+      "Configurar Efecto de Pulso"
     ],
     [
-      "Fade In: ",
-      "Aparecer: "
+      "Fade In:",
+      "Aparecer:"
     ],
     [
-      "Hold: ",
-      "Mantener: "
+      "Hold:",
+      "Mantener:"
     ],
     [
-      "Fade Out: ",
-      "Desvanecer: "
+      "Fade Out:",
+      "Desvanecer:"
     ],
     [
       "Touch\nTriggered",
       "Tocado\nActivado"
     ],
     [
-      "Spawn\nTriggered",
+      "Spawm\nTriggered",
       "Generado\nActivado"
     ],
     [
@@ -3104,8 +3111,7 @@
     ],
     [
       "Static\nHSV",
-      "HSV\nEstatico",
-      0.225
+      "HSV\nEstatico"
     ],
     [
       "Pulse Mode",
@@ -3117,8 +3123,7 @@
     ],
     [
       "Main\nOnly",
-      "Solo\nCentral",
-      0.25
+      "Solo\nPrincipal"
     ],
     [
       "Detail\nOnly",
@@ -3126,184 +3131,11 @@
     ],
     [
       "Special Color Select",
-      "Seleccion Especial de Color",
-      0.75
-    ],
-    [
-      "Saturation:",
-      "Saturacion:"
-    ],
-    [
-      "Saturation: %s",
-      "Saturacion: %s"
-    ],
-    [
-      "Brightness: %s",
-      "Brillo: %s"
-    ],
-    [
-      "Brightness:",
-      "Brillo:"
-    ],
-    [
-      "Legacy\nHSV",
-      "HSV\nAntiguo"
-    ],
-    [
-      "Copy Opacity",
-      "Copiar\nOpacidad"
+      "Seleccion Especial de Color"
     ],
     [
       "Line",
       "Linea"
-    ],
-    [
-      "Setup Opacity Effect",
-      "Configurar Efecto de Opacidad"
-    ],
-    [
-      "Toggle Group",
-      "Alternar Grupo"
-    ],
-    [
-      "Preview\nDisable",
-      "Vista\nDesactivada"
-    ],
-    [
-      "Spawn\nOrdered",
-      "Generado\nOrdenado"
-    ],
-    [
-      "Reset\nRemap",
-      "Restablecer\nReasignacion"
-    ],
-    [
-      "Delay: %s",
-      "Retraso: %s"
-    ],
-    [
-      "Delay:",
-      "Retraso:"
-    ],
-    [
-      "NewID:",
-      "IDNuevo:"
-    ],
-    [
-      "Setup Scale Command",
-      "Configurar Comando de Escala"
-    ],
-    [
-      "ScaleX:",
-      "Escala X:"
-    ],
-    [
-      "ScaleY:",
-      "Escala Y:"
-    ],
-    [
-      "Div by Value X",
-      "Dividir por Valor X"
-    ],
-    [
-      "Div by Value Y",
-      "Dividir por Valor Y"
-    ],
-    [
-      "Only\nMove",
-      "Solo\nMover"
-    ],
-    [
-      "Relative\nScale",
-      "Escala\nRelativa"
-    ],
-    [
-      "Relative\nRotation",
-      "Rotacion\nRelativa"
-    ],
-    [
-      "Setup follow command",
-      "Configurar Comando de Seguimiento"
-    ],
-    [
-      "Move Time:",
-      "Tiempo Total:"
-    ],
-    [
-      "Target\nGroup ID",
-      "GrupoID de Destino"
-    ],
-    [
-      "Follow\nGroup ID",
-      "GrupoID de Seguimiento:"
-    ],
-    [
-      "Setup Shake",
-      "Configurar Sacudida"
-    ],
-    [
-      "Strength:",
-      "Fuerza:"
-    ],
-    [
-      "Interval:",
-      "Intervalo:"
-    ],
-    [
-      "Duration:",
-      "Duracion:"
-    ],
-    [
-      "Setup Animation:",
-      "Configurar Animacion:"
-    ],
-    [
-      "Animation ID:",
-      "Animacion ID:"
-    ],
-    [
-      "Setup Keyframe Anim:",
-      "Configurar Animacion de Fotogramas:"
-    ],
-    [
-      "Animation Group ID",
-      "GrupoID de Animacion"
-    ],
-    [
-      "Target ID",
-      "Destino ID"
-    ],
-    [
-      "Parent ID",
-      "Padre ID"
-    ],
-    [
-      "Time Mod:",
-      "Tiempo Mod:"
-    ],
-    [
-      "Position X Mod:",
-      "Posicion X Mod:"
-    ],
-    [
-      "Position Y Mod:",
-      "Posicion Y Mod:"
-    ],
-    [
-      "Rotation mod:",
-      "Rotacion Mod:"
-    ],
-    [
-      "Scale X Mod:",
-      "Escala X Mod:"
-    ],
-    [
-      "Scale Y Mod:",
-      "Escala Y Mod:"
-    ],
-    [
-      "Max Speed",
-      "Velocidad Maxima"
     ],
     [
       "Mini Mode",
@@ -3323,7 +3155,8 @@
     ],
     [
       "Flip\nGravity",
-      "Invertir\nGravedad"
+      "Invertir\nGravedad",
+      true
     ],
     [
       "Reverse\nGameplay",
@@ -3374,7 +3207,7 @@
       "Paso\nDiminuto"
     ],
     [
-      "Dynamic\nMode",
+      "Dinamic\nMode",
       "Modo\nDinamico"
     ],
     [
@@ -3396,11 +3229,13 @@
     ],
     [
       "Center Group ID:",
-      "GrupoID Central:"
+      "GrupoID Central:",
+      true
     ],
     [
       "TargetPos Group ID:",
-      "DirPos del GrupoID:"
+      "DirPos del GrupoID:",
+      true
     ],
     [
       "X Only",
@@ -3421,7 +3256,8 @@
     ],
     [
       "Target Group ID:",
-      "GrupoID de Destino:"
+      "GrupoID de Destino:",
+      true
     ],
     [
       "Object Options",
@@ -3429,7 +3265,8 @@
     ],
     [
       "No Time\nPenalty",
-      "Sin Penalizacion\nde Tiempo"
+      "Sin Penalizacion\nde Tiempo",
+      true
     ],
     [
       "<cg>NoTouch</c> disables player collision for solid objects.",
@@ -3532,17 +3369,8 @@
       "Proximo Gratis"
     ],
     [
-      "Opacity: %",
-      "Opacidad: %"
-    ],
-    [
-      "Fade Time:",
-      "Tiempo total:",
-      0.55
-    ],
-    [
       "Copy Color",
-      "Copiar\nColor"
+      "Copiar Color"
     ],
     [
       "Blending",
@@ -3981,16 +3809,10 @@
     ],
     [
       "Spawn\nTrigger",
-      "Activado\nPor Toque",
-      0.3
+      "Generar\nDisparador"
     ],
     [
-      "Easing Rate",
-      "Tasa de Flexibilidad",
-      0.75
-    ],
-    [
-      "Multi\nTrigger",
+      "Multi\\nTrigger",
       "Disparador\nMultiple"
     ],
     [
@@ -4294,8 +4116,7 @@
     ],
     [
       "Disable\nAnimShine",
-      "Desactivar\nBrillo de Anim",
-      0.3
+      "Desactivar\nBrillo de Anim"
     ],
     [
       "Only if\nactive",
