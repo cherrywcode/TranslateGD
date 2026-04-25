@@ -249,10 +249,6 @@
       "Cancion ID: %i  Peso: %.%%MB"
     ],
     [
-      "ID: %i  Size: %s",
-      "ID: %i  Peso: %s"
-    ],
-    [
       "Songs: %i  SFX: %i  Size: %s",
       "Canciones: %i  Efectos: %i  Peso: %s"
     ],
