@@ -2778,7 +2778,8 @@
     ],
     [
       "Add",
-      "Agregar"
+      "Agregar",
+      0.275
     ],
     [
       "Z Layer",
@@ -2919,7 +2920,7 @@
     ],
     [
       "Target GroupID:",
-      "GrupoID de Destino:"
+      "GrupoID\nObjetivo:"
     ],
     [
       "Max Coins",
@@ -3092,7 +3093,8 @@
     ],
     [
       "Exclusive",
-      "Exclusivo"
+      "Exclusivo",
+      0.3
     ],
     [
       "Channel ID",
@@ -3235,39 +3237,40 @@
     ],
     [
       "Follow\nGroup ID",
-      "GrupoID de Seguimiento:"
+      "GrupoID\nSeguimiento:"
     ],
     [
       "Setup Shake",
       "Configurar Sacudida"
     ],
     [
-      "Strength:",
+      "Strength: ",
       "Fuerza:"
     ],
     [
-      "Interval:",
+      "Interval: ",
       "Intervalo:"
     ],
     [
-      "Duration:",
+      "Duration: ",
       "Duracion:"
     ],
     [
-      "Setup Animation:",
-      "Configurar Animacion:"
+      "Setup Animation",
+      "Configurar Animacion"
     ],
     [
-      "Animation ID:",
-      "Animacion ID:"
+      "Animation ID",
+      "Animacion ID"
     ],
     [
-      "Setup Keyframe Anim:",
-      "Configurar Animacion de Fotogramas:"
+      "Setup Keyframe Anim",
+      "Configurar Animacion de Fotogramas",
+      0.38
     ],
     [
       "Animation Group ID",
-      "GrupoID de Animacion"
+      "GrupoID Animacion"
     ],
     [
       "Target ID",
@@ -3304,6 +3307,66 @@
     [
       "Max Speed",
       "Velocidad Maxima"
+    ],
+    [
+      "Setup follow player command",
+      "Configurar Comando de Seguimiento de Jugador",
+      0.4
+    ],
+    [
+      "Setup Advanced Follow",
+      "Configurar Seguimiento Avanzado",
+      0.4
+    ],
+    [
+      "Target gid:",
+      "Destino ig:"
+    ],
+    [
+      "Follow gid:",
+      "Seguimiento ig:"
+    ],
+    [
+      "Priority:",
+      "Prioridad:"
+    ],
+    [
+      "X\nOnly",
+      "Solo\nX"
+    ],
+    [
+      "Y\nOnly",
+      "Solo\nY"
+    ],
+    [
+      "Ignore\nDisabled",
+      "Ignorar\nDeshabilitado"
+    ],
+    [
+      "Rotate\nDir",
+      "Rotar\nDireccion"
+    ],
+    [
+      "Rotation\nOffset:",
+      "Rotacion\nDesplazamiento:"
+    ],
+    [
+      "Rotate\nEasing:",
+      "Rotacion\nSuavizado:"
+    ],
+    [
+      "Rotate\nDeadZ:",
+      "Rotacion\nZona Muerta:"
+    ],
+    [
+      "Init",
+      "Inicializar",
+      0.25
+    ],
+    [
+      "Set",
+      "Establecer",
+      0.225
     ],
     [
       "Mini Mode",
@@ -3386,9 +3449,9 @@
       "Pegar\nPlantilla"
     ],
     [
-      "Move Time:",
-      "Tiempo de Movimiento:",
-      0.4
+      "Move Time: ",
+      "Tiempo Total: ",
+      0.45
     ],
     [
       "Silent",
@@ -3992,7 +4055,8 @@
     ],
     [
       "Multi\nTrigger",
-      "Disparador\nMultiple"
+      "Disparador\nMultiple",
+      0.225
     ],
     [
       "<cg>Checkpoints</c> used when the game type is Platformer.",
