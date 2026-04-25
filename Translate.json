@@ -3233,11 +3233,243 @@
     ],
     [
       "Target\nGroup ID",
-      "GrupoID de Destino"
+      "Destino"
     ],
     [
       "Follow\nGroup ID",
-      "GrupoID\nSeguimiento:"
+      "GrupoID\nSeguimiento"
+    ],
+    [
+      "MaxSpeed:",
+      "Velocidad Maxima:"
+    ],
+    [
+      "MaxRange:",
+      "Rango Maximo:"
+    ],
+    [
+      "StartSpeed:",
+      "Velocidad Inicial:"
+    ],
+    [
+      "Start Dir:",
+      "Direccion Inicial:"
+    ],
+    [
+      "Acceleration:",
+      "Aceleracion:"
+    ],
+    [
+      "SteerForce:",
+      "Fuerza de Guiado:"
+    ],
+    [
+      "Friction:",
+      "Fricción:"
+    ],
+    [
+      "NearDist:",
+      "Distancia Cercana:"
+    ],
+    [
+      "NearFriction:",
+      "Fricción Cercana:"
+    ],
+    [
+      "NearAccel:",
+      "Aceleracion Cercana:"
+    ],
+    [
+      "Easing:",
+      "Suavizado:"
+    ],
+    [
+      "SteerForceLow:",
+      "Fuerza de Guiado Baja:"
+    ],
+    [
+      "SpeedRangeLow:",
+      "Rango de Velocidad Bajo:"
+    ],
+    [
+      "SteerForceHigh:",
+      "Fuerza de Guiado Alta:"
+    ],
+    [
+      "SpeedRangeHigh:",
+      "Rango de Velocidad Alto:"
+    ],
+    [
+      "SlowAccel:",
+      "Aceleracion Lenta:"
+    ],
+    [
+      "SlowDist:",
+      "Distancia Lenta:"
+    ],
+    [
+      "BrackForce:",
+      "Fuerza de Frenado:"
+    ],
+    [
+      "BreakAngle:",
+      "Angulo de Frenado:"
+    ],
+    [
+      "BreakSteerForce:",
+      "Fuerza de Guiado de Frenado:"
+    ],
+    [
+      "BreakSteer\nSpeedLimit:",
+      "Limite de Velocidad\nde Guiado de Frenado:"
+    ],
+    [
+      "Target\nDir:",
+      "Direccion\nObjetivo:"
+    ],
+    [
+      "Edit AdvFollow Object",
+      "Editar Objeto de Seguimiento Avanzado"
+    ],
+    [
+      "Dir:",
+      "Direccion:"
+    ],
+    [
+      "Redirect\nDir:",
+      "Direccion\nRedirigida:"
+    ],
+    [
+      "Re-Target AdvFollow Trigger:",
+      "Re-Objetivo del Disparador de Seguimiento Avanzado:"
+    ],
+    [
+      "Target\nControl ID:",
+      "Control ID\nObjetivo:"
+    ],
+    [
+      "GroupID",
+      "GrupoID"
+    ],
+    [
+      "Setup KeyFrame 0",
+      "Configurar Fotograma Clave"
+    ],
+    [
+      "Select\nAll",
+      "Seleccionar\nTodo"
+    ],
+    [
+      "Update\nArt",
+      "Actualizar\nArte"
+    ],
+    [
+      "Dup\nAnim",
+      "Duplicar\nAnimacion"
+    ],
+    [
+      "Reverse\nOrder",
+      "Invertir\nOrden"
+    ],
+    [
+      "Curve",
+      "Curva"
+    ],
+    [
+      "Time",
+      "Tiempo"
+    ],
+    [
+      "Even",
+      "Uniforme"
+    ],
+    [
+      "LineOpacity",
+      "Opacidad de Linea"
+    ],
+    [
+      "SpawnDelay",
+      "Retraso de Generacion"
+    ],
+    [
+      "Close\nLoop",
+      "Bucle\nCerrado"
+    ],
+    [
+      "Preview\nArt",
+      "Previa\nArte"
+    ],
+    [
+      "Ref\nOnly",
+      "Solo\nReferencia"
+    ],
+    [
+      "Auto\nLayer",
+      "Capa\nAutomatica"
+    ],
+    [
+      "Area Move Trigger",
+      "Trigger de Movimiento de Area"
+    ],
+    [
+      "Length",
+      "Longitud"
+    ],
+    [
+      "MoveDist",
+      "Dist de Movimiento"
+    ],
+    [
+      "MoveAngle",
+      "Angulo de Movimiento"
+    ],
+    [
+      "RFade",
+      "R-Aparecer"
+    ],
+    [
+      "XY\nMode",
+      "Modo\nXY"
+    ],
+    [
+      "Ease\nOut",
+      "Suavizado\nSalida"
+    ],
+    [
+      "OffsetY",
+      "DesplazamientoY"
+    ],
+    [
+      "ModFront",
+      "ModFrontal"
+    ],
+    [
+      "Mod Back",
+      "Mod Backal"
+    ],
+    [
+      "Deadzone",
+      "Zona Muerta"
+    ],
+    [
+      "EffectID",
+      "EfectoID"
+    ],
+    [
+      "Ignore\ngParent",
+      "Ignorar\nPadre"
+    ],
+    [
+      "OffsetY",
+      "DesplazamientoY"
+    ],
+    [
+      "Ignore\nLinked",
+      "Ignorar\nVinculado"
+    ],
+    [
+      "Area Rotate Trigger",
+      "Trigger de Rotacion de Area"
     ],
     [
       "Setup Shake",
@@ -3252,8 +3484,12 @@
       "Intervalo:"
     ],
     [
-      "Duration: ",
+      "Duration:",
       "Duracion:"
+    ],
+    [
+      "Duration: ",
+      "Duracion: "
     ],
     [
       "Setup Animation",
@@ -3319,12 +3555,12 @@
       0.4
     ],
     [
-      "Target gid:",
-      "Destino ig:"
+      "Target GID:",
+      "Destino IG:"
     ],
     [
-      "Follow gid:",
-      "Seguimiento ig:"
+      "Follow GID:",
+      "Seguimiento IG:"
     ],
     [
       "Priority:",
@@ -3340,23 +3576,28 @@
     ],
     [
       "Ignore\nDisabled",
-      "Ignorar\nDeshabilitado"
+      "Ignorar\nDeshabilitado",
+      0.25
     ],
     [
       "Rotate\nDir",
-      "Rotar\nDireccion"
+      "Rotar\nDireccion",
+      0.27
     ],
     [
       "Rotation\nOffset:",
-      "Rotacion\nDesplazamiento:"
+      "Rotacion\nDesplazamiento:",
+      0.45
     ],
     [
       "Rotate\nEasing:",
-      "Rotacion\nSuavizado:"
+      "Rotacion\nSuavizado:",
+      0.45
     ],
     [
       "Rotate\nDeadZ:",
-      "Rotacion\nZona Muerta:"
+      "Rotacion\nZona Muerta:",
+      0.45
     ],
     [
       "Init",
