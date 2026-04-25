@@ -2314,13 +2314,11 @@
     ],
     [
       "Spawn Group:",
-      "Grupo Generacion:",
-      true
+      "Grupo Generacion:"
     ],
     [
       "Spawn Group",
-      "Grupo Generacion",
-      true
+      "Grupo Generacion"
     ],
     [
       "Lets you set a target position for player spawn.",
@@ -3325,8 +3323,7 @@
     ],
     [
       "Flip\nGravity",
-      "Invertir\nGravedad",
-      true
+      "Invertir\nGravedad"
     ],
     [
       "Reverse\nGameplay",
@@ -3399,13 +3396,11 @@
     ],
     [
       "Center Group ID:",
-      "GrupoID Central:",
-      true
+      "GrupoID Central:"
     ],
     [
       "TargetPos Group ID:",
-      "DirPos del GrupoID:",
-      true
+      "DirPos del GrupoID:"
     ],
     [
       "X Only",
@@ -3426,8 +3421,7 @@
     ],
     [
       "Target Group ID:",
-      "GrupoID de Destino:",
-      true
+      "GrupoID de Destino:"
     ],
     [
       "Object Options",
@@ -3435,8 +3429,7 @@
     ],
     [
       "No Time\nPenalty",
-      "Sin Penalizacion\nde Tiempo",
-      true
+      "Sin Penalizacion\nde Tiempo"
     ],
     [
       "<cg>NoTouch</c> disables player collision for solid objects.",
