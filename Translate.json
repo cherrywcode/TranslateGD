@@ -3453,7 +3453,7 @@
     ],
     [
       "Tint %",
-      "Tinta %"
+      "Tinta %i"
     ],
     [
       "MoveDist",
@@ -3741,7 +3741,7 @@
     ],
     [
       "Chance %:",
-      "Oportunidad %:"
+      "Oportunidad %i:"
     ],
     [
       "Advanced Ramdon Trigger",
