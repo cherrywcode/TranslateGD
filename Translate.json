@@ -592,11 +592,11 @@
     ],
     [
       "Too short. Minimum 3 characters",
-      "Demasiado corto. Mínimo 3 caracteres"
+      "Demasiado corto. Minimo 3 caracteres"
     ],
     [
       "Too short. Minimum 6 characters",
-      "Demasiado corto. Mínimo 6 caracteres"
+      "Demasiado corto. Minimo 6 caracteres"
     ],
     [
       "Password do not match",
@@ -604,7 +604,7 @@
     ],
     [
       "Email is invalid",
-      "El email es inválido"
+      "El email es invalido"
     ],
     [
       "Email do not match",
@@ -612,7 +612,7 @@
     ],
     [
       "Username is already in use",
-      "El nombre de usuario ya está en uso"
+      "El nombre de usuario ya esta en uso"
     ],
     [
       "Login",
@@ -640,7 +640,7 @@
     ],
     [
       "A confirmation email has been sent to your inbox <cy>%s</c>.",
-      "Se ha enviado un correo electrónico de confirmación a su bandeja de entrada. <cy>%s</c>."
+      "Se ha enviado un correo electronico de confirmacion a su bandeja de entrada. <cy>%s</c>."
     ],
     [
       "Please <cg>activate</c> your account.",
@@ -3256,6 +3256,10 @@
       "Direccion Inicial:"
     ],
     [
+      "StartDir:",
+      "Direccion Inicial:"
+    ],
+    [
       "Acceleration:",
       "Aceleracion:"
     ],
@@ -3265,7 +3269,7 @@
     ],
     [
       "Friction:",
-      "Fricción:"
+      "Friccion:"
     ],
     [
       "NearDist:",
@@ -3273,7 +3277,7 @@
     ],
     [
       "NearFriction:",
-      "Fricción Cercana:"
+      "Friccion Cercana:"
     ],
     [
       "NearAccel:",
@@ -3289,7 +3293,8 @@
     ],
     [
       "SpeedRangeLow:",
-      "Rango de Velocidad Bajo:"
+      "Rango de Velocidad Bajo:",
+      0.5
     ],
     [
       "SteerForceHigh:",
@@ -3297,7 +3302,8 @@
     ],
     [
       "SpeedRangeHigh:",
-      "Rango de Velocidad Alto:"
+      "Rango de Velocidad Alto:",
+      0.5
     ],
     [
       "SlowAccel:",
@@ -3317,7 +3323,8 @@
     ],
     [
       "BreakSteerForce:",
-      "Fuerza de Guiado de Frenado:"
+      "Fuerza de Guiado de Frenado:",
+      0.45
     ],
     [
       "BreakSteer\nSpeedLimit:",
@@ -3340,36 +3347,53 @@
       "Direccion\nRedirigida:"
     ],
     [
-      "Re-Target AdvFollow Trigger:",
-      "Re-Objetivo del Disparador de Seguimiento Avanzado:"
+      "Redirect\nDir",
+      "Direccion\nRedirigida"
+    ],
+    [
+      "Re-Target AdvFollow Trigger",
+      "Re-Objetivo del Disparador de Seguimiento Avanzado"
     ],
     [
       "Target\nControl ID:",
       "Control ID\nObjetivo:"
     ],
     [
+      "Target\nControl id",
+      "Control ID\nObjetivo"
+    ],
+    [
       "GroupID",
       "GrupoID"
     ],
     [
-      "Setup KeyFrame 0",
-      "Configurar Fotograma Clave"
+      "SpawnGID",
+      "GenerarGID"
+    ],
+    [
+      "Setup Keyframe 0",
+      "Configurar Fotograma Clave",
+      0.375
     ],
     [
       "Select\nAll",
-      "Seleccionar\nTodo"
+      "Seleccionar\nTodo",
+      0.3
     ],
     [
       "Update\nArt",
-      "Actualizar\nArte"
+      "Actualizar\nArte",
+      0.3
     ],
     [
       "Dup\nAnim",
-      "Duplicar\nAnimacion"
+      "Duplicar\nAnimacion",
+      0.35
     ],
     [
       "Reverse\nOrder",
-      "Invertir\nOrden"
+      "Invertir\nOrden",
+      0.35
     ],
     [
       "Curve",
@@ -3381,7 +3405,8 @@
     ],
     [
       "Even",
-      "Uniforme"
+      "Uniforme",
+      0.25
     ],
     [
       "LineOpacity",
@@ -3389,11 +3414,12 @@
     ],
     [
       "SpawnDelay",
-      "Retraso de Generacion"
+      "Retraso de\nGeneracion"
     ],
     [
       "Close\nLoop",
-      "Bucle\nCerrado"
+      "Bucle\nCerrado",
+      0.3
     ],
     [
       "Preview\nArt",
@@ -3401,31 +3427,57 @@
     ],
     [
       "Ref\nOnly",
-      "Solo\nReferencia"
+      "Solo\nReferencia",
+      0.225
     ],
     [
       "Auto\nLayer",
-      "Capa\nAutomatica"
+      "Capa\nAutomatica",
+      0.27
     ],
     [
       "Area Move Trigger",
       "Trigger de Movimiento de Area"
     ],
     [
+      "Area Anim Trigger",
+      "Trigger de Animacion de Area"
+    ],
+    [
+      "Stop Area Trigger",
+      "Trigger de Parada de Area"
+    ],
+    [
       "Length",
       "Longitud"
     ],
     [
+      "Tint %",
+      "Tinta %"
+    ],
+    [
       "MoveDist",
-      "Dist de Movimiento"
+      "Dist de Movimiento",
+      0.5
     ],
     [
       "MoveAngle",
-      "Angulo de Movimiento"
+      "Angulo de Movimiento",
+      0.45
+    ],
+    [
+      "DeadZ",
+      "Zona Muerta",
+      0.45
+    ],
+    [
+      "Use\nEID",
+      "Usar\nEID"
     ],
     [
       "RFade",
-      "R-Aparecer"
+      "R-Aparecer",
+      0.5
     ],
     [
       "XY\nMode",
@@ -3441,22 +3493,270 @@
     ],
     [
       "ModFront",
-      "ModFrontal"
+      "Mod Frontal"
     ],
     [
-      "Mod Back",
-      "Mod Backal"
+      "ModBack",
+      "Mod Atras"
     ],
     [
       "Deadzone",
       "Zona Muerta"
     ],
     [
-      "EffectID",
-      "EfectoID"
+      "EffectID:",
+      "EfectoID:"
     ],
     [
-      "Ignore\ngParent",
+      "MoveX",
+      "Mover X:"
+    ],
+    [
+      "MoveY",
+      "Mover Y"
+    ],
+    [
+      "ScaleX",
+      "Escala X"
+    ],
+    [
+      "ScaleY",
+      "Escala Y"
+    ],
+    [
+      "ScaleY",
+      "Escala Y"
+    ],
+    [
+      "Area Transform Trigger",
+      "Trigger de Transformacion de Area"
+    ],
+    [
+      "From Opacity",
+      "Opacidad Inicial"
+    ],
+    [
+      "To Opacity",
+      "Opacidad Final"
+    ],
+    [
+      "Area Tint Trigger",
+      "Trigger de Tinte de Area"
+    ],
+    [
+      "Change Background",
+      "Cambiar Fondo"
+    ],
+    [
+      "BG:",
+      "Fondo"
+    ],
+    [
+      "Change Ground",
+      "Cambiar Suelo"
+    ],
+    [
+      "G:",
+      "Suelo"
+    ],
+    [
+      "Change Middleground",
+      "Cambiar Punto Medio"
+    ],
+    [
+      "Touch Toggle",
+      "Alternar Toque"
+    ],
+    [
+      "Dual\nMode",
+      "Modo\nDoble"
+    ],
+    [
+      "Hold Mode",
+      "Modo Sostener"
+    ],
+    [
+      "P1\nOnly",
+      "Solo\nP1"
+    ],
+    [
+      "P2\nOnly",
+      "Solo\nP2"
+    ],
+    [
+      "Toggle\nOn",
+      "Alternar\nEncendido"
+    ],
+    [
+      "Toggle\nOff",
+      "Alternar\nApagado"
+    ],
+    [
+      "Count Trigger",
+      "Contador de Disparo"
+    ],
+    [
+      "Item ID",
+      "ArticuloID"
+    ],
+    [
+      "Target Count",
+      "Conteo Objetivo"
+    ],
+    [
+      "Activate\nGroup",
+      "Activar\nGrupo"
+    ],
+    [
+      "Instant Count Trigger",
+      "Contador de Disparo Instantaneo"
+    ],
+    [
+      "Equals",
+      "Igual a"
+    ],
+    [
+      "Larger",
+      "Mayor que"
+    ],
+    [
+      "Smaller",
+      "Menor que"
+    ],
+    [
+      "Pickup Trigger",
+      "Recogida de Disparo"
+    ],
+    [
+      "Count",
+      "Conteo"
+    ],
+    [
+      "Multiply",
+      "Multiplicar"
+    ],
+    [
+      "Override",
+      "Anular"
+    ],
+    [
+      "Time Trigger",
+      "Disparador de Tiempo"
+    ],
+    [
+      "TimeMod",
+      "TiempoMod"
+    ],
+    [
+      "StartTime",
+      "IniciarTiempo"
+    ],
+    [
+      "StopTime",
+      "PararTiempo"
+    ],
+    [
+      "Ignore\nTimeWarp",
+      "Ignorar\nDistorcion\nTemporal"
+    ],
+    [
+      "Start\nPaused",
+      "Inicio\nEn Pausa"
+    ],
+    [
+      "Dont\nOverride",
+      "No\nAnular"
+    ],
+    [
+      "Time Event Trigger",
+      "Disparador de Evento de Tiempo"
+    ],
+    [
+      "Time Control Trigger",
+      "Disparador de Control de Tiempo"
+    ],
+    [
+      "Start",
+      "Iniciar"
+    ],
+    [
+      "ItemID1",
+      "Articulo 1"
+    ],
+    [
+      "ItemID2",
+      "Articulo 2"
+    ],
+    [
+      "Target\nItemID",
+      "Destino del\nArticuloID"
+    ],
+    [
+      "Camera",
+      "Camara"
+    ],
+    [
+      "Attempts",
+      "Intentos"
+    ],
+    [
+      "MainTime",
+      "TiempoPrincipal"
+    ],
+    [
+      "Points",
+      "Puntos"
+    ],
+    [
+      "Item Compare",
+      "Comparar Articulos"
+    ],
+    [
+      "TrueID",
+      "VerdaderoID"
+    ],
+    [
+      "FalseID",
+      "FalsoID"
+    ],
+    [
+      "Item",
+      "Articulo"
+    ],
+    [
+      "Timer",
+      "Minutero"
+    ],
+    [
+      "Persistent Item Setup",
+      "Configuracion de Elementos Persistentes"
+    ],
+    [
+      "Persistent",
+      "Persistentes"
+    ],
+    [
+      "Random Trigger",
+      "Disparador Aleatorio"
+    ],
+    [
+      "Chance %:",
+      "Oportunidad %:"
+    ],
+    [
+      "Advanced Ramdon Trigger",
+      "Disparador Aleatorio Avanzado"
+    ],
+    [
+      "Chance",
+      "Oportunidad"
+    ],
+    [
+      "Secondary\nOnly",
+      "Solo\nSecundario"
+    ],
+    [
+      "Ignore\nGParent",
       "Ignorar\nPadre"
     ],
     [
@@ -3465,11 +3765,20 @@
     ],
     [
       "Ignore\nLinked",
-      "Ignorar\nVinculado"
+      "Ignorar\nVinculado",
+      0.275
     ],
     [
       "Area Rotate Trigger",
       "Trigger de Rotacion de Area"
+    ],
+    [
+      "Rotation",
+      "Rotacion"
+    ],
+    [
+      "Rotation",
+      "Rotacion"
     ],
     [
       "Setup Shake",
@@ -4051,7 +4360,7 @@
     ],
     [
       "<cg>Defined</c> tells you how many variations you have in the template.",
-      "<cg>Definido</c> te indica cuántas variaciones tienes en la plantilla."
+      "<cg>Definido</c> te indica cuantas variaciones tienes en la plantilla."
     ],
     [
       "Click <cy>Browse</c> to see your template's defined variations.",
@@ -4584,7 +4893,7 @@
     ],
     [
       "Edit Animation Settings",
-      "Editar Configuración de Animacion"
+      "Editar Configuracion de Animacion"
     ],
     [
       "Randomize\nStart",
@@ -4633,7 +4942,7 @@
     ],
     [
       "<cp>Only If Active</c> only does this if the object is active.",
-      "<cp>Solo si esta activo</c> Esto solo ocurre si el objeto está activo."
+      "<cp>Solo si esta activo</c> Esto solo ocurre si el objeto esta activo."
     ],
     [
       "<cr>Single Frame</c> lets you select a specific frame of the animation.",
