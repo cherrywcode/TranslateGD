@@ -6,31 +6,31 @@
     ],
     [
       "Back On Track",
-      "Vuelta A La Pista"
+      "De Vuelta al Ruedo"
     ],
     [
       "Polargeist",
-      "Polarnormal"
+      "Espectro Polar"
     ],
     [
       "Dry Out",
-      "Desintoxicante"
+      "Deshidratado"
     ],
     [
       "Base After Base",
-      "Base Tras Base"
+      "De Base en Base"
     ],
     [
       "Cant Let Go",
-      "No Puedo Dejar Ir"
+      "No Te Sueltes"
     ],
     [
       "Jumper",
-      "Saltador"
+      "Saltarin"
     ],
     [
       "Time Machine",
-      "Maquina Del Timepo"
+      "Maquina Temporal"
     ],
     [
       "Cycles",
@@ -38,15 +38,15 @@
     ],
     [
       "xStep",
-      "Paso X"
+      "Compas X"
     ],
     [
       "Clutterfunk",
-      "Caosfunk"
+      "Aberracion Funk"
     ],
     [
       "Theory of Everything",
-      "La Teoria del Todo I"
+      "Teoria del todo I"
     ],
     [
       "Electroman Adventures",
@@ -54,7 +54,7 @@
     ],
     [
       "Clubstep",
-      "Clubetapa"
+      "Ritmo de Club"
     ],
     [
       "Electrodynamix",
@@ -78,15 +78,15 @@
     ],
     [
       "Deadlocked",
-      "Muerte Bloqueada"
+      "Punto Muerto"
     ],
     [
       "Fingerdash",
-      "Guion del Dedo"
+      "Velocidad Digital"
     ],
     [
       "Dash",
-      "Estrellarse"
+      "Impulso"
     ],
     [
       "Stay Inside Me",
@@ -98,7 +98,7 @@
     ],
     [
       "The Cellar",
-      "La Bodega"
+      "El Sotano"
     ],
     [
       "The Secret Holow",
@@ -106,11 +106,11 @@
     ],
     [
       "Download the soundtrack",
-      "Descarga las canciones aqui!"
+      "Descargar la banda sonora"
     ],
     [
       "Soundtrack",
-      "Banda sonora"
+      "Banda Sonora"
     ],
     [
       "Normal Mode",
@@ -126,7 +126,7 @@
     ],
     [
       "Explode",
-      "Explotar"
+      "Usar"
     ],
     [
       "My Levels",
@@ -194,7 +194,7 @@
     ],
     [
       "Unverified",
-      "No Verificado"
+      "Sin Verificar"
     ],
     [
       "Uploaded",
@@ -218,11 +218,11 @@
     ],
     [
       "Plat.",
-      "Plat."
+      "Plataforma."
     ],
     [
       "years",
-      "ayeres"
+      "años"
     ],
     [
       "%s ago",
@@ -326,7 +326,7 @@
     ],
     [
       "Enter a level, user or id",
-      "Poner el Nivel, Usuario or ID"
+      "Poner el Nivel, Usuario o ID"
     ],
     [
       "Enter a list or id",
@@ -338,7 +338,7 @@
     ],
     [
       "Likes",
-      "Me Gustas"
+      "Me Gusta"
     ],
     [
       "Sent",
@@ -482,7 +482,7 @@
     ],
     [
       "Hold to Dash",
-      "Hold to Dash"
+      "Presionar para Dash!"
     ],
     [
       "I see you have a lot of <cl>orbs</c>. You should visit my <cy>shop</c>!",
@@ -527,8 +527,8 @@
       "Efectos"
     ],
     [
-      "Menu\\Music",
-      "Musica\\del Menu"
+      "Menu\nMusic",
+      "Musica\ndel Menu"
     ],
     [
       "Save",
@@ -668,7 +668,7 @@
     ],
     [
       "Sync failed. Please try again later.",
-      "Sincronizacion Fallada\\Intentalo mas tarde."
+      "La Sincronizacion Fallo\\Intentalo mas tarde."
     ],
     [
       "Load Data",
@@ -680,7 +680,7 @@
     ],
     [
       "Backup failed. Please try again later.\\%s",
-      "Respaldo fallada. Intentalo mas tarde.\\%s"
+      "El Respaldo Fallo. Intentalo mas tarde.\\%s"
     ],
     [
       "Account Help",
@@ -888,7 +888,7 @@
     ],
     [
       "Smooth Fix",
-      "Ralentizacion Suave"
+      "Ajuste de Fluidez"
     ],
     [
       "Show FPS",
@@ -1436,7 +1436,7 @@
     ],
     [
       "Skip level",
-      "Skipear Nivel"
+      "Saltarse el Nivel"
     ],
     [
       "New Daily Level in: %s",
@@ -5093,12 +5093,14 @@
       "Upload Guidelines"
     ],
     [
-      "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
-      "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated."
+      "Hello",
+      "Hola"
     ],
+      "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
+      "El contenido de odio, abusivo o de cualquier otra forma inapropiado, ya sea en el nivel, en el nombre o en la descripcion, puede dar lugar a la eliminacion. Lo mismo se aplica a los niveles que abusen de trucos o exploits. El robo de recursos de otros niveles esta desaconsejado y puede impedir que un nivel sea valorado, dependiendo del contexto, la gravedad, los creditos y más. Los niveles verificados con hacks no pueden ser valorados.",
     [
       "<cy>These guidelines and their enforcement are entirely at RobTop's discretion.</c>",
-      "<cy>These guidelines and their enforcement are entirely at RobTop's discretion.</c>"
+      "<cy>Estas pautas y su cumplimiento quedan totalmente a discreción de RobTop.</c>"
     ],
     [
       "<cg>Total Attempts</c>: %i",
@@ -5402,7 +5404,7 @@
     ],
     [
       "Incorrect password",
-      "Codigo Incorrecta"
+      "Codigo Incorrecto"
     ],
     [
       "The Keymaster",
@@ -5410,7 +5412,7 @@
     ],
     [
       "Scratch",
-      "Rasgunador"
+      "Rasgar"
     ],
     [
       "The Mechanic",
@@ -5426,11 +5428,11 @@
     ],
     [
       "Yea<d010>.<d010>.<d010>. It's still <cl>delayed</c>.",
-      "Seee<d010>.<d010>.<d010>. Sigue siendo <cl>atrasada</c>."
+      "Si..<d010>.<d010>.<d010>. Sigue siendo <cl>retrasada</c>."
     ],
     [
       "I blame <cg>RobTop</c>.",
-      "La culpa es de <cg>Roberto Pala</c>."
+      "La culpa es de <cg>RobTop</c>."
     ],
     [
       "Who else could we <cr>blame</c>?",
@@ -5438,11 +5440,11 @@
     ],
     [
       "We're not even real.",
-      "Ni vosotros mismos somos reales<d010>.<d010>.<d010>."
+      "Ustedes ni siquiera son reales<d010>.<d010>.<d010>."
     ],
     [
       "Speak for yourself <co>I'm real!</c>",
-      "Digais por vos!<d020> <co>Yo Soy Real!</c>"
+      "Dilo por ti!<d020> <co>Yo Soy Real!</c>"
     ],
     [
       "<cl>Yea, a real pain in the<d010>.<d010>.<d010>.</c>",
@@ -5486,73 +5488,73 @@
     ],
     [
       "Must be my lucky day...<d040> <cg>or yours</c>.",
-      "Must be my lucky day...<d040> <cg>or yours</c>."
+      "Debe ser mi día de suerte...<d040> <cg>o el tuyo.</c>."
     ],
     [
       "<d050><cl>I don't really have days anymore.</c>",
-      "<d050><cl>I don't really have days anymore.</c>"
+      "<d050><cl>Ya no tengo dias realmente.</c>"
     ],
     [
       "I wasn't always like this,<d015> you know.",
-      "I wasn't always like this,<d015> you know."
+      "No siempre fui asi,<d015> ¿sabes?"
     ],
     [
       "<d050>I used to be something,<d040> <co>greater</c><d010>.<d015>.<d020>.",
-      "<d050>I used to be something,<d040> <co>greater</c><d010>.<d015>.<d020>."
+      "<d050>Solias ser alguien,<d040> <co>mejor...</c><d010>.<d015>.<d020>."
     ],
     [
       "Now instead,<d030> I get to listen to you.",
-      "Now instead,<d030> I get to listen to you."
+      "Ahora, en su lugar,<d030> tengo que escucharte a ti."
     ],
     [
       "<d050><cl>What a treat...</c>",
-      "<d050><cl>What a treat...</c>"
+      "<d050><cl>Que regalo...</c>"
     ],
     [
       "<cg>Go on</c>, <d030><co>or don't</c>.",
-      "<cg>Go on</c>, <d030><co>or don't</c>."
+      "<cg>Continua</c>, <d030><co>o no.</c>."
     ],
     [
       "<d050>Not like I can stop you.",
-      "<d050>Not like I can stop you."
+      "<d050>No es como si pudiera detenerte."
     ],
     [
       "Well, well, well.<d035>",
-      "Well, well, well.<d035>"
+      "Bueno, Bueno, Bueno.<d035>"
     ],
     [
       "Look who it is.",
-      "Look who it is."
+      "Mira quien es."
     ],
     [
       "I see you have the <cg>keys</c>.<d040>",
-      "I see you have the <cg>keys</c>.<d040>"
+      "Veo que tienes las<cg>llaves.</c>.<d040>"
     ],
     [
       "But what comes next?",
-      "But what comes next?"
+      "Pero que viene despues?"
     ],
     [
       "The <co>door</c> is open.<d040>",
-      "The <co>door</c> is open.<d040>"
+      "La <co>Puerta</c> esta abierta.<d040>"
     ],
     [
       "Time to find out<d010>.<d010>.<d010>.",
-      "Time to find out<d010>.<d010>.<d010>."
+      "Es hora de averiguarlo<d010>.<d010>.<d010>."
     ],
     [
       "Wait, you are not <cl>RubRub</c>...",
-      "Wait, you are not <cl>RubRub</c>..."
+      "Espera, tu no eres <cl>RubRub</c>..."
     ]
   ],
   "Alertas": [
     [
       "<co>Practice</c>: %i%%",
-      "<co>Practice</c>: %i%%"
+      "<co>Práctica</c>: %i%%"
     ],
     [
       "Info",
-      "Informacion"
+      "Información"
     ]
   ],
   "Dialogs": [],
@@ -5563,5 +5565,4 @@
       false,
       "Shop_02_001.mp3"
     ]
-  ]
-}
+  ]}
