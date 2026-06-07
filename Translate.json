@@ -528,7 +528,7 @@
     ],
     [
       "Menu\nMusic",
-      "Musica\ndel Menu"
+      " Musica\ndel Menu"
     ],
     [
       "Save",
@@ -5408,11 +5408,11 @@
     ],
     [
       "The Keymaster",
-      "The Keymaster"   
+      "La LLave Maestra"   
     ],
     [
       "Scratch",
-      "Scratch"
+      "Rasgunador"
     ],
     [
       "The Mechanic",
@@ -5421,6 +5421,22 @@
     [
       "PotBor",
       "Sr. Calderon"
+    ]
+  ],
+  "Alertas": [
+    [
+      "<co>Practice</c>: %i%%",
+      "<co>Practica</c>: %i%%"
+    ],
+    [
+      "Info",
+      "Informacion"
+    ]
+  ],
+  "Dialogs": [
+    [
+      "Versus mode has been <co>delayed</c>,",
+      "El modo Versus se ha <co>retrasado</c>,"
     ],
     [
       "but it's in the works!",
@@ -5428,7 +5444,7 @@
     ],
     [
       "Yea<d010>.<d010>.<d010>. It's still <cl>delayed</c>.",
-      "Si..<d010>.<d010>.<d010>. Sigue siendo <cl>retrasada</c>."
+      "Si<d010>.<d010>.<d010>. <d060>Sigue siendo <cl>retrasada</c>."
     ],
     [
       "I blame <cg>RobTop</c>.",
@@ -5448,7 +5464,7 @@
     ],
     [
       "<cl>Yea, a real pain in the<d010>.<d010>.<d010>.</c>",
-      "<cl>Claro, sos un dolor de cabeza<d010>.<d010>.<d010>.</c>"
+      "<cl>Claro, eres un dolor de cabeza<d010>.<d010>.<d010>.</c>"
     ],
     [
       "You're just <cr>mad</c> because you don't have a <cy>shop</c>.",
@@ -5470,6 +5486,20 @@
       "You don't have a chop<d010>.<d010>.<d010>.",
       "Tu no tienes un helicoptero<d010>.<d010>.<d010>."
     ],
+
+    [
+      "Where do you <cl>think</c> you're going?",
+      "Adonde <cl>crees</c> que vas?"
+    ],
+    [
+      "There's nothing over there, that place has been <cr>abandoned</c> for years.",
+      "Alli no hay nada, ese lugar lleva decadas <cr>abandonado</c><d010>.<d010>.<d010>."
+    ],
+    [
+      "We can take a <cg>quick</c> look if you want, <d030>but we can't stay long.",
+      "Podemos echar un <cg>vistazo</c> rapido si quieres, <d030>pero mucho."
+    ],
+    
     [
       "Who left the <cy>lights</c> on?",
       "Quien dejo las <cy>luces</c> prendidas?"
@@ -5547,22 +5577,15 @@
       "Espera, tu no eres <cl>RubRub</c>..."
     ]
   ],
-  "Alertas": [
-    [
-      "<co>Practice</c>: %i%%",
-      "<co>Practica</c>: %i%%"
-    ],
-    [
-      "Info",
-      "Informacion"
-    ]
-  ],
-  "Dialogs": [],
   "Voices": [
     [
-      "Play",
-      "Jugar",
-      false,
-      "Shop_02_001.mp3"
+      "What do you want?",
+      "Puedo ayudarle?",
+      "Shop_001_01.mp3"
+    ],
+    [
+      "Can you stop?",
+      "Puedes parar?",
+      "Shop_001_02.mp3"
     ]
   ]}
