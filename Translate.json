@@ -5577,7 +5577,7 @@
       "Espera, tu no eres <cl>RubRub</c>..."
     ]
   ],
-  "Voices": [
+  "SHOP_001": [
     [
       "What do you want?",
       "Puedo ayudarle?",
@@ -5587,5 +5587,69 @@
       "Can you stop?",
       "Puedes parar?",
       "Shop_001_02.mp3"
+    ],
+    [
+      "<cr>Stop</c> with the <cg>poking</c>!",
+      "PUEDES <cr>PARAR</c> DE <cg>PINCHARME</c>?!",
+      "Shop_001_03.mp3"
+    ],
+    [
+      "You are getting on my <cl>nerves</c>.",
+      "Me estas poniendo de los <cl>nervios</c>.",
+      "Shop_001_04.mp3"
+    ],
+    [
+      "I'm <co>warning</c> you!",
+      "Te lo <co>Advierto</c>!",
+      "Shop_001_05.mp3"
+    ],
+    [
+      "<cg>Some things are better left alone</c>.",
+      "<cg>Algunas cosas<d025> es mejor dejarlas en paz</c>.",
+      "Shop_001_06.mp3"
+    ],
+    [
+      "Oh no... Not again.",
+      "Oh no...<d025> Otra vez no.",
+      "Shop_001_07.mp3"
+    ],
+    [
+      "Just... just <cr>STOP</c> tapping and it will be fine!",
+      "Simplemente solo <cr>deja</c> de tocar y todo estara bien!",
+      "Shop_001_08.mp3"
+    ],
+    [
+      "It's best if you stop doing that.",
+      "Lo mejor es que dejes de hacer eso.",
+      "Shop_001_09.mp3"
+    ],
+    [
+      "<cg>I feel, <d050>strange.<d030>.<d030>.<d030></c>",
+      "<cg>Me siento, <d030>algo raro.<d030>.<d030>.<d030></c>",
+      "Shop_001_10.mp3"
+    ],
+    [
+      "<cr>You dare touch a god?</c>",
+      "<cr>Te atreves a tocar a un ser Superior?</c>", 
+      "Shop_001_11.mp3"
+    ],
+    [
+      "<cr>You will regret your actions here today.</c>",
+      "<i030><s100>Te arrepentiras de tus acciones hoy</s></i>.", 
+      "Shop_001_12.mp3"
+    ],
+    [
+      "<cr>I have big things planned",
+      "<cr>Tengo grandes cosas planeadas", 
+      "Shop_001_13.mp3"
+    ],
+    [
+      "for you<d020></c> <cl>%s</c>.",
+      "para ti<d020></c> <cl>%s</c>."
+    ],
+    [
+      "<cr>Now.<d030>.<d030>.<d030> </c><i050><s260><cr>BEGONE!</c></s></i>",
+      "<cr>Ahora.<d030>.<d030>.<d010> </c><i050><s260><cr>VETE!</c></s></i>", 
+      "Shop_001_14.mp3"
     ]
   ]}
