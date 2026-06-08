@@ -5499,6 +5499,10 @@
       "We can take a <cg>quick</c> look if you want, <d030>but we can't stay long.",
       "Podemos echar un <cg>vistazo</c> rapido si quieres, <d030>pero mucho."
     ],
+    [
+      "<co>RubRub is always watching.<d010>.<d010>.<d010>.</c>",
+      "<co>RubRub siempre esta observando.<d010>.<d010>.<d010>.</c>"
+    ],
     
     [
       "Who left the <cy>lights</c> on?",
@@ -5579,18 +5583,26 @@
   ],
   "SHOP_001": [
     [
+      "The Shopkeeper",
+      "El Tendero"
+    ],
+    [
+      "Zolguroth",
+      "Solgurot"
+    ],
+    [
       "What do you want?",
       "Puedo ayudarle?",
       "Shop_001_01.mp3"
     ],
     [
       "Can you stop?",
-      "Puedes parar?",
+      "Puedes<d005> parar?",
       "Shop_001_02.mp3"
     ],
     [
       "<cr>Stop</c> with the <cg>poking</c>!",
-      "PUEDES <cr>PARAR</c> DE <cg>PINCHARME</c>?!",
+      "Puedes <cr>PARAR</c> de <co>PINCHARME</c>!",
       "Shop_001_03.mp3"
     ],
     [
@@ -5600,12 +5612,12 @@
     ],
     [
       "I'm <co>warning</c> you!",
-      "Te lo <co>Advierto</c>!",
+      "Te lo <co>advierto</c>!",
       "Shop_001_05.mp3"
     ],
     [
       "<cg>Some things are better left alone</c>.",
-      "<cg>Algunas cosas<d025> es mejor dejarlas en paz</c>.",
+      "<cg>Algunas cosas<d025> es mejor dejarlas en paz.</c>",
       "Shop_001_06.mp3"
     ],
     [
@@ -5630,12 +5642,12 @@
     ],
     [
       "<cr>You dare touch a god?</c>",
-      "<cr>Te atreves a tocar a un ser Superior?</c>", 
+      "<cr>Te atreves a tocar a un ser<d050> superior?</c>", 
       "Shop_001_11.mp3"
     ],
     [
       "<cr>You will regret your actions here today.</c>",
-      "<i030><s100>Te arrepentiras de tus acciones hoy</s></i>.", 
+      "<i030><s50>Te arrepentiras de tus acciones hoy.</s></i>", 
       "Shop_001_12.mp3"
     ],
     [
@@ -5651,5 +5663,25 @@
       "<cr>Now.<d030>.<d030>.<d030> </c><i050><s260><cr>BEGONE!</c></s></i>",
       "<cr>Ahora.<d030>.<d030>.<d010> </c><i050><s260><cr>VETE!</c></s></i>", 
       "Shop_001_14.mp3"
+    ],
+    [
+      "Hey, Welcome back!",
+      "Hey, Bienvenido de vuelta!"
+    ],
+    [
+      "Sorry, I think I fell asleep earlier. <d030>Did I miss something?",
+      "Disculpa, me quede dormido. <d030> Me perdi de algo?"
+    ],
+    [
+      "<cl>Oh yea!</c> Someone left this <cg>package</c> here for you.",
+      "<cl>Por cierto</c>, Alguien dejo este <cg>paquete</c> para ti."
+    ],
+    [
+      "Who is<d030> <cr>Zolguroth</c>?",
+      "Quien es<d030> <cr>Solgurot</c>?"
+    ],
+    [
+      "<cl>I really need to get that thing checked.<d030>.<d030>.</c>",
+      "<cl>Necesito que revisen esa cosa.<d030>.<d030>.</c>"
     ]
   ]}
