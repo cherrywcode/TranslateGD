@@ -1,6 +1,46 @@
 {
   "Layers": [
     [
+      "Select a special color channel as the target color ID.",
+      "Seleccione un canal de color especial como ID de color de destino."
+    ],
+    [
+      "<cg>Stops</c> triggers from being active permanently.",
+      "<cg>Evita</c> que los inter. esten activos"
+    ],
+    [
+      "<cy>TargetID</c> must be a group on the trigger(s) that you want to stop. If you only want to stop certain triggers within a group, use <cl>Control ID</c>.",
+      "<cy>DestinoID</c> debe ser un grupo en los inter. que desea detener. Si desea detener ciertos activadores dentro de un grupo, utilice <cl>Control ID</c>."
+    ],
+    [
+      "Hint: Unlike Group ID, Control ID can be remapped.",
+      "Idea: A diferencia del GrupoID, el ControlID se puede reasignar."
+    ],
+    [
+      "Pause/Resume works on: Pulse, Col, Alpha, Move, Rotate, Scale, Spawn, Follow, FollowPY, ADVFollow",
+      "Pausa/Resumen funcionan en: Pulso, Opacidad, Mover, entre otros..."
+    ],
+    [
+      "Applies a temporary <cg>color effect</c> to a group or channel. Set which using <cy>Target Type</c>.",
+      "Aplica un efecto de color temporal. Configurelo usando el tipo de destino."
+    ],
+    [
+      "If set to group, you can toggle between main and detail colors.",
+      "Si esta configurado en grupo, puede alternar entre los colores prin. y de detalle."
+    ],
+    [
+      "<cl>Color Mode</c> tints the target to the selected color.",
+      "<cl>Modo de Color</c> tinte el objetivo con el seleccionado."
+    ],
+    [
+      "<cp>HSV Mode</c> modifies the base color's hue, saturation, and brightness values.",
+      "<cp>Modo HSV</c> modifica los valores de tono, saturacion y brillo del color base."
+    ],
+    [
+      "<cr>Exclusive</c> disables all other pulses using the same ID when activated (not visible in editor).",
+      "<cr>Exclusivo</c> desactiva todos los demas pulsos que utilizan el mismo ID cuando se activa (no visible en el editor)."
+    ],
+    [
       "Stereo Madness",
       "Locura Estereo"
     ],
@@ -5470,7 +5510,8 @@
     ],
     [
       "I blame <cg>RobTop</c>.",
-      "La culpa es de <cg>Roberto Pala</c>."
+      "La culpa es de <cg>Roberto Pala</c>.",
+      "Versus_003.mp3"
     ],
     [
       "Who else could we <cr>blame</c>?",
@@ -5482,7 +5523,8 @@
     ],
     [
       "Speak for yourself <co>I'm real!</c>",
-      "Dilo por ti!<d020> <co>Yo Soy Real!</c>"
+      "Dilo por ti!<d020> <co>Yo Soy Real!</c>",
+      "Versus_005.mp3"
     ],
     [
       "<cl>Yea, a real pain in the<d010>.<d010>.<d010>.</c>",
@@ -5490,7 +5532,8 @@
     ],
     [
       "You're just <cr>mad</c> because you don't have a <cy>shop</c>.",
-      "Usted esta <cr>enfadada</c> por no tener una <cy>tienda</c>."
+      "Usted esta <cr>enfadada</c> por no tener una <cy>tienda</c>.",
+      "Versus_007.mp3"
     ],
     [
       "You have a <cy>shop</c>?",
@@ -5498,7 +5541,8 @@
     ],
     [
       "<co>I HAVE SAID TOO MUCH!",
-      "<co>HE DICHO DEMASIADO!"
+      "<co>HE DICHO DEMASIADO!",
+      "Versus_009.mp3"
     ],
     [
       "QUICKLY TO THE <i050><s260>CHOPPER!</s></i></c>",
@@ -5507,60 +5551,6 @@
     [
       "You don't have a chop<d010>.<d010>.<d010>.",
       "Tu no tienes un helicoptero<d010>.<d010>.<d010>."
-    ],
-
-    [
-      "Where do you <cl>think</c> you're going?",
-      "Adonde <cl>crees</c> que vas?"
-    ],
-    [
-      "There's nothing over there, that place has been <cr>abandoned</c> for years.",
-      "Alli no hay nada, ese lugar lleva decadas <cr>abandonado</c><d010>.<d010>.<d010>."
-    ],
-    [
-      "We can take a <cg>quick</c> look if you want, <d030>but we can't stay long.",
-      "Podemos echar un <cg>vistazo</c> rapido si quieres, <d030>pero mucho."
-    ],
-    [
-      "<co>RubRub is always watching.<d010>.<d010>.<d010>.</c>",
-      "<co>RubRub siempre esta observando.<d010>.<d010>.<d010>.</c>"
-    ],
-    
-    [
-      "Who left the <cy>lights</c> on?",
-      "Quien dejo las <cy>luces</c> prendidas?"
-    ],
-    [
-      "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>",
-      "<co>Tengo un mal presentimiento<d010>.<d010>.<d010>.</c>"
-    ],
-    [
-      "Well, well, well.<d035>",
-      "Bueno, Bueno, Bueno.<d035>"
-    ],
-    [
-      "Look who it is.",
-      "Mira quien es."
-    ],
-    [
-      "I see you have the <cg>keys</c>.<d040>",
-      "Veo que tienes las<cg>llaves.</c>.<d040>"
-    ],
-    [
-      "But what comes next?",
-      "Pero que viene despues?"
-    ],
-    [
-      "The <co>door</c> is open.<d040>",
-      "La <co>Puerta</c> esta abierta.<d040>"
-    ],
-    [
-      "Time to find out<d010>.<d010>.<d010>.",
-      "Es hora de averiguarlo<d010>.<d010>.<d010>."
-    ],
-    [
-      "Wait, you are not <cl>RubRub</c>...",
-      "Espera, tu no eres <cl>RubRub</c>..."
     ]
   ],
   "SHOP_001": [
@@ -5670,11 +5660,11 @@
   "SHOP_003": [
     [
       "Potbor",
-      "Dc. OctoporongaBor"
+      "Borolla"
     ],
     [
       "Oh,<d030> a customer!",
-      "Oh,<d30> un cliente!"
+      "Oh,<d030> un cliente!"
     ],
     [
       "I never had a customer before.",
@@ -5699,6 +5689,39 @@
     [
       "<d010>.<d010>.<d010>.<d050> Sounds simple enough.",
       "<d010>.<d010>.<d010>.<d050> Suena bastante simple."
+    ]
+  ],
+  "THE_TOWER": [
+    [
+      "Where do you <cl>think</c> you're going?",
+      "Adonde <cl>crees</c> que vas?",
+      "TheTower_001.mp3"
+    ],
+    [
+      "There's nothing over there, that place has been <cr>abandoned</c> for years.",
+      "Alli no hay nada, ese lugar lleva decadas <cr>abandonado</c><d010>.<d010>.<d010>.",
+      "TheTower_002.mp3"
+    ],
+    [
+      "We can take a <cg>quick</c> look if you want, <d030>but we can't stay long.",
+      "Podemos echar un <cg>vistazo</c> rapido si quieres, <d030>pero no mucho.",
+      "TheTower_003.mp3"
+    ],
+    [
+      "<co>RubRub is always watching.<d010>.<d010>.<d010>.</c>",
+      "<co>RubRub siempre esta observando.<d010>.<d010>.<d010>.</c>",
+      "TheTower_004.mp3"
+    ],
+    
+    [
+      "Who left the <cy>lights</c> on?",
+      "Uhm, Quien dejo las <cy>luces</c> prendidas?",
+      "TheTower_005.mp3"
+    ],
+    [
+      "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>",
+      "<co>Tengo un mal presentimiento<d010>.<d010>.<d010>.</c>",
+      "TheTower_006.mp3"
     ]
   ],
   "THE_WRAITH": [
