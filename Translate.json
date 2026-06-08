@@ -5096,8 +5096,10 @@
       "Hello",
       "Hola"
     ],
+    [
       "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
-      "El contenido de odio, abusivo o de cualquier otra forma inapropiado, ya sea en el Mapa, en el nombre o en la descripcion, puede dar lugar a la eliminacion. Lo mismo se aplica a los Mapas que abusen de trucos o exploits. El robo de recursos de otros Mapas esta desaconsejado y puede impedir que un Mapa sea valorado, dependiendo del contexto, la gravedad, los creditos y más. Los Mapas verificados con hacks no pueden ser valorados.",
+      "El contenido de odio, abusivo o de cualquier otra forma inapropiado, ya sea en el Mapa, en el nombre o en la descripcion, puede dar lugar a la eliminacion. Lo mismo se aplica a los Mapas que abusen de trucos o exploits. El robo de recursos de otros Mapas esta desaconsejado y puede impedir que un Mapa sea valorado, dependiendo del contexto, la gravedad, los creditos y más. Los Mapas verificados con hacks no pueden ser valorados."
+    ],
     [
       "<cy>These guidelines and their enforcement are entirely at RobTop's discretion.</c>",
       "<cy>Estas pautas y su cumplimiento quedan totalmente a discreción de RobTop.</c>"
@@ -5419,8 +5421,20 @@
       "El Mecanico"
     ],
     [
-      "PotBor",
-      "Sr. Calderon"
+      "Do you want to <cg>download</c> your account data from the <cl>cloud</c>?",
+      "Desea <cg>descargar</c> los datos de su cuenta desde la <cl>nube</c>?"
+    ],
+    [
+      "<cy>This will merge current data with the saved data.</c>",
+      "<cy>Esto fusionara los datos actuales con los datos guardados.</c>"
+    ],
+    [
+      "<cg>Saved data</c> has been <cy>downloaded</c>.",
+      "<cg>Los datos guardados</c> se han <cy>descargado</c>."
+    ],
+    [
+      "Sync successful",
+      "Sincronizacion exitosa"
     ]
   ],
   "Alertas": [
@@ -5431,6 +5445,14 @@
     [
       "Info",
       "Informacion"
+    ],
+    [
+      "New!",
+      "Nuevo!"
+    ],
+    [
+      "News!",
+      "Nuevos!"
     ]
   ],
   "Dialogs": [
@@ -5511,46 +5533,6 @@
     [
       "<co>I got a bad feeling about this<d010>.<d010>.<d010>.</c>",
       "<co>Tengo un mal presentimiento<d010>.<d010>.<d010>.</c>"
-    ],
-    [
-      "<cl>Great...</c><d020> Just what I needed.<d050>",
-      "<cl>Excelente...</c><d020> Justo lo que necesitaba.<d050>"
-    ],
-    [
-      "Another visitor to my <cr>prison</c>.",
-      "Otro visitante para mi <cr>prision</c>."
-    ],
-    [
-      "Must be my lucky day...<d040> <cg>or yours</c>.",
-      "Debe ser mi dia de suerte...<d040> <cg>o el tuyo.</c>."
-    ],
-    [
-      "<d050><cl>I don't really have days anymore.</c>",
-      "<d050><cl>Ya no tengo dias realmente.</c>"
-    ],
-    [
-      "I wasn't always like this,<d015> you know.",
-      "No siempre fui asi,<d015> sabes?"
-    ],
-    [
-      "<d050>I used to be something,<d040> <co>greater</c><d010>.<d015>.<d020>.",
-      "<d050>Solias ser alguien,<d040> <co>mejor...</c><d010>.<d015>.<d020>."
-    ],
-    [
-      "Now instead,<d030> I get to listen to you.",
-      "Ahora, en su lugar,<d030> tengo que escucharte a ti."
-    ],
-    [
-      "<d050><cl>What a treat...</c>",
-      "<d050><cl>Que regalo...</c>"
-    ],
-    [
-      "<cg>Go on</c>, <d030><co>or don't</c>.",
-      "<cg>Continua</c>, <d030><co>o no.</c>."
-    ],
-    [
-      "<d050>Not like I can stop you.",
-      "<d050>No es como si pudiera detenerte."
     ],
     [
       "Well, well, well.<d035>",
@@ -5684,4 +5666,86 @@
       "<cl>I really need to get that thing checked.<d030>.<d030>.</c>",
       "<cl>Necesito que revisen esa cosa.<d030>.<d030>.</c>"
     ]
-  ]}
+  ],
+  "SHOP_003": [
+    [
+      "Potbor",
+      "Dc. OctoporongaBor"
+    ],
+    [
+      "Oh,<d030> a customer!",
+      "Oh,<d30> un cliente!"
+    ],
+    [
+      "I never had a customer before.",
+      "Nunca he tenido un cliente antes"
+    ],
+    [
+      "<d010>.<d010>.<d010>.<d050> Not sure what to do.",
+      "<d010>.<d010>.<d010>.<d050> No estoy seguro de que hacer."
+    ],
+    [
+      "Let me check the manual.",
+      "Dejame consultar el manual."
+    ],
+    [
+      "<cg>The Shopkeepers handbook</c>:",
+      "<cg>Manual del comerciante</c>:"
+    ],
+    [
+      "<d030><cy>You give stuff, they pay money.</c>",
+      "<d030><cy>Tu das cosas, ellos pagan dinero.</c>"
+    ],
+    [
+      "<d010>.<d010>.<d010>.<d050> Sounds simple enough.",
+      "<d010>.<d010>.<d010>.<d050> Suena bastante simple."
+    ]
+  ],
+  "THE_WRAITH": [
+    [
+      "The Wraith",
+      "La Fantasmita"
+    ],
+    [
+      "<cl>Great...</c><d020> Just what I needed.<d050>",
+      "<cl>Excelente...</c><d020> Justo lo que necesitaba.<d050>"
+    ],
+    [
+      "Another visitor to my <cr>prison</c>.",
+      "Otro visitante para mi <cr>prision</c>."
+    ],
+    [
+      "Must be my lucky day...<d040> <cg>or yours</c>.",
+      "Debe ser mi dia de suerte...<d040> <cg>o el tuyo.</c>."
+    ],
+    [
+      "<d050><cl>I don't really have days anymore.</c>",
+      "<d050><cl>Ya no tengo dias realmente.</c>"
+    ],
+    [
+      "I wasn't always like this,<d015> you know.",
+      "No siempre fui asi,<d015> sabes?"
+    ],
+    [
+      "<d050>I used to be something,<d040> <co>greater</c><d010>.<d015>.<d020>.",
+      "<d050>Solias ser alguien,<d040> <co>mejor...</c><d010>.<d015>.<d020>."
+    ],
+    [
+      "Now instead,<d030> I get to listen to you.",
+      "Ahora, en su lugar,<d030> tengo que escucharte a ti. <d050><cl>Que regalo...</c>"
+    ],
+    [
+      "<d050><cl>What a treat...</c>",
+      ""
+    ],
+    [
+      "<cg>Go on</c>, <d030><co>or don't</c>.",
+      "<cg>Continua</c>, <d030><co>o no.</c>."
+    ],
+    [
+      "<d050>Not like I can stop you.",
+      "<d050>No es como si pudiera detenerte."
+    ]
+  ]
+
+}
