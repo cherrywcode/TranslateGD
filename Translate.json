@@ -5471,6 +5471,158 @@
     [
       "Sync successful",
       "Sincronizacion exitosa"
+    ],
+    [
+      "Installed",
+      "Instalados"
+    ],
+    [
+      "Download",
+      "Descargar"
+    ],
+    [
+      "Search Mods",
+      "Buscar Mods"
+    ],
+    [
+      "Search Sorting",
+      "Busqueda Rapida"
+    ],
+    [
+      "Recently Installed",
+      "Recientemente\nInstalados"
+    ],
+    [
+      "Most Downloads",
+      "Mas Descargados"
+    ],
+    [
+      "Recently Published",
+      "Recien Subidos"
+    ],
+    [
+      "Recently Updated",
+      "Recien Actualizado"
+    ],
+    [
+      "No mods found :(",
+      "No se encontraron mods :("
+    ],
+    [
+      "Get",
+      "Conseguir"
+    ],
+    [
+      "Search Filters",
+      "Filtros De Busqueda"
+    ],
+    [
+      "Tags",
+      "Etiquetas"
+    ],
+    [
+      "Offline",
+      "Desconectado"
+    ],
+    [
+      "Enhancement",
+      "Mejoras"
+    ],
+    [
+      "Interface",
+      "Interfaz"
+    ],
+    [
+      "BugFix",
+      "Arreglos"
+    ],
+    [
+      "Utility",
+      "Utilidad"
+    ],
+    [
+      "Customization",
+      "Personalizado"
+    ],
+    [
+      "Content",
+      "Contenido"
+    ],
+    [
+      "Developer",
+      "Desarollador"
+    ],
+    [
+      "Cheat",
+      "Trampa"
+    ],
+    [
+      "Page",
+      "Pago"
+    ],
+    [
+      "Joke",
+      "Broma"
+    ],
+    [
+      "Modtober 2024 Winner",
+      "Ganador Modtober 2024"
+    ],
+    [
+      "Modtober 2025 Winner",
+      "Ganador Modtober 2024"
+    ],
+    [
+      "From Developer",
+      "Del Desarrollador"
+    ],
+    [
+      "Developer Name",
+      "Nombre del Desarrollador"
+    ],
+    [
+      "Released",
+      "Publicado"
+    ],
+    [
+      "Updated",
+      "Actualizado"
+    ],
+    [
+      "Up to Date!",
+      "Al Dia!"
+    ],
+    [
+      "Enable",
+      "Permitir"
+    ],
+    [
+      "Disable",
+      "Desactivar"
+    ],
+    [
+      "Disabled",
+      "Desactivado"
+    ],
+    [
+      "Uninstall",
+      "Eliminar"
+    ],
+    [
+      "Description",
+      "Descripcion"
+    ],
+    [
+      "Changelog",
+      "Registros"
+    ],
+    [
+      "Re-Disable",
+      "Deshabilitar"
+    ],
+    [
+      "Install",
+      "Descargar"
     ]
   ],
   "Alertas": [
