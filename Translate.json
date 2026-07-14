@@ -3164,8 +3164,7 @@
     ],
     [
       "Special Color Select",
-      "Seleccion Especial de Color",
-      0.75
+      "Seleccion Especial"
     ],
     [
       "Saturation:",
@@ -5623,6 +5622,86 @@
     [
       "Install",
       "Descargar"
+    ],
+    [
+      "<cg>Moves</c> a group of objects to another position.",
+      "<cg>Mueve</c> un grupo de objetos a otra posición."
+    ],
+    [
+      "<cy>Easing</c> changes the method used.",
+      "<cy>Suavizado</c> cambia el metodo utilizado."
+    ],
+    [
+      "<cl>Target Mode</c> moves the group to the position of another group.",
+      "<cl>Modo Objetivo</c> mueve el grupo a la posición de otro grupo."
+    ],
+    [
+      "<cp>Direction Mode</c> moves the group in the direction of another group. Use <cr>Dynamic Mode</c> to update locations in real-time for the 2 previous options.",
+      "<cp>Modo Dirección</c> mueve el grupo en la dirección de otro grupo. Utilice <cr>Modo Dinamico</c> para actualizar ubicaciones en tiempo real para las opciones."
+    ],
+    [
+      "<co>Small Step</c> changes steps to their actual number, so 1 grid space is 30 instead of 10.",
+      "<co>Pasito</c> cambia los pasos a su número real, por lo que 1 espacio de la cuadricula es 30 en lugar de 10."
+    ],
+    [
+      "Changes the <cg>opacity</c> of a group. If any objects in the group have a color channel with opacity, the values are multiplied.",
+      "Cambia la <cg>opacidad</c> de un grupo. Si algun objeto del grupo tiene un canal de color con opacidad, los valores se multiplican."
+    ],
+    [
+      "<cg>Toggles off</c> a group of objects.",
+      "<cg>Desactiva</c> un grupo de objetos."
+    ],
+    [
+      "Use <cy>Activate Group</c> to toggle on instead.",
+      "Utilice <cy>Activate Group</c> para activarlo."
+    ],
+    [
+      "Objects that are toggled off are invisible and untouchable.",
+      "Los objetos que están desactivados son invisibles e intocables."
+    ],
+    [
+      "Triggers that are toggled off do not activate.",
+      "Los disparadores que están desactivados no se activan."
+    ],
+    [
+      "Set HSV",
+      "Poner HSV"
+    ],
+    [
+      "Edit\nHSV",
+      "Editar\nHSV"
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
+    ],
+    [
+      "",
+      ""
     ]
   ],
   "Alertas": [
