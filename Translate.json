@@ -170,7 +170,7 @@
     ],
     [
       "My Levels",
-      "Mis Mapas"
+      "Mis Niveles"
     ],
     [
       "My Lists",
@@ -182,7 +182,7 @@
     ],
     [
       "My Online Levels",
-      "Mis Mapas en Linea"
+      "Mis Niveles en Linea"
     ],
     [
       "My Online Lists",
@@ -190,11 +190,11 @@
     ],
     [
       "Saved Levels",
-      "Mapas Guardados"
+      "Niveles Guardados"
     ],
     [
       "Online Levels",
-      "Mapas En Linea"
+      "Niveles En Linea"
     ],
     [
       "Online List",
@@ -334,7 +334,7 @@
     ],
     [
       "Level Name",
-      "Nombre del Mapa"
+      "Nombre del Nivel"
     ],
     [
       "Description [Optional]",
@@ -366,7 +366,7 @@
     ],
     [
       "Enter a level, user or id",
-      "Poner el Mapa, Usuario o ID"
+      "Poner el Nivel, Usuario o ID"
     ],
     [
       "Enter a list or id",
@@ -426,7 +426,7 @@
     ],
     [
       "Level Stats",
-      "Estadisticas del Mapa"
+      "Estadisticas del Nivel"
     ],
     [
       "Attempts: %i",
@@ -490,11 +490,11 @@
     ],
     [
       "Report Level",
-      "Reportar Mapa"
+      "Reportar Nivel"
     ],
     [
       "Do you want to <cr>report</c> this level for breaking the <cg>upload guidelines</c> found in the editor? Valid reasons include hateful, abusive, or otherwise inappropriate content, as well as hacks, cheats, or exploits.",
-      "Quieres <cr>denunciar</c> este Mapa por <cg>Infrigir las Normas</c> de subida del Editor? Entre razones validas se incluyen contenido de odio, abusivo o inapropiado, asi tal cual como hacks, trampas o exploits."
+      "Quieres <cr>denunciar</c> este Nivel por <cg>Infrigir las Normas</c> de subida del Editor? Entre razones validas se incluyen contenido de odio, abusivo o inapropiado, asi tal cual como hacks, trampas o exploits."
     ],
     [
       "Resume",
@@ -856,7 +856,7 @@
     ],
     [
       "Disable Comments",
-      "Desactivar comentarios\nen los Mapas"
+      "Desactivar comentarios\nen los Niveles"
     ],
     [
       "Disable Account\nComments",
@@ -864,7 +864,7 @@
     ],
     [
       "Only Allow\nFeatured Levels",
-      "Mostrar solo\nMapas destacados"
+      "Mostrar solo\nNiveles destacados"
     ],
     [
       "Video Options",
@@ -1056,7 +1056,7 @@
     ],
     [
       "Level Leaderboards",
-      "Tablas de clasificacion de Mapas"
+      "Tablas de clasificacion de Niveles"
     ],
     [
       " Leaderboard",
@@ -1240,27 +1240,27 @@
     ],
     [
       "Completed Levels:",
-      "Mapas Completados:"
+      "Niveles Completados:"
     ],
     [
       "Completed Online Levels:",
-      "Mapas en Linea Completados:"
+      "Niveles en Linea Completados:"
     ],
     [
       "Completed Insane Levels:",
-      "Mapas en Linea Completados:"
+      "Niveles en Linea Completados:"
     ],
     [
       "Completed Daily Levels:",
-      "Mapas Diarios Completados:"
+      "Niveles Diarios Completados:"
     ],
     [
       "Completed Demon Levels:",
-      "Mapas Demon Completados:"
+      "Niveles Demon Completados:"
     ],
     [
       "Completed Map Packs:",
-      "Paquetes de Mapas Completados:"
+      "Paquetes de Niveles Completados:"
     ],
     [
       "Completed Gauntlets:",
@@ -1276,11 +1276,11 @@
     ],
     [
       "Liked/Disliked Levels:",
-      "Me gusta/No me gusta en Mapas:"
+      "Me gusta/No me gusta en Niveles:"
     ],
     [
       "Rated Levels:",
-      "Mapas Valorados:"
+      "Niveles Valorados:"
     ],
     [
       "Collected List Rewards:",
@@ -1356,7 +1356,7 @@
     ],
     [
       "My Levels (%i)",
-      "Mis Mapas (%i)"
+      "Mis Niveles (%i)"
     ],
     [
       "Favorite Lists (%i)",
@@ -1368,15 +1368,15 @@
     ],
     [
       "Favorite Levels (%i)",
-      "Mis Mapas Favoritos (%i)"
+      "Mis Niveles Favoritos (%i)"
     ],
     [
       "Saved Levels (%i)",
-      "Mis Mapas Guardados (%i)"
+      "Mis Niveles Guardados (%i)"
     ],
     [
       "Online Levels (%i)",
-      "Mapas en Linea (%i)"
+      "Niveles en Linea (%i)"
     ],
     [
       "Favorite Lists",
@@ -1384,7 +1384,7 @@
     ],
     [
       "Favorite Levels",
-      "Mapas Favoritas"
+      "Niveles Favoritas"
     ],
     [
       "You have not <cg>favorited</c>",
@@ -1412,7 +1412,7 @@
     ],
     [
       "A <co>list</c> may have rewards if it is rated by RobTop. The difficulty face is manually set by the creator of the list.",
-      "Una <co>lista</c> puede tener recompensas si RobTop la califica. El Mapa de dificultad lo establece manualmente el creador de la lista."
+      "Una <co>lista</c> puede tener recompensas si RobTop la califica. El Nivel de dificultad lo establece manualmente el creador de la lista."
     ],
     [
       "Usernames are <cy>gold</c> for registered users and <cg>green</c> for unregistered users. A song is <cl>blue</c> if it is official and <cp>pink</c> if it is custom.",
@@ -1440,7 +1440,7 @@
     ],
     [
       "Map: %s",
-      "Mapas: %s"
+      "Nivel: %s"
     ],
     [
       "(Event)",
@@ -1460,11 +1460,11 @@
     ],
     [
       "Daily Level",
-      "Mapa Diario"
+      "Nivel Diario"
     ],
     [
       "Event Level",
-      "Mapa Evento"
+      "Nivel Evento"
     ],
     [
       "Weekly Demon",
@@ -1472,23 +1472,23 @@
     ],
     [
       "Skip level",
-      "Saltarse el Mapa"
+      "Saltarse el Nivel"
     ],
     [
       "New Daily Level in: %s",
-      "Nuevo Mapa Diario en: %s"
+      "Nuevo Nivel Diario en: %s"
     ],
     [
       "New Weekly Demon in: %s",
-      "Nuevo Mapa Demonio en: %s"
+      "Nuevo Nivel Demonio en: %s"
     ],
     [
       "New Event Level in: %s",
-      "Nuevo Mapa Evento en: %s"
+      "Nuevo Nivel Evento en: %s"
     ],
     [
       "Find Level",
-      "Buscar Mapa"
+      "Buscar Nivel"
     ],
     [
       "Search",
@@ -1820,15 +1820,15 @@
     ],
     [
       "Remove Server Level",
-      "Eliminar Mapa de Servidor"
+      "Eliminar Nivel de Servidor"
     ],
     [
       "Do you want to <cr>delete</c> this <cg>level</c> from the <cl>server</c>?",
-      "Quieres <cr>eliminar</c> este <cg>Mapa</c> del <cl>servidor</c>?"
+      "Quieres <cr>eliminar</c> este <cg>Nivel</c> del <cl>servidor</c>?"
     ],
     [
       "<cy>(Your level will no longer be available online)</c>",
-      "<cy>(Tu Mapa ya no estara disponible en linea)</c>"
+      "<cy>(Tu Nivel ya no estara disponible en linea)</c>"
     ],
     [
       "Delete",
@@ -1992,7 +1992,7 @@
     ],
     [
       "Pauses gameplay when starting from a start position to prepare gameplay. Click a second time to actually start playing. This is used to handle start lag in larger levels.",
-      "Pausa el juego al empezar desde una posicion inicial para prepararlo. Haz clic una segunda vez para empezar a jugar. Esto se usa para controlar el retraso inicial en Mapas mas grandes."
+      "Pausa el juego al empezar desde una posicion inicial para prepararlo. Haz clic una segunda vez para empezar a jugar. Esto se usa para controlar el retraso inicial en Niveles mas grandes."
     ],
     [
       "Start Optimization",
@@ -2306,7 +2306,7 @@
     ],
     [
       "Choose a font that will be used in this level.",
-      "Elija una fuente que se utilizara en este Mapa."
+      "Elija una fuente que se utilizara en este Nivel."
     ],
     [
       "You can only use one font at a time.",
@@ -2422,7 +2422,7 @@
     ],
     [
       "Fixes an old bug that makes flipped gravity act differently than normal gravity. Old levels can break with this enabled.",
-      "Corrige un error antiguo que provocaba que la gravedad invertida actuara de forma diferente a la gravedad normal. Los Mapas antiguos podian fallar con esta opcion activada."
+      "Corrige un error antiguo que provocaba que la gravedad invertida actuara de forma diferente a la gravedad normal. Los Niveles antiguos podian fallar con esta opcion activada."
     ],
     [
       "Fix Robot Jump",
@@ -2446,7 +2446,7 @@
     ],
     [
       "Legacy compatibility pre 2.2. Should be enabled on new levels.",
-      "Compatibilidad con versiones anteriores a la 2.2. Deberia estar habilitada en los nuevos Mapas."
+      "Compatibilidad con versiones anteriores a la 2.2. Deberia estar habilitada en los nuevos Niveles."
     ],
     [
       "Enable Player Squeeze",
@@ -2454,7 +2454,7 @@
     ],
     [
       "Destroys player when squeezed between two objects. This is on by default but only for levels after update 2.2 for legacy reasons. Cannot be disabled for platformer levels.",
-      "Destruye al jugador al quedar atrapado entre dos objetos. Esta activado por defecto, pero solo en Mapas posteriores a la actualizacion 2.2 por razones de legado. No se puede desactivar en Mapas de plataformas."
+      "Destruye al jugador al quedar atrapado entre dos objetos. Esta activado por defecto, pero solo en Niveles posteriores a la actualizacion 2.2 por razones de legado. No se puede desactivar en Niveles de plataformas."
     ],
     [
       "Fix Negative Scale",
@@ -2462,15 +2462,15 @@
     ],
     [
       "Makes negative scaled objects collide correctly. Disabled on old levels for compatibility.",
-      "Permite que los objetos con escala negativa colisionen correctamente. Desactivado en Mapas anteriores por compatibilidad."
+      "Permite que los objetos con escala negativa colisionen correctamente. Desactivado en Niveles anteriores por compatibilidad."
     ],
     [
       "Dynamic Level Height",
-      "Altura del Mapa dinamico"
+      "Altura del Nivel dinamico"
     ],
     [
       "Increases max level height dynamically (the same way as max length). This option is always enabled in platformer mode.",
-      "Aumenta la altura maxima del Mapa dinamicamente (igual que la longitud maxima). Esta opcion siempre esta activada en el modo plataformas."
+      "Aumenta la altura maxima del Nivel dinamicamente (igual que la longitud maxima). Esta opcion siempre esta activada en el modo plataformas."
     ],
     [
       "Fix Radius Collision",
@@ -2706,7 +2706,7 @@
     ],
     [
       "<cy>Fade out:</c> Song fades out at the end of the level.",
-      "<cy>Ocultar:</c> La cancion se desvanece al final del Mapa."
+      "<cy>Ocultar:</c> La cancion se desvanece al final del Nivel."
     ],
     [
       "<cg>Offset:</c> Change the start time of the song.",
@@ -2778,7 +2778,7 @@
     ],
     [
       "<cy>Save</c> the level?",
-      "<cy>Guardar</c> el Mapa?"
+      "<cy>Guardar</c> el Nivel?"
     ],
     [
       "Find GroupID",
@@ -2964,7 +2964,7 @@
     ],
     [
       "You cannot add more than <cy>3</c> <cg>coins</c> in a single level.",
-      "No puedes agregar mas de <cy>3</c> <cg>monedas</c> en un solo Mapa."
+      "No puedes agregar mas de <cy>3</c> <cg>monedas</c> en un solo Nivel."
     ],
     [
       "Reset\nCamera",
@@ -4274,7 +4274,7 @@
     ],
     [
       "<cl>Custom Songs:</c> To only show levels using custom songs. Select <cy>Song</c> and <cy>Custom</c> but leave the textfield blank.",
-      "<cl>Canciones Personalizadas:</c> Para mostrar solo los Mapas con canciones personalizadas, seleccione <cy>Cancion</c> y <cy>Personalizado</c>, pero deje el campo de texto en blanco."
+      "<cl>Canciones Personalizadas:</c> Para mostrar solo los Niveles con canciones personalizadas, seleccione <cy>Cancion</c> y <cy>Personalizado</c>, pero deje el campo de texto en blanco."
     ],
     [
       "%s Leaderboard",
@@ -5033,7 +5033,7 @@
     ],
     [
       "You cannot share an empty level.",
-      "No puedes compartir un Mapa vacio."
+      "No puedes compartir un Nivel vacio."
     ],
     [
       "Empty",
@@ -5041,11 +5041,11 @@
     ],
     [
       "Clone Level",
-      "Mapa Copiado"
+      "Nivel Copiado"
     ],
     [
       "Delete Level",
-      "Eliminar Mapa"
+      "Eliminar Nivel"
     ],
     [
       "Do you want to open the editor guide now?",
@@ -5053,7 +5053,7 @@
     ],
     [
       "Are you sure you want to <cr>delete</c> this level?",
-      "Estas seguro de que quieres <cr>eliminar</c> este Mapa?"
+      "Estas seguro de que quieres <cr>eliminar</c> este Nivel?"
     ],
     [
       "<cy>This action cannot be undone.</c>",
@@ -5061,7 +5061,7 @@
     ],
     [
       "Texto recibido: Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
-      "El contenido de odio, abusivo o inapropiado, ya sea en el Mapa, el nombre o la descripcion, puede resultar en la <cr>eliminacion</c>. Lo mismo aplica a los Mapas que usan trampas o exploits. Se <co>desaconseja</c> robar recursos de otros Mapas y puede impedir que un Mapa se califique segun el contexto, la gravedad, el credito, etc. Los Mapas verificados con hacks no se pueden calificar."
+      "El contenido de odio, abusivo o inapropiado, ya sea en el Nivel, el nombre o la descripcion, puede resultar en la <cr>eliminacion</c>. Lo mismo aplica a los Niveles que usan trampas o exploits. Se <co>desaconseja</c> robar recursos de otros Niveles y puede impedir que un Nivel se califique segun el contexto, la gravedad, el credito, etc. Los Niveles verificados con hacks no se pueden calificar."
     ],
     [
       "Uploaded: <cy>",
@@ -5133,7 +5133,7 @@
     ],
     [
       "Hateful, abusive, or otherwise inappropriate content, whether it is in the level, name, or description may lead to <cr>deletion</c>. The same applies to levels abusing cheats or exploits. Stealing assets from other levels is <co>discouraged</c> and may stop a level from being rated depending on the context, severity, credit, and more. Levels verified with hacks cannot be rated.",
-      "El contenido de odio, abusivo o de cualquier otra forma inapropiado, ya sea en el Mapa, en el nombre o en la descripcion, puede dar lugar a la eliminacion. Lo mismo se aplica a los Mapas que abusen de trucos o exploits. El robo de recursos de otros Mapas esta desaconsejado y puede impedir que un Mapa sea valorado, dependiendo del contexto, la gravedad, los creditos y más. Los Mapas verificados con hacks no pueden ser valorados."
+      "El contenido de odio, abusivo o de cualquier otra forma inapropiado, ya sea en el Nivel, en el nombre o en la descripcion, puede dar lugar a la eliminacion. Lo mismo se aplica a los Niveles que abusen de trucos o exploits. El robo de recursos de otros Niveles esta desaconsejado y puede impedir que un Nivel sea valorado, dependiendo del contexto, la gravedad, los creditos y más. Los Niveles verificados con hacks no pueden ser valorados."
     ],
     [
       "<cy>These guidelines and their enforcement are entirely at RobTop's discretion.</c>",
@@ -5185,7 +5185,7 @@
     ],
     [
       "When you activate a path, <cy>Stars</c> and <cl>Moons</c> you <cg>collect</c> will level up your <co>Path</c>. You can unlock multiple paths, but <cr>only one</c> can be <cr>active</c> at a time.",
-      "Al activar un camino, las, <cy>Estrellas</c> y <cl>Lunas</c> que <cg>recolectes</c> subiran de Mapa tu <co>Camino</c>. Puedes desbloquear varios caminos, pero <cr>solo uno</c> puede estar <cr>activo</c> a la vez."
+      "Al activar un camino, las, <cy>Estrellas</c> y <cl>Lunas</c> que <cg>recolectes</c> subiran de Nivel tu <co>Camino</c>. Puedes desbloquear varios caminos, pero <cr>solo uno</c> puede estar <cr>activo</c> a la vez."
     ],
     [
       "Paths of Power",
@@ -5193,15 +5193,15 @@
     ],
     [
       "Map Packs",
-      "Paquetes de Mapas"
+      "Paquetes de Niveles"
     ],
     [
       "<cg>Map Packs</c> are collections of 3 rated levels of similar difficulty set by RobTop. Once completed, they reward <cy>Stars</c> and <cl>Secret Coins</c>.",
-      "Los <cg>Paquetes de Mapas</c> son colecciones de 3 Mapas de dificultad similar, creados por RobTop. Al completarlos, se obtienen <cy>Estrellas</c> y <cl>Monedas Secretas</c>."
+      "Los <cg>Paquetes de Niveles</c> son colecciones de 3 Niveles de dificultad similar, creados por RobTop. Al completarlos, se obtienen <cy>Estrellas</c> y <cl>Monedas Secretas</c>."
     ],
     [
       "Levels on this list have been rated and featured by RobTop. The extra visual around the difficulty face indicates how much he likes a specific level. In order of increasing quality:",
-      "Los Mapas de esta lista han sido calificados y destacados por RobTop. El elemento visual adicional alrededor del Mapa de dificultad indica cuanto le gusta un Mapa especifico. En orden de calidad creciente:"
+      "Los Niveles de esta lista han sido calificados y destacados por RobTop. El elemento visual adicional alrededor del Nivel de dificultad indica cuanto le gusta un Nivel especifico. En orden de calidad creciente:"
     ],
     [
       "<cy>Featured</c>, <co>Epic</c>, <cp>Legendary</c>, and <cj>Mythic</c>.",
@@ -5217,7 +5217,7 @@
     ],
     [
       "<cg>Gauntlets</c> are themed collections of 5 rated levels that give a special <cy>reward</c> once beaten. They are made by RobTop based on which levels fit the theme or through official <cl>creator contests</c>. Follow RobTop on social media to be notified about future contests!",
-      "Los <cg>Guanteletes</c> son colecciones tematicas de 5 Mapas puntuables que otorgan una <cy>recompensa</c> especial al superarlos. Los crea RobTop basandose en los Mapas que se ajustan a la tematica o mediante <cl>concursos de creadores</c> oficiales. Sigue a RobTop en redes sociales para enterarte de futuros concursos!"
+      "Los <cg>Guanteletes</c> son colecciones tematicas de 5 Niveles puntuables que otorgan una <cy>recompensa</c> especial al superarlos. Los crea RobTop basandose en los Niveles que se ajustan a la tematica o mediante <cl>concursos de creadores</c> oficiales. Sigue a RobTop en redes sociales para enterarte de futuros concursos!"
     ],
     [
       "Quests",
@@ -5233,11 +5233,11 @@
     ],
     [
       "Levels",
-      "Mapas"
+      "Niveles"
     ],
     [
       "A <co>level</c> rewards <cy>Stars</c> if it is rated by RobTop. For unrated levels, the difficulty face is set by community votes on each level's page. This is also how <cr>Demon</c> difficulties are decided.",
-      "Un Mapa otorga <cy>Estrellas</c> si esta calificado por RobTop. En los Mapas sin calificacion, la dificultad se establece mediante votos de la comunidad en la pagina de cada Mapa. Asi tambien se deciden las dificultades de los <cr>Demonios</c>."
+      "Un Nivel otorga <cy>Estrellas</c> si esta calificado por RobTop. En los Niveles sin calificacion, la dificultad se establece mediante votos de la comunidad en la pagina de cada Nivel. Asi tambien se deciden las dificultades de los <cr>Demonios</c>."
     ],
     [
       "Usernames are <cy>gold</c> for registered users and <cg>green</c> for unregistered users. A song is <cl>blue</c> if it is official and <cp>pink</c> if it is custom.",
@@ -5261,11 +5261,11 @@
     ],
     [
       "The <cg>Creators</c> leaderboard is sorted by amount of Creator Points. Creating a rated level rewards 1, <cy>Featured</c> rewards 2, <co>Epic</c> rewards 3, <cp>Legendary</c> rewards 4, and <cj>Mythic</c> rewards 5.",
-      "La clasificacion de <cg>Creadores</c> se ordena por la cantidad de Puntos de Creador. Crear un Mapa puntuado otorga 1 recompensa, <cy>Destacado</c> 2 recompensa, <co>Epico</c> 3 recompensa, <cp>Legendario</c> 4 recompensa y <cj>Mitico</c> 5 recompensa."
+      "La clasificacion de <cg>Creadores</c> se ordena por la cantidad de Puntos de Creador. Crear un Nivel puntuado otorga 1 recompensa, <cy>Destacado</c> 2 recompensa, <co>Epico</c> 3 recompensa, <cp>Legendario</c> 4 recompensa y <cj>Mitico</c> 5 recompensa."
     ],
     [
       "Move this level to the top of the created levels list?",
-      "Mover este Mapa a la parte superior de la lista de Mapas creados?"
+      "Mover este Nivel a la parte superior de la lista de Niveles creados?"
     ],
     [
       "Move to Top",
@@ -5273,11 +5273,11 @@
     ],
     [
       "Create a <cl>copy</c> of this <cg>level</c>?",
-      "Crear una <cl>copia</c> de este <cg>Mapa</c>?"
+      "Crear una <cl>copia</c> de este <cg>Nivel</c>?"
     ],
     [
       "Important notification - Terms of use. RobTop Games provides a library of music and sound effects for creative use within Geometry Dash. You are free to use these assets for creating and sharing levels within the game. However, redistributing, selling, manipulating, or using these assets outside the game is prohibited. If you share game-related content on social media or upload videos featuring custom music, please give credit to the respective artist. Regarding music from Newgrounds.com: Some custom songs are available via a third party website, Newgrounds.com. These songs, created by artists using Newgrounds.com, are under Creative Commons licensing terms accessible on Newgrounds.com. By downloading a song from Newgrounds, you accept these terms and any others designated by Newgrounds. RobTop Games is not the provider of songs from Newgrounds.com, nor a party to the licensing agreements, and does not store any audio files downloaded from Newgrounds.com. You are responsible for the content you create using all music and sound effects provided. Ensure your creations adhere to the game's community guidelines and do not infringe on any rights. The availability of music and sound effects in Geometry Dash is subject to change. RobTop Games may add or remove content from both the custom library and the Newgrounds.com selection without prior notice. We do not guarantee the continuous availability or suitability of any music or sound effects in the game. We may update these terms at any time, with your continued use of Geometry Dash signifying acceptance of any changes. By clicking the 'I Accept' button, you acknowledge and approve of the above-stated terms of use.",
-      "Aviso importante: Condiciones de uso. RobTop Games ofrece una biblioteca de musica y efectos de sonido para uso creativo en Geometry Dash. Puedes usar estos recursos para crear y compartir Mapas dentro del juego. Sin embargo, esta prohibido redistribuir, vender, manipular o usar estos recursos fuera del juego. Si compartes contenido relacionado con el juego en redes sociales o subes videos con musica personalizada, menciona al artista correspondiente. Respecto a la musica de Newgrounds.com: Algunas canciones personalizadas estan disponibles a traves de un sitio web externo, Newgrounds.com. Estas canciones, creadas por artistas que utilizan Newgrounds.com, estan sujetas a los terminos de la licencia Creative Commons, accesibles en Newgrounds.com. Al descargar una cancion de Newgrounds, aceptas estos terminos y cualquier otro designado por Newgrounds. RobTop Games no es el proveedor de las canciones de Newgrounds.com ni forma parte de los acuerdos de licencia, y no almacena ningun archivo de audio descargado de Newgrounds.com. Eres responsable del contenido que creas utilizando toda la musica y los efectos de sonido proporcionados. Asegurate de que tus creaciones cumplan con las normas de la comunidad del juego y no infrinjan ningun derecho. La disponibilidad de la musica y los efectos de sonido en Geometry Dash esta sujeta a cambios. RobTop Games puede agregar o eliminar contenido de la biblioteca personalizada y de la seleccion de Newgrounds.com sin previo aviso. No garantizamos la disponibilidad continua ni la idoneidad de la musica ni los efectos de sonido del juego. Podemos actualizar estos terminos en cualquier momento; el uso continuado de Geometry Dash implica la aceptacion de cualquier cambio. Al hacer clic en el boton "
+      "Aviso importante: Condiciones de uso. RobTop Games ofrece una biblioteca de musica y efectos de sonido para uso creativo en Geometry Dash. Puedes usar estos recursos para crear y compartir Niveles dentro del juego. Sin embargo, esta prohibido redistribuir, vender, manipular o usar estos recursos fuera del juego. Si compartes contenido relacionado con el juego en redes sociales o subes videos con musica personalizada, menciona al artista correspondiente. Respecto a la musica de Newgrounds.com: Algunas canciones personalizadas estan disponibles a traves de un sitio web externo, Newgrounds.com. Estas canciones, creadas por artistas que utilizan Newgrounds.com, estan sujetas a los terminos de la licencia Creative Commons, accesibles en Newgrounds.com. Al descargar una cancion de Newgrounds, aceptas estos terminos y cualquier otro designado por Newgrounds. RobTop Games no es el proveedor de las canciones de Newgrounds.com ni forma parte de los acuerdos de licencia, y no almacena ningun archivo de audio descargado de Newgrounds.com. Eres responsable del contenido que creas utilizando toda la musica y los efectos de sonido proporcionados. Asegurate de que tus creaciones cumplan con las normas de la comunidad del juego y no infrinjan ningun derecho. La disponibilidad de la musica y los efectos de sonido en Geometry Dash esta sujeta a cambios. RobTop Games puede agregar o eliminar contenido de la biblioteca personalizada y de la seleccion de Newgrounds.com sin previo aviso. No garantizamos la disponibilidad continua ni la idoneidad de la musica ni los efectos de sonido del juego. Podemos actualizar estos terminos en cualquier momento; el uso continuado de Geometry Dash implica la aceptacion de cualquier cambio. Al hacer clic en el boton "
     ],
     [
       "I Accept",
@@ -5413,7 +5413,7 @@
     ],
     [
       "This level uses a <cl>custom song</c> that has not been <cg>downloaded</c> yet.",
-      "Este Mapa utiliza una <cl>cancion</c> que aun no se ha <cg>descargado</c>."
+      "Este Nivel utiliza una <cl>cancion</c> que aun no se ha <cg>descargado</c>."
     ],
     [
       "Do you want to play without music?",
@@ -5429,7 +5429,7 @@
     ],
     [
       "This level has a <co>high object</c> count and can be <cr>unstable</c> on some devices. This may effect <cg>performance</c>, <cl>load time</c> etc.",
-      "Este Mapa tiene una cantidad alta de <co>Objectos Altos</c> y puede ser <cr>inestable</c> en algunos dispositivos. Esto puede afectar el <cg>rendimiento</c>, <cl>el tiempo de carga</c>, entre otros."
+      "Este Nivel tiene una cantidad alta de <co>Objectos Altos</c> y puede ser <cr>inestable</c> en algunos dispositivos. Esto puede afectar el <cg>rendimiento</c>, <cl>el tiempo de carga</c>, entre otros."
     ],
     [
       "Play",
