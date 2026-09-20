@@ -523,12 +523,160 @@
     [
       "Hold to Dash",
       "Presionar para Dash!"
+    ],
+    [
+      "Paid",
+      "Pago"
+    ],
+    [
+      "Online",
+      "En Linea"
+    ],
+    [
+      "Bugfix",
+      "Arreglos"
+    ],
+    [
+      "Not Installed",
+      "No Instalado"
+    ],
+    [
+      "No tags found",
+      "No se encontraron etiquetas"
+    ],
+    [
+      "Settings for %s",
+      "Configuracion para %s"
+    ],
+    [
+      "Settings for",
+      "Configuracion para"
+    ],
+    [
+      "Open Mods Folder",
+      "Abrir Carpeta de Mods"
+    ],
+    [
+      "Copy Mods List",
+      "Copiar Lista de Mods"
+    ],
+    [
+      "Install From File",
+      "Instalar Desde un Archivo"
+    ],
+    [
+      "Check For Updates",
+      "Verificar Actualizaciones"
+    ],
+    [
+      "Disable Crash Popup",
+      "Desactivar Ventana de Error"
+    ],
+    [
+      "Used Theme",
+      "Tema Usado"
+    ],
+    [
+      "Open Mods Folder",
+      "Abrir Carpeta de Mods"
+    ],
+    [
+      "Expand Installed Mods List",
+      "Expandir Lista de Mods Instalados"
+    ],
+    [
+      "Developer Settings",
+      "Configuracion de Desarrollador"
+    ],
+    [
+      "Show Platform Console",
+      "Mostrar Consola de Plataforma"
+    ],
+    [
+      "Show Restart Button",
+      "Mostrar Boton de Reinicio"
+    ],
+    [
+      "Console Log Level",
+      "Nivel de Registro de Consola"
+    ],
+    [
+      "File Log Level",
+      "Nivel de Registro de Archivo"
+    ],
+    [
+      "Log Retention Period",
+      "Periodo de Retencion de Registros"
+    ],
+    [
+      "Log Milliseconds",
+      "Mostrar Milisegundos en Registros"
+    ],
+    [
+      "Log Thread",
+      "Mostrar Hilo de Registro"
+    ],
+    [
+      "Verbose Curl Logs",
+      "Registros Detallados de Curl"
+    ],
+    [
+      "Web DNS Server",
+      "Servidor DNS Web"
+    ],
+    [
+      "Custom Web DNS Server(s)",
+      "Servidor DNS Web Personalizado"
+    ],
+    [
+      "Server Cache Size Limit",
+      "Límite de Alcance del Cache del Servidor"
+    ],
+    [
+      "Reset All",
+      "Reiniciar Todo"
+    ],
+    [
+      "Search settings",
+      "Buscar configuraciones"
+    ],
+    [
+      "These are settings for the Geode Mod Loader, NOT for mods. To edit",
+      "Estas son configuraciones para el Geode Mod Loader, NO para mods. Para editar"
+    ],
+    [
+      "settings for mods, press View on the mod and then the settings button in",
+      "las configuraciones para mods, presiona Ver en el mod y luego el botón de configuración en"
+    ],
+    [
+      "the bottom left of the popup.",
+      "en la parte inferior izquierda de la ventana emergente."
     ]
   ],
   "Popups": [
     [
       "Account",
       "Cuenta"
+    ],
+    [
+      "Accept",
+      "Aceptar"
+    ],
+    [
+      "Friend Request",
+      "Solicitud de Amistad"
+    ],
+    [
+      "From: %s",
+      "De: %s"
+    ],
+    [
+      "Are you sure you want to <cr>delete</c> the selected <cg>requests</c>?",
+      "Estas seguro de querer <cr>eliminar</c> las <cg>solicitudes</c> seleccionadas?"
+    ],
+    [
+      "No resquests selected.",
+      "No se han seleccionado solicitudes."
     ],
     [
       "How To Play",
