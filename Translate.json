@@ -6083,11 +6083,11 @@
   "SHOP_004": [
     [
       "I'm in the middle of a job.",
-      "Estoy en medio de un trabajo."
+      "Estoy en medio de un trabajo,"
     ],
     [
       "Come back later.",
-      "Vuelve luego."
+      "retorna al rato."
     ],
     [
       "<cl>Can never get any peace and quiet in this game...</c>",
@@ -6107,7 +6107,7 @@
     ],
     [
       "<cl>Hmm so if I push here<d010>.<d010>.<d010>.<d040> maybe...</c>",
-      "<cl>Mmm, asi que si presiono aquí<d010>.<d010>.<d010>.<d040> tal vez...</c>"
+      "<cl>Mmm, asi que si presiono aqui<d010>.<d010>.<d010>.<d040> Mhmm tal vez...</c>"
     ],
     [
       "<cl>No, still broken...</c>",
