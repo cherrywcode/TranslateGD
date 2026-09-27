@@ -5935,7 +5935,7 @@
   "SHOP_001": [
     [
       "The Shopkeeper",
-      "El Tendero"
+      "El Comerciante"
     ],
     [
       "Zolguroth",
@@ -5963,7 +5963,7 @@
     ],
     [
       "I'm <co>warning</c> you!",
-      "Te lo <co>advierto</c>!",
+      "TE LO <co>ADVIERTO</c>!",
       "Shop_001_05.mp3"
     ],
     [
@@ -5978,7 +5978,7 @@
     ],
     [
       "Just... just <cr>STOP</c> tapping and it will be fine!",
-      "Simplemente solo <cr>deja</c> de tocar y todo estara bien!",
+      "Simplemente <cr>deja</c> de tocar y todo saldra bien!",
       "Shop_001_08.mp3"
     ],
     [
@@ -6017,23 +6017,33 @@
     ],
     [
       "Hey, Welcome back!",
-      "Hey, Bienvenido de vuelta!"
+      "Hey, Bienvenido de vuelta!",
+      "Shop_001_15.mp3"
     ],
     [
       "Sorry, I think I fell asleep earlier. <d030>Did I miss something?",
-      "Disculpa, me quede dormido. <d030> Me perdi de algo?"
+      "Disculpa, me quede dormido. <d030> Me perdi de algo?",
+      "Shop_001_16.mp3"
     ],
     [
       "<cl>Oh yea!</c> Someone left this <cg>package</c> here for you.",
-      "<cl>Por cierto</c>, Alguien dejo este <cg>paquete</c> para ti."
+      "<cl>Por cierto</c>, Alguien dejo este <cg>paquete</c> para ti.",
+      "Shop_001_17.mp3"
     ],
     [
       "Who is<d030> <cr>Zolguroth</c>?",
-      "Quien es<d030> <cr>Solgurot</c>?"
+      "Quien es<d030> <cr>Solgurot</c>?",
+      "Shop_001_18.mp3"
     ],
     [
       "<cl>I really need to get that thing checked.<d030>.<d030>.</c>",
-      "<cl>Necesito que revisen esa cosa.<d030>.<d030>.</c>"
+      "<cl>Necesito que revisen esa cosa.<d030>.<d030>.</c>",
+      "Shop_001_19.mp3"
+    ],
+    [
+      "Can I help you?",
+      "En fin... <cg>Necesitas algo?</c>",
+      "Shop_001_20.mp3"
     ]
   ],
   "SHOP_003": [
