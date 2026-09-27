@@ -6080,6 +6080,40 @@
       "<d010>.<d010>.<d010>.<d050> Suena bastante simple."
     ]
   ],
+  "SHOP_004": [
+    [
+      "I'm in the middle of a job.",
+      "Estoy en medio de un trabajo."
+    ],
+    [
+      "Come back later.",
+      "Vuelve luego."
+    ],
+    [
+      "<cl>Can never get any peace and quiet in this game...</c>",
+      "<cl>Nunca se puede tener un poco de paz y tranquilidad en este juego...</c>"
+    ],
+    [
+      "<co>You again!? What now!?</c>",
+      "<co>Otra vez tu!? Y ahora que!?</c>"
+    ],
+    [
+      "I'm busy go bother someone else.",
+      "Estoy ocupado, ve a molestar a otro."
+    ],
+    [
+      "<cl>You take one job then all of a sudden you're bugfixing the whole game.</c>",
+      "<cl>Tomas un trabajo y de repente estas arreglando todo el juego.</c>"
+    ],
+    [
+      "<cl>Hmm so if I push here<d010>.<d010>.<d010>.<d040> maybe...</c>",
+      "<cl>Mmm, asi que si presiono aquí<d010>.<d010>.<d010>.<d040> tal vez...</c>"
+    ],
+    [
+      "<cl>No, still broken...</c>",
+      "<cl>No, todavia roto...</c>"
+    ]
+  ],
   "THE_TOWER": [
     [
       "Where do you <cl>think</c> you're going?",
